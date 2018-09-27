@@ -29,6 +29,17 @@
         <moduleRef key="textstructure" except="div1 div2 div3 div4 div5 div6 div7"/>
         <moduleRef key="transcr" include=""/>
         <moduleRef key="namesdates" include="persName placeName orgName roleName personGrp geo affiliation age birth death education nationality location relation occupation person place org state"/>
+        <!--make xml_:id required on person and place-->
+        <elementSpec ident="place" module="namesdates" mode="change">
+          <attList>
+            <attDef ident="xml:id" mode="change" usage="req"></attDef>
+          </attList>
+        </elementSpec>
+        <elementSpec ident="person" module="namesdates" mode="change">
+          <attList>
+            <attDef ident="xml:id" mode="change" usage="req"></attDef>
+          </attList>
+        </elementSpec>
         <!--make @ref attribute required on <persName>, <placeName>, <orgName>, and <rs>-->
         <elementSpec ident="persName" module="namesdates" mode="change">
           <attList>
@@ -48,7 +59,8 @@
         <!--closed list on @type of <rs>-->
         <elementSpec ident="rs" mode="change" module="core">
           <attList>
-            <attDef ident="type" mode="replace">
+            <attDef ident="ref" mode="change" usage="req"></attDef>
+            <attDef ident="type" mode="replace" usage="req">
               <datatype>
                 <dataRef key="teidata.enumerated"/>
               </datatype>
