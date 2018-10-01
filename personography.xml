@@ -15,36 +15,37 @@
       </fileDesc>
      <profileDesc>
         <particDesc>
-           <!--I would include a <listPerson> here but the validator keeps screaming at me ;___; -->
-              <person xml:id="SuzanneRaybuck">
-                    <persName ref="what">Suzanne Raybuck</persName>
-                    <affiliation from="2018-08-10" to-custom="current">Florida State Office of Digital Research and Scholarship</affiliation>
-                    <affiliation from="2018-04-20" to-custom="current">Covalent Reality</affiliation>
-                    <affiliation from="2017-05-15" to-custom="current">FSU Presidential Scholars</affiliation>
-                    <affiliation from="2018-05-20" to="2018-08-17">RLCS Computer Repair</affiliation>
-                    <age unit="years">19</age>
-                    <birth when="1999-02-27">February 27th 1999</birth>
-                    <education when="2017-05-15">High School Diploma and International Baccalaureate Diploma from Allen D. Nease Senior High School in Ponte Vedra, Florida</education>
-                    <education from="2017-08-20" to-custom="current">Currently pursuing Dual Degrees in Information Technology and Humanities at FSU</education>
-                    <nationality ana="has no other citizenships">American citizen</nationality>
-                    <!--now the validator is upset that there isnt a <listPerson>-->
-                    <relation  ana="twin brother">Ben Raybuck</relation>
-                    <occupation>Full-time student, part time intern at Covalent Reality and Office of Digital Research and Scholarship</occupation>
-                    <!--here is where I gave up on trying to make the validator happy-->
-                    <state cert="medium">currently has a cold</state>
-               </person>
-               
-               <place>
-                  <placeName ref="man i dont know">Tallahassee Chuy's</placeName>
-                  <location xml:id="ChuysAddress" synch="ChuysCoordinates">904 E Lafayette St, Tallahassee, FL 32301</location>
-                  <geo xml:id="ChuysCoordinates" synch="ChuysAddress" >30.4372493 N, -84.2707665 W</geo>
-               </place>
+            <p>text text text</p>    
         </particDesc>
      </profileDesc>
   </teiHeader>
   <text>
       <body>
-         <p>stuff goes here</p>
+         <listPerson>
+            <person xml:id="SuzanneRaybuck">
+               <persName ref="what">Suzanne Raybuck</persName>
+               <affiliation from="2018-08-10" to-custom="current">Florida State Office of Digital Research and Scholarship</affiliation>
+               <affiliation from="2018-04-20" to-custom="current">Covalent Reality</affiliation>
+               <affiliation from="2017-05-15" to-custom="current">FSU Presidential Scholars</affiliation>
+               <affiliation from="2018-05-20" to="2018-08-17">RLCS Computer Repair</affiliation>
+               <age unit="years">19</age>
+               <birth when="1999-02-27">February 27th 1999</birth>
+               <education when="2017-05-15">High School Diploma and International Baccalaureate Diploma from Allen D. Nease Senior High School in Ponte Vedra, Florida</education>
+               <education from="2017-08-20" to-custom="current">Currently pursuing Dual Degrees in Information Technology and Humanities at FSU</education>
+               <nationality ana="has no other citizenships">American citizen</nationality>
+               <occupation>Full-time student, part time intern at Covalent Reality and Office of Digital Research and Scholarship</occupation>
+               <state cert="medium"><desc>currently has a cold</desc></state>
+            </person>
+            <listRelation>
+               <relation  ana="twin brother"><desc>Ben Raybuck</desc></relation>
+            </listRelation>
+         </listPerson>
+         <listPlace>
+            <place xml:id="Chuys">
+               <placeName  ref="man i dont know">Tallahassee Chuy's</placeName>
+               <location xml:id="ChuysAddress" synch="ChuysCoordinates"><address><addrLine>904 E Lafayette St,</addrLine><addrLine>Tallahassee, FL 32301</addrLine></address><geo xml:id="ChuysCoordinates" synch="ChuysAddress" >30.4372493 N, -84.2707665 W</geo></location>
+            </place>
+         </listPlace> 
       </body>
   </text>
 </TEI>
