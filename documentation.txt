@@ -1,0 +1,39 @@
+DOCUMENTATION
+
+STRUCTURE
+
+Title of the newsletters will be contained by a <head>
+Volume information will be contained by an <ab> with a <num> with @type="volume" and @value set to whatever volume it is
+Issue information will be contained by an <ab> with a <num> with @type="issue" and @value set to whatever issue it is
+Date information will be contained by an <ab> with a <date> with @when set to the date it is
+
+
+ELEMENTS
+ab
+  any series of sentences in an article that is less than 2 sentences, such as the lead or transmission information, will be contained by an anonymous block
+p
+  any series of sentences in an article that is more than 2 lines will be contained by a <p>
+
+persName
+  ref attribute naming convention:
+    camelcase with middle initial if available
+    #SuzanneMRaybuck
+    if middle initial not available then omit
+    #SuzanneRaybuck
+
+placeName
+  placeName will be used for all major locations referenced in the newsletter including but not limited to: cities and bases
+  ref attribute naming convention:
+    camelcase of city/main location with caps abbreviations afterwards
+    two caps after the main location name are understood to be states in USA
+    #GlennFallsNY
+    three caps after the main location name are 3-letter country codes (ISO 3166-1 alpha-3 codes https://en.wikipedia.org/wiki/ISO_3166-1_alpha-3#Officially_assigned_code_elements)
+    #SydneyAUS
+    if a place has punctuation in the official spelling of its name, the punctuation will be omitted
+    #StPaulMN
+
+orgName
+  ref attribute naming convention:
+    camelcase official organization name
+    #UnitedStatesNavy
+    #OfficeOfDigitalResearchAndScholarship
