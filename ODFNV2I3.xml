@@ -26,7 +26,7 @@
                <date when="1957-04-26">April 26, 1957</date>
             </ab>
          </div>
-         <div type="article">
+         <div type="article" subtype="LittleAmerica">
             <ab><placeName ref="#LittleAmerica">LITTLE AMERICA</placeName> -- The major portion of
                the non-sectarian Easter sunrise service at Little America was dedication of the New
                Richard E. Byrd chapel.</ab>
@@ -54,14 +54,14 @@
                dossal hanging behind the altar is of heavy blue velour extending from the arching
                ceiling to the deck. Flanking the dossal are white woolen panels reaching to the
                curving walls. The deck is soft green polished tile. The entire chancel area is
-               illuminated by concealed overhead floodlights. </p>
+               illuminated by concealed overhead floodlights.</p>
             <lb/>
             <p>The nave is fitted with hand-hewn pews containing built-in kneelers and screens in
                front of the first pew on each side. All woodwork is stained mahogany. The center
                aisle and the area between the pew screens and chancel is green vinyl tile with an
                inlaid cross of white tile centered in the aisle. Remainder of the deck is battleship
                green linoleum. Interior walls are light green with dark olive green framework. The
-               chapel will seat approximately 40. </p>
+               chapel will seat approximately 40.</p>
             <lb/>
             <p> Skilled cabinet maker <persName ref="#JohnEReilly">John E. Reilly</persName>,
                builder 1/c, of <placeName ref="#NewOrleansLA">New Orleans</placeName>, assisted by
@@ -74,13 +74,79 @@
                   Gudmunson</persName>, chief builder, of <placeName ref="#StPaulMN">St. Paul,
                   Minn</placeName>. Many other volunteers participated in the construction. All at
                Little America believe <persName ref="#RichardEByrd">Admiral Byrd</persName> would be
-               pleased and proud to know that this chapel bears his name. </p>
+               pleased and proud to know that this chapel bears his name.</p>
             <lb/>
             <ab>(All news items from Little America are prepared by <persName ref="#JohnEZoller"
                   >Chaplain John E. Zoller</persName>, Lt., <orgName ref="#UnitedStatesNavy"
                   >USN</orgName>, of <placeName ref="ShelbyMI">Shelby, Mich</placeName>.)</ab>
             <ab>(Page <num type="page" value="1">1</num>)</ab>
-            <pb facs="PLACEHOLDER" n="1"/>
+         </div>
+         <pb facs="PLACEHOLDER" n="1"/>
+         <div type="article" subtype="NafMcMurdo">
+            <p><placeName ref="#NafMcMurdo">NAF MCMURDO</placeName> -- This station played host to
+               New Zealanders on Easter Sunday. Eighteen men from the <placeName
+                  ref="#NewZealandScott">New Zealand Scott</placeName> base, with their leader
+                  <persName ref="#EdmundHillary">Sir Edmund Hillary</persName> of Mt. Everest fame,
+               accepted an invitation to Easter dinner and joined U.S. personnel at divine
+               services.</p>
+            <p> The chapel, "Our Lady of the Snows," was appropriately decorated with artificial
+               Easter lilies. Catholic mass and Benediction of the Blessed Sacrament was offered by
+                  <persName ref="#LeonSDarkowski">Father Leon S. Darkowski</persName> of <placeName
+                  ref="#PittsburghPA">Pittsburgh, Pa.</placeName> Protestant services were held by
+               lay leader <persName ref="#RobertHWakeman">Robert H. Wakeman</persName>, radioman
+               2/c. of <placeName ref="#WaltonNY">Walton, N. Y.</placeName>, with <persName
+                  ref="#DonaldCHauck">Lt. Donald C. Hauck</persName>, DC, of <placeName
+                  ref="#KandiyottMN">Kandiyott, Minn.</placeName>, at the organ.</p>
+            <p>Other activities included attendance at movies, a hi-fi concert featuring Handel's
+               "Messiah," and competitive games in the recreation hall. The guests expressed
+               appreciation for the hospitality and invited McMurdo personnel to visit Scott Base.
+               The U.S. and New Zealand bases are two miles apart. Much good will has been promoted
+               through this exchange of social courtesies.</p>
+         </div>
+         <div type="article">
+            <p>AROUND THE BASES -- <placeName ref="#NafMcMurdo">NAF MCMURDO</placeName>: Ground
+               Control Approach (flight radar) equipment has been disassembled for maintenance. Ice
+               runway in good condition. . . . . . <placeName ref="#SouthPole">SOUTH
+                  POLE</placeName>: Eight by twelve foot shell for glaciology laboratory has been
+               completed. Two Rawinsonde observations (radar tracking of weather balloons) have been
+               made daily since <date when="1957-04-15">April 15</date> . . . . . <placeName
+                  ref="#ByrdStation">BYRD STATION</placeName>: Tunnel was partially collapsed due to
+               the weight of a snow drift . . . . . <placeName ref="#WilkesStation">WILKES
+                  STATION</placeName>: Highly successful voice radio contact has been made with
+                  <placeName ref="LittleAmerica">Little America</placeName>.</p>
+         </div>
+         <div type="article" subtype="WilkesStation">
+            <p>WILKES STATION -- (<date when="1957-04-22">April 22</date>) -- Easy access to the
+               icecap and good surface for 50 miles inland indicate ideal conditions for extensive
+               traverse from this station. The traverse as projected would provide geophysical and
+               geographical studies over one of the greatest unexplored regions of Antarctica.</p>
+            <p>The proposed trail is from Wilkes along the 110th East Meridian. The primary
+               advantage of this route is the presence of fixed stations at the ends and middle of
+               the trail to provide control for scientific observations.</p>
+            <p>It is proposed the trail operations will begin in late November, using a D-4
+               Caterpillar tractor and "weasels," with a second D-4 for partial support. The D-4
+               proved effective here pulling 20 tons to the satellite station in land at 4,000 foot
+               elevation.</p>
+            <ab>Seismic shots, magnetic observations, and glaciological studies are contemplated at
+               intervals of 50 to 75 miles, with gravity and surface meteorological observations at
+               10-mil intervals.</ab>
+         </div>
+         <div type="article" subtype="LittleAmerica">
+            <p><placeName ref="#LittleAmerica">LITTLE AMERICA</placeName> -- Champion "pole sitter"
+               at <placeName ref="#LittleAmerica">Little America</placeName> is <persName
+                  ref="#JohnKieffer">John Kieffer</persName>, electronics technical 3/c, of
+                  <placeName ref="#NapaCA">Napa, Calif</placeName>. A volunteer to climb antenna
+               poles to install insulators and wire, <persName
+                  ref="#JohnKieffer">Kieffer's</persName> conquest of nearly fifty poles makes
+               him undisputed champ.</p>
+            <p>Perched atop a pole in minutes fifty degrees weather, buffeted by bitter winds, and
+               clumsy in heavy Antarctic clothing, the job is no picnic. Every possible safety
+               precaution including spurs, safety belt and boatswain's chair is used.</p>
+            <p><persName
+               ref="#JohnKieffer">Kieffer</persName> is an old hand at climbing. Before enlisting he had his own set of spurs and
+               cleared fire breaks in the forest of his family's property.</p>
+            <ab>(Page <num type="page" value="2">2</num>)</ab>
+            <pb facs="PLACEHOLDER" n="2"/>
          </div>
       </body>
    </text>

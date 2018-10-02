@@ -6,13 +6,20 @@ Title of the newsletters will be contained by a <head>
 Volume information will be contained by an <ab> with a <num> with @type="volume" and @value set to whatever volume it is
 Issue information will be contained by an <ab> with a <num> with @type="issue" and @value set to whatever issue it is
 Date information will be contained by an <ab> with a <date> with @when set to the date it is
-
+Articles and content will be contained by <ab> and <p>
+Structure of editorial content is yet to be determined
 
 ELEMENTS
 ab
   any series of sentences in an article that is less than 2 sentences, such as the lead or transmission information, will be contained by an anonymous block
 p
   any series of sentences in an article that is more than 2 lines will be contained by a <p>
+
+div
+  @type used to describe generic type of content contained by div such as "article" or "nameplate"
+  <div type="article">
+  @subtype is optional and used to describe specific topic of article or other content. This will be most frequently used to identify which base the article is on such as Little America of Naf McMurdo
+  <div type="article" subtype="LittleAmerica">
 
 persName
   ref attribute naming convention:
@@ -31,6 +38,9 @@ placeName
     #SydneyAUS
     if a place has punctuation in the official spelling of its name, the punctuation will be omitted
     #StPaulMN
+    bases will not have capital letters after base name 
+    #NafMcMurdo
+    #LittleAmerica
 
 orgName
   ref attribute naming convention:
