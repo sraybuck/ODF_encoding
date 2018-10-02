@@ -82,8 +82,8 @@
             <ab>(Page <num type="page" value="1">1</num>)</ab>
          </div>
          <pb facs="PLACEHOLDER" n="1"/>
-         <div type="article" subtype="NafMcMurdo">
-            <p><placeName ref="#NafMcMurdo">NAF MCMURDO</placeName> -- This station played host to
+         <div type="article" subtype="NAFMcMurdo">
+            <p><placeName ref="#NAFMcMurdo">NAF MCMURDO</placeName> -- This station played host to
                New Zealanders on Easter Sunday. Eighteen men from the <placeName
                   ref="#NewZealandScott">New Zealand Scott</placeName> base, with their leader
                   <persName ref="#EdmundHillary">Sir Edmund Hillary</persName> of Mt. Everest fame,
