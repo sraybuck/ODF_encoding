@@ -120,10 +120,11 @@
             <lb/>
          </div>
          <div type="article" subtype="WilkesStation">
-            <p><placeName ref="#WilkesStation">WILKES STATION</placeName> -- (<date when="1957-04-22">April 22</date>) -- Easy access to the
-               icecap and good surface for 50 miles inland indicate ideal conditions for extensive
-               traverse from this station. The traverse as projected would provide geophysical and
-               geographical studies over one of the greatest unexplored regions of Antarctica.</p>
+            <p><placeName ref="#WilkesStation">WILKES STATION</placeName> -- (<date
+                  when="1957-04-22">April 22</date>) -- Easy access to the icecap and good surface
+               for 50 miles inland indicate ideal conditions for extensive traverse from this
+               station. The traverse as projected would provide geophysical and geographical studies
+               over one of the greatest unexplored regions of Antarctica.</p>
             <lb/>
             <p>The proposed trail is from Wilkes along the 110th East Meridian. The primary
                advantage of this route is the presence of fixed stations at the ends and middle of
@@ -169,12 +170,12 @@
             <lb/>
          </div>
          <div type="article" subtype="LittleAmerica">
-            <p><placeName ref="#LittleAmerica">LITTLE AMERICA</placeName> -- Intense cold plays strange tricks on outdoor workers. Dropping into
-               the minus fifties, the chill factor is vastly increased by sharp winds. <persName
-                  ref="#RichardHills">Richard Hills</persName>, photographer 2/c, of <placeName
-                  ref="#FayetteAL">Fayette, Ala.</placeName>, after taking pictures atop a fuel
-               tank, jumped off only to discover he couldn't bend his knees. His cold weather
-               trousers had frozen stiff.</p>
+            <p><placeName ref="#LittleAmerica">LITTLE AMERICA</placeName> -- Intense cold plays
+               strange tricks on outdoor workers. Dropping into the minus fifties, the chill factor
+               is vastly increased by sharp winds. <persName ref="#RichardHills">Richard
+                  Hills</persName>, photographer 2/c, of <placeName ref="#FayetteAL">Fayette,
+                  Ala.</placeName>, after taking pictures atop a fuel tank, jumped off only to
+               discover he couldn't bend his knees. His cold weather trousers had frozen stiff.</p>
             <lb/>
             <p>Freezing of a more disturbing nature was encountered by <persName ref="#JackCRees"
                   >Jack. C Rees</persName>, construction driver 2/c, of <placeName
@@ -247,6 +248,62 @@
                operators between the States and Antarctica. Inquiry should be made of your local Red
                Cross representative for complete details.</p>
             <lb/>
+            <p><placeName ref="#LittleAmerica">LITTLE AMERICA</placeName> -- The last of the
+               Mohicans has been discovered at <placeName ref="#LittleAmerica">Little
+                  America</placeName>. All hands hardly believed what they saw at breakfast the
+               other day. Some shook their heads; others rubbed their eyes; all were bewildered.</p>
+            <lb/>
+            <p>In the mess hall were what appeared to be half a dozen Indians. The striking feature
+               was the unusual haircut. Each "Indian" had a two-inch crew-cut strip extending from
+               the center of his forehead, back across his head top and tapering to a point at the
+               base of his neck. All other hair was removed.</p>
+            <lb/>
+            <p>The tribal affiliation is unknown, but it's suspected that they may be the last of
+               the Mohicans. Much good natured joking and critical observations were made about the
+               shape of the heads, bumps, knots and skin texture. There was also some speculation as
+               to whether the hair will return. The "Indians" unanimously hope it will.</p>
+            <lb/>
+            <p>A few new phrases were added to the camp vocabulary, including, "ugh" and "how." It
+               was suggested that the aurora-sky watch be alert for smoke signals on the horizon. </p>
+            <lb/>
+            <p>When asked why such unusual haircuts, <persName ref="#RobertWAnderson">Robert W.
+                  Anderson</persName>, electronics technician 3/c, of White City, Kan., explained
+               "This helps us observe a rule of the Antarctic. Never panic--always keep a cool
+               head." He explained that one unexpected problem that has developed is placing your
+               head on the pillow in such a fashion as to prevent it from sliding off during
+               sleep.</p>
+            <lb/>
+            <p>Other "Indians" are <persName ref="#CharlesMDarter">Charles M. Darter</persName>,
+               chief construction driver, of <placeName ref="#AustinTX">Austin, Texas</placeName>;
+                  <persName ref="#KennethAElliot">Kenneth A. Elliot</persName>, construction driver
+               1/c of <placeName ref="#FortSmithAR">Fort Smith, Ark.</placeName>; <persName
+                  ref="#StevenMuniz">Steven Muniz</persName>, construction driver 2/c, of <placeName
+                  ref="#SugarCityCO">Sugar City, Colo</placeName>.; and <persName
+                  ref="#JohnAHricsina">John A. Hricsina</persName>, constructionman of <placeName
+                  ref="#FranklinPA">Franklin, Pa.</placeName></p>
+            <lb/>
+            <ab><placeName ref="#NAFMcMurdo">NAF MCMURDO</placeName> -- (<date when="1957-04-24"
+                  >April 24</date>) -- A new Antarctic record has been set by Navy aerologists at
+               this station.</ab>
+            <lb/>
+            <p>A radiosonde balloon (for recording temperature, air pressure and humidity, plus wind
+               direction and velocity) sent aloft at 10 minutes past noon remained airborne and was
+               tracked until 4:11 p.m., when the signal faded due to battery failure.</p>
+            <lb/>
+            <p>The balloon rose to a record 96,276 feet. Temperature at this altitude was minus 87.7
+               degrees F. The balloon was 70 miles form the station.</p>
+            <lb/>
+            <p> The weather equipment was sent up by <persName ref="#ElmerAErdie">Elmer A
+                  Erdie</persName>, aerographer's mate 1/c, of <placeName ref="#BuffaloNY">Buffalo,
+                  N.Y.</placeName>, and <persName ref="#RonaldWPalmer">Ronald W. Palmer</persName>,
+               aerographer's mate 2/c, of <placeName ref="#SeattleWA">Seattle, Wash.</placeName>
+               <persName ref="#PalmerCreacy">Palmer</persName> and <persName ref="#AvrilTCreacy"
+                  >Avril T. Creacy</persName>, aerographer's mate 3/c, of <placeName
+                  ref="#GatesvilleTX">Gatesville, Texas</placeName>,</p>
+            <lb/>
+            <ab>(continued next page) (Page <num type="page" value="4">4</num>)</ab>
+            <pb facs="PLACEHOLDER" n="4"/>
+
          </div>
       </body>
    </text>
