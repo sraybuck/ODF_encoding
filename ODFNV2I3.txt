@@ -67,7 +67,15 @@ Acceptable: (a) Matters of life or death (b) Matters of personal arrangements or
 
 Not Acceptable: (a) Trivial, indecent or frivilous messages. (b) Holiday or anniversary greetings (c) Messages of unnecessary length (d) Ordinary congratulatory messages (e) Frequent or recurrent messages pertaining to the conduct of a commercial venture. (f) Business solicitations by a commercial enterprise.
 
-How to address telegrams: Man's name, Rate or Rank, Serial or File No.,
+######################################################################
+How to address telegrams: Man's name, Rate or Rank, Serial or File No., and Antarctic Command. Example: John D. Doe, YNI, 000 00 00; NAF McMurdo; ###### Naval Communication Station; Washington 25, D. C.
+
+"Hamgrams" are the type of communication handled by amateur radio operators ################ the slang term for a licensed amateur radio operator. There is no cost #################### passed through amateur radio facilities, other than the cost required
+
+(continued next page)    (Page 3)
+
+to deliver the intended message to the "ham" station operator.
+######################################################################
 
 #cannot read these sections fully, break
 
