@@ -2,7 +2,5 @@
 .DS_Store
 #ignore personography.xml
 personography.xml
-#ignore pdfs of newsletter
-Volume_2_Issue_3/
 #ignore digitizations folder
 digitizations
