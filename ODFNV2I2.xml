@@ -214,20 +214,28 @@
             <lb/>
             <p>Patterned after the federal government of big America, the Little America special
                services also includes a cabinet, supreme court and president. The cabinet is
-               composed of five appointed persons headed by Special Services Officer LCDR R. E.
-               Hancock, SC, USN, of Alexandria, Va. Others are Chaplain Zoller, Medical Officer Lt.
-               Unger, and VX-6 member Lt. R. G. Anderson of Alameda, Calif. The Supreme Court has
-               three justices: Chief Justice is LCDR H. J. Orndorff, USNR, of Nutterfort, W. Va.,
-               Officer in Charge of Little America; LCDR J. E. Waldron Jr., USNR, of New Orleans,
-               La., Officer in Charge of VX-6; and A. P. Grary, Deputy Chief Scientist, of Oakford,
-               Pa. Purpose of the supreme court is to provide counsel of command heads in matters
-               pertaining to the general good and order and to approve or disapprove recommendations
-               and initiate action corresponding that which the commanding officer would make.</p>
+               composed of five appointed persons headed by Special Services Officer LCDR <persName
+                  ref="#RichardEHancock">R. E. Hancock</persName>, SC, USN, of <placeName
+                  ref="#AlexandriaVA">Alexandria, Va.</placeName> Others are <persName
+                  ref="#JohnEZoller">Chaplain Zoller</persName>, Medical Officer <persName
+                  ref="#PatBUnger">Lt. Unger</persName>, and VX-6 member Lt. <persName
+                  ref="#RobertGAnderson">R. G. Anderson</persName> of <placeName ref="#AlamedaCA"
+                  >Alameda, Calif</placeName>. The Supreme Court has three justices: Chief Justice
+               is LCDR <persName ref="#HJOrndorff">H. J. Orndorff</persName>, USNR, of <placeName
+                  ref="#NutterfortWV">Nutterfort, W. Va.</placeName>, Officer in Charge of Little
+               America; LCDR <persName ref="#WJEWaldron">J. E. Waldron Jr.</persName>, USNR, of
+                  <placeName ref="#NewOrleansLA">New Orleans, La.</placeName>, Officer in Charge of
+               VX-6; and <persName ref="#APGrary">A. P. Grary</persName>, Deputy Chief Scientist, of
+                  <placeName ref="#OakfordPA">Oakford, Pa</placeName>. Purpose of the supreme court
+               is to provide counsel of command heads in matters pertaining to the general good and
+               order and to approve or disapprove recommendations and initiate action corresponding
+               that which the commanding officer would make.</p>
             <lb/>
-            <p>The President is Capt. W. M. Dickey, USN, of Rusk, Tex., Commander Naval Support
-               Units, Antarctica. He reviews all acts of the lower bodies. In a small way, with
-               certain modifications, special services operates as a miniature American government.
-               It stimulates interest and provides good training in democracy.</p>
+            <p>The President is <persName ref="#WMDickey">Capt. W. M. Dickey</persName>, USN, of
+               <placeName ref="#RuskTX">Rusk, Tex.</placeName>, Commander Naval Support Units, Antarctica. He reviews all acts of the
+               lower bodies. In a small way, with certain modifications, special services operates
+               as a miniature American government. It stimulates interest and provides good training
+               in democracy.</p>
             <lb/>
             <ab><num type="page" value="3">3</num></ab>
             <pb facs="PLACEHOLDER" n="3"/>
