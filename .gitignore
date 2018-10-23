@@ -1,6 +1,2 @@
 # Ignore Mac DS_Store files
 .DS_Store
-#ignore personography.xml
-personography.xml
-#ignore digitizations folder
-digitizations
