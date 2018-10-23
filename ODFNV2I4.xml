@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="out/AntarcticDraft.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="nameplate">
+            <head>Operation Deep Freeze Newsletter</head>
+            <lb/>
+            <ab><num type="volume" value="2">Vol. II,</num>
+               <num type="issue" value="3">No. 4</num>
+               <date when="1957-05-03">May 3, 1957</date></ab>
+            <lb/>
+         </div>
+         <div type="article">
+            <p>Man's ever-present curiosity and interest in world affairs shows itself even in the
+               isolated world of Antarctica. At both the <placeName ref="#NAFMcMurdo">MCMURDO
+                  SOUND</placeName> and <placeName ref="#LittleAmerica">LITTLE AMERICA</placeName>
+               bases weekly newspapers are being printed.</p>
+            <lb/>
+            <p>The enthusiastically received "McMurdo News" contains national and international news
+               and station items. There are also a chaplain's corner, "Aerological dartboard"
+               (weather summary), doctor's column, and personality profiles.</p>
+            <lb/>
+            <p>The Little America Publication is called "The Penguin Post." The paper is
+               mimeographed Saturday night and delivered to the barracks and officers' quarters,
+               ready for Sunday morning readers. Stateside papers were never devoured more avidly
+               than these. With no TV or newsreels, only static-punctuated short-wave, and no
+               current U.S. magazines, everyone is parched for news.</p>
+            <lb/>
+            <p>"The Penguin Post" features include "News of the World Beyond US," "News of the World
+               Around Us," (Antarctica), sports, science notes, Man of the Week, weather roundup,
+               chaplain's column, Letters to the Editor, jokes and cartoons, entertainment, and
+               society section (personals). The paper averages eight pages.</p>
+            <lb/>
+            <p>Name for the Little America paper was selected by the local Senate. Wide-spread
+               interest was indicated by the fact that 85 names were submitted for the paper
+               including "Deep Freeze Breeze," "Ice-O-Lated Post," "Crevasse Crier," and "Sastrugi
+               Sayings."</p>
+            <lb/>
+            <p>"Penguin Post" is co-edited by the Navy and IGY men. Editors are <persName
+                  ref="#CalvinLLarson">Calvin L. Larsen</persName>, chief photographer's mate, of
+                  <placeName ref="#CulbertsonMT">Culbertson, Mont.</placeName>, and <persName
+                  ref="#RobertCTaylor">Ronald C. Taylor</persName>, IGY Meteorologist, of <placeName
+                  ref="#SanGabrielCA">San Gabriel, Calif</placeName>. Reporters are <persName
+                  ref="#WilliamFKraut">William F. Kraut</persName>, radioman 1/c, of <placeName
+                  ref="#BridgeportCT">Bridgeport, Conn.</placeName>; <persName ref="#BoydDRussell"
+                  >Boyd D. Russell</persName>, radioman 3/c, of <placeName ref="#FortWorthTX"><choice>
+                     <sic>Forth</sic>
+                     <corr>Fort</corr>
+                  </choice> Worth, Tex.</placeName>; <persName ref="#PaulCDalrymple">Paul C.
+                  Dalrymple</persName>, IGY Glaciologist, of <placeName ref="#CochituateMA"
+                  >Cochituate, Mass.</placeName>; and <persName ref="#BruceJLieske">Bruce J.
+                  Lieske</persName>, IGY Meteorologist, of <placeName ref="#SilverSpringsMD">Silver
+                  Springs, Md</placeName>. <persName ref="#JohnEZoller">Chaplain John E.
+                  Zoller</persName> of <placeName ref="#ShelbyMI">Shelby, Mich.</placeName>, is
+               advisor.</p>
+            <lb/>
+            <p><placeName ref="#LittleAmerica">Little America</placeName> is also considering adding
+               several "foreign correspondents" to the Post staff in the form of "ham" radio
+               operators in various areas of the world.</p>
+         </div>
+         <div type="article">
+            <p>AROUND THE BASES --(<date when="1957-04-30">April 30</date>)--<placeName
+                  ref="#LittleAmerica">Little America</placeName>: A 16 by 20 foot gymnasium has
+               been completed behind the recreation hall. Heaters have been installed in the
+               theatre. Furniture, shelves and cabinets are 20% completed in the library. An R4D of
+               VX-6 has made one local flight. A second flight was aborted when the plane's wing tip
+               dragged at takeoff, causing minor damage....<placeName ref="#NAFMcMurdo"
+                  >NAFMcMurdo</placeName>: Ice runway is in good condition. Ice in channel broken by
+               Glacier has reached a thickness of 40 inches......<placeName ref="ByrdStation">Byrd
+                  Station</placeName>: Tunnel which was partially collapsed by snow has been
+               repaired and strengthened...<placeName ref="WilkesStation">Wilkes
+               Station</placeName>: Minor building damage was sustained when 83-knot winds arched
+               roofs. </p>
+            <lb/>
+         </div>
+         <div type="article" subtype="LittleAmerica">
+            <p><placeName ref="#LittleAmerica">LITTLE AMERICA</placeName>--(<date when="1957-04-29"
+                  >April 29</date>)--The <placeName ref="#LittleAmerica">Little America</placeName>
+               "ham" radio station, KC4USA, made an unusual contact recently. On <date
+                  when="1957-04-14">April 14</date>
+               <persName ref="#CarlOWyman">Carl O. Wyman</persName>, IGY Ionospheric Physicist, of
+                  <placeName ref="#PhiladelphiaPA">Philadelphia</placeName>, received a ham radio
+               phone call from friends <persName ref="#FrankLeeming">Frank</persName> and <persName
+                  ref="#RuthLeeming">Ruth Leeming</persName> of <placeName ref="#RedBankNJ">Red
+                  Bank, N.J.</placeName></p>
+            <lb/>
+            <ab>(<num type="page" value="1">1</num>)</ab>
+            <pb facs="PLACEHOLDER" n="1"/>
+            <p>The unusual feature of the call was that it originated from the <choice>
+                  <sic>Leeming's</sic>
+                  <corr>Leemings'</corr>
+               </choice> 26 foot cabin cruiser at sea off the New Jersey coast. Leeming called a
+               telephone operator via marine radio-telephone; the operator called <persName
+                  ref="#JuliusMJMadey">Julius M. J. Madey</persName>, operator of amateur station
+               K2KGJ in <placeName ref="#ClarkNJ">Clark, N.J.</placeName>; <persName
+                  ref="#JuliusMJMadey">Madey</persName> called <persName ref="#BobbieFGrice">Bobbie
+                  F. Grice</persName>, radioman 1/c, of <placeName ref="#HubbardTX">Hubbard,
+                  Texas</placeName>, who was the radio operator on duty at <placeName
+                  ref="#LittleAmerica">Little America</placeName>; and the radio-telephone contact
+               between Leeming and <persName ref="#CarlOWyman">Wyman</persName> was made
+               complete.</p>
+            <lb/>
+            <p>The "path" was excellent. <persName ref="#CarlOWyman">Wyman</persName> was surprised
+               even for the experienced amateur operator that he is. He bought his first crystal
+               short wave receiver when a boy, and sold newspapers to pay for it.</p>
+            <lb/>
+            <p>In 1926, when in the Marine Corps, he built a ham station in Nicaragua and carried
+               some of the first emergency humanitarian traffic for service personnel. He was
+               communications officer in the Marines, Pacific Theater, during the second World War,
+               and in 1948 he was recalled to Washington for active duty with the Electronic Warfare
+               Program. Since release from active duty as a Lieutenant Colonel in 1955, he has
+               continued ham radio activities. He holds an amateur license number K2VAV.</p>
+            <lb/>
+            <ab>At <placeName ref="#LittleAmerica">Little America</placeName>
+               <persName ref="#CarlOWyman">Wyman</persName> will soon start classes for beginners
+               desiring to learn code and try for a ham operator's license.</ab>
+            <lb/>
+         </div>
+         <div type="article" subtype="ByrdStation">
+            <p><placeName ref="#ByrdStation">BYRD STATION</placeName> --(<date when="1957-04-29"
+                  >April 29</date>)-- At this isolated, inland base, 647 miles west of Little
+               America, the last sunrise of the season was witnessed on Easter Sunday morning.
+               Special messages were sent and received through the courtesy of "ham" radio
+               operators.</p>
+            <lb/>
+            <p>At sunset on Easter Day a tape recording sounded taps and the American flag over Byrd
+               station was hauled down for the Antarctic night. There is now a sense of urgency
+               about completing the remaining outside work during the few remaining weeks of
+               twilight.</p>
+            <lb/>
+         </div>
+         <div type="article" subtype="WilkesStation">
+            <p><placeName ref="WilkesStation">WILKES STATION</placeName>--(<date when="1957-04-30"
+                  >April 30</date>)-- Much activity is centered around the local ladder cribbage
+               tournament. Holding the title within a week were <persName ref="#RudolfAHonkala"
+                  >Rudolf A. Honkala</persName>, IGY Meteorologist, of <placeName ref="#SalisburyNH"
+                  >Salisbury, N. H.</placeName>; <persName ref="#DavidDaniel">David
+                  Daniel</persName>, commissaryman 3/c, of <placeName ref="#FairfieldTX"><choice>
+                     <sic>Fairfiled</sic>
+                     <corr>Fairfield</corr>
+                  </choice>, Texas</placeName>; and <persName ref="#CarolREklund">Carl R.
+                  Eklund</persName>, station scientific leader, of <placeName ref="AtlantaGA"
+                  >Atlanta, Ga.</placeName></p>
+            <lb/>
+            <p><persName ref="#RobertLLong">Robert L. Long, Jr.</persName>, Ionospheric Physicist,
+               of <placeName ref="RochesterNY">Rochester, N.Y.</placeName>, after trying out a ski
+               ride behind three dogs, reported considerable disagreement between where he wanted to
+               go and where the dogs went. <persName ref="#BillieRLilienthal">Billie R.
+                  Lilienthal</persName>, aerographer's, mate 3/c, of <placeName ref="#AshlandNB"
+                  >Ashland, Nebr.</placeName>, has spent his long night watches making slipcovers
+               for our badly soiled lounge chairs.</p>
+            <lb/>
+            <p><persName ref="#SidneyEGreen">Sidney E. Green</persName>, construction driver 3/c, of
+                  <placeName ref="#ColbertWA">Colbert, Wash.</placeName>; <persName
+                  ref="EdwardABousquet">Edward A. Bousquet</persName>, utilitiesman 3/c, of
+                  <placeName ref="#Worcester">Worcester, Mass.</placeName>; <persName
+                  ref="#CarlTBailey">Carl T. Bailey</persName>, Aerographer's mate 3/c, of
+                  <placeName ref="LeeMA">Lee, Mass.</placeName>; and <persName
+                  ref="SheldonWGrinnell">Lt. Sheldon W. Grinnell</persName>, station doctor of
+                  <placeName ref="CarbondaleIL">Carbondale, Ill.</placeName>, have spent Sunday
+               holidays helping Scientific Leader <persName ref="CarlREklund">Eklund</persName> with
+               biological field work.</p>
+            <lb/>
+            <ab><persName ref="#GeorgeEMagee">George E. Magee</persName>, builder 1/c of <placeName
+                  ref="MaldenNY">Malden, N.Y.</placeName>, sidelined from his carpentry with a sore
+               arm, has been spending much of his time operating the amateur radio station. This has
+               helped remove some of the load from <persName ref="#FrederickECharlton">Frederick E.
+                  Charlton</persName>, chief electronics technician, of <placeName ref="#MundieIN"
+                  >Muncie, Ind.</placeName>; <persName ref="#DoinaldLBradford">Donald L.
+                  Bradford</persName>, radioman, 1/c,</ab>
+            <lb/>
+            <ab>(<num type="page" value="2">2</num>)</ab>
+            <pb facs="PLACEHOLDER" n="2"/>
+            <ab>of <placeName ref="#MesaAZ">Mesa, Ariz.</placeName>; <persName
+                  ref="#KennethJHailstorm">Kenneth J. Hailstorm</persName>, radioman 3/c, of Gallup,
+               N.M.; and Garth H. Stonehocker, Ionospheric Physicist, of Portsmouth, Va., who had
+               been hard pressed trying to make "ham" radio contacts for station personnel.</ab>
+            <lb/>
+            <p>Paul A. Wyche, aerographer's mate 1/c, of Macon, Ga., is suffering from a sprained
+               ankle. He twisted it while carrying water out to the balloon release shelter. Gilbert
+               Lewart, IGY Seismologist, of Cloverdale, Calif., has recorded his first earthquake.
+               It came from the area south of Australia.</p>
+            <lb/>
+            <ab>Ralph Glasgal, IGY Auroral Physicist, of New York City, is watching his sleeping
+               hours being cut down as the lengthening nights increase the time he must spend making
+               observations.</ab>
+            <lb/>
+         </div>
+      </body>
+   </text>
+</TEI>
