@@ -109,7 +109,7 @@
          <div type="article">
             <p>AROUND THE BASES -- <placeName ref="#NAFMcMurdo">NAF MCMURDO</placeName>: Ground
                Control Approach (flight radar) equipment has been disassembled for maintenance. Ice
-               runway in good condition. . . . . . <placeName ref="#SouthPole">SOUTH
+               runway in good condition. . . . . . <placeName ref="#SouthPoleStation">SOUTH
                   POLE</placeName>: Eight by twelve foot shell for glaciology laboratory has been
                completed. Two Rawinsonde observations (radar tracking of weather balloons) have been
                made daily since <date when="1957-04-15">April 15</date> . . . . . <placeName
@@ -234,7 +234,7 @@
                messages passed through amateur radio facilities, other than the cost required</ab>
             <lb/>
             <ab>(continued next page) (Page <num type="page" value="3">3</num>)</ab>
-            <pb facs="PLACEHOLDER" n="3"></pb>
+            <pb facs="PLACEHOLDER" n="3"/>
             <ab>to deliver the intended message to the "ham" station operator.</ab>
             <ab>The following address is that of a capable amateur radio operator who has been very
                successful in handling messages to and from Antarctica: <persName ref="#PaulABlum"
@@ -350,10 +350,9 @@
             <lb/>
             <p><persName ref="#JamesLHannah">Hannah</persName>, a Texan, began his Navy career in
                1947. He has been a Seabee electrician during his 10 years of service. His foreign
-               service has included <!--should i use placeName for the places below?--> Alaska,
-               Guam, Cuba, and Africa. Hannah volunteered to come to Antarctica because it would be
-               a new experience, and he is one of several who are considering remaining here another
-               year.</p>
+               service has included Alaska, Guam, Cuba, and Africa. Hannah volunteered to come to
+               Antarctica because it would be a new experience, and he is one of several who are
+               considering remaining here another year.</p>
             <lb/>
          </div>
          <div type="article" subtype="LittleAmerica">
