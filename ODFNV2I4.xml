@@ -188,19 +188,201 @@
             <ab>(<num type="page" value="2">2</num>)</ab>
             <pb facs="PLACEHOLDER" n="2"/>
             <ab>of <placeName ref="#MesaAZ">Mesa, Ariz.</placeName>; <persName
-                  ref="#KennethJHailstorm">Kenneth J. Hailstorm</persName>, radioman 3/c, of Gallup,
-               N.M.; and Garth H. Stonehocker, Ionospheric Physicist, of Portsmouth, Va., who had
-               been hard pressed trying to make "ham" radio contacts for station personnel.</ab>
+                  ref="#KennethJHailstorm">Kenneth J. Hailstorm</persName>, radioman 3/c, of
+                  <placeName ref="#GallupNM">Gallup, N.M.</placeName>; and <persName
+                  ref="#GarthHStonehocker">Garth H. Stonehocker</persName>, Ionospheric Physicist,
+               of <placeName ref="#PortsmouthVA">Portsmouth, Va.</placeName>, who had been hard
+               pressed trying to make "ham" radio contacts for station personnel.</ab>
             <lb/>
-            <p>Paul A. Wyche, aerographer's mate 1/c, of Macon, Ga., is suffering from a sprained
-               ankle. He twisted it while carrying water out to the balloon release shelter. Gilbert
-               Lewart, IGY Seismologist, of Cloverdale, Calif., has recorded his first earthquake.
-               It came from the area south of Australia.</p>
+            <p><persName ref="#PaulAWyche">Paul A. Wyche</persName>, aerographer's mate 1/c, of
+                  <placeName ref="#MaconGA">Macon, Ga.</placeName>, is suffering from a sprained
+               ankle. He twisted it while carrying water out to the balloon release shelter.
+                  <persName ref="#GilbertLewart">Gilbert Lewart</persName>, IGY Seismologist, of
+                  <placeName ref="#CloverdaleCA">Cloverdale, Calif.</placeName>, has recorded his
+               first earthquake. It came from the area south of Australia.</p>
             <lb/>
-            <ab>Ralph Glasgal, IGY Auroral Physicist, of New York City, is watching his sleeping
+            <ab><persName ref="#RalphGlasgal">Ralph Glasgal</persName>, IGY Auroral Physicist, of
+                  <placeName ref="#NewYorkCity">New York City</placeName>, is watching his sleeping
                hours being cut down as the lengthening nights increase the time he must spend making
                observations.</ab>
             <lb/>
+         </div>
+         <div type="article" subtype="LittleAmerica">
+            <p><placeName ref="#LittleAmerica">LITTLE AMERICA</placeName>--(<date when="1957-04-24"
+                  >April 24</date>)--The long night commenced today. Bidding farewell to the sun for
+               the last time until next August, all hands except those on duty assembled near the
+               flagpole at 11:15 in the morning for the appropriate ceremony of lowering the
+               colors.</p>
+            <lb/>
+            <p>In minus 40 degree temperature and with drifted snow casting long purple shadows in
+               the setting sun's almost horizontal orange rays, <persName ref="#BernardFVerboncouer"
+                  >Bernard F. Verboncouer</persName>, cheif quartermaster, of <placeName
+                  ref="#GreenBayWI">Green Bay, Wisc.</placeName>, and <persName
+                  ref="#ArthurWBaldwin">Arthur W. Baldwin</persName>, chief radioman, of <placeName
+                  ref="#HermosaBeachCA">Hermosa Beach, Calif.</placeName>, lowered the
+               blizzard-bitten national ensign at 11:28.</p>
+            <lb/>
+            <ab><persName ref="#JohnEZoller">Lt. John E. Zoller</persName>, Chaplain, of <placeName
+                  ref="#ShelbyMI">Shelby, Mich.</placeName>, offered a prayer of thanksgiving for
+               divine providence and a petition for continued care on behalf of all men of all
+               nations spending the coming winter on teh white continent.</ab>
+            <lb/>
+            <p>After the colors were lowered, <persName ref="#HowardJOrndorff">Lcdr Howard J.
+                  Orndorff</persName>, Officer in Charge of Little America, of <placeName
+                  ref="#NutterfortWV">Nutterfort, W. Va.</placeName>, presented the flag to
+                  <persName ref="#WillieMDickey">Capt. W. Mills Dickey</persName>, Commander of
+               Naval Support Units, Antarctica, of <placeName ref="#RuskTX">Rusk, Texas</placeName>,
+               as a memento from all the station personnel. In accepting the flag, <persName
+                  ref="#WillieMDickey">Capt. Dickey</persName> said, "This is quite an occasion
+               since we will be in the Antarctic only one night. Manana we will be going home. Many
+               thanks for the flag. It is somewhat tattered but very well preserved and frosty with
+               meaning." He then declared the rest of the day "rope yarn Sunday" (Navy terminology
+               for a holdiay).</p>
+            <lb/>
+            <p>Everyone chuckled when the "Orders of the Night" were published (as contrasted with
+               the Navy's standard "Plan of the Day."). Examples of the orders include: "Personnel
+               caught in the habitat of penguins, skua gulls and seals during daylight hours will be
+               punished as a court martial may direct." "Personnel caught casting lights into the
+               sky or in any other way competing with aurora studies shall be guilty of
+               prefabricating auroras and shall be known as aurora specialists.""All liberty has
+               been cancelled for tonight." "These orders will be cancelled automatically upon the
+               next rising of the sun."</p>
+            <lb/>
+            <p>Others in the flag-lowering formation were company commanders <persName
+                  ref="#JamesEWaldron">Lcdr James E. Waldron, Jr.</persName>, of <placeName
+                  ref="#NewOrleansLA">New Orleans</placeName>; <persName ref="#HarveyGSpeed">Lt.
+                  Harvey G. Speed</persName>, of <placeName ref="#NorthMuskegonMI">North Muskegon,
+                  Mich.</placeName>; <persName ref="#RobertKWhite">Lt(jg) Robert K.
+               White</persName>, of <placeName ref="#GlennFallsNY">Glenn Falls, N.Y.</placeName>;
+               and <persName ref="#PeterARaynolds">Lt(jg) Peter A. Raynolds</persName>, of
+                  <placeName ref="#WoodlandHillsCA">Woodland Hills, Calif.</placeName>; and platoon
+               leaders <persName ref="#RobertGAnderson">Lt. Robert G. Anderson</persName> of
+                  <placeName ref="#AlamedaCA">Alameda, Calif.</placeName>; <persName
+                  ref="#EdwardWCamp">Edward W. Camp, Jr.</persName>; chief construction mechanic, of
+                  <placeName ref="#DarbyPA">Darby, Pa.</placeName>; and <persName
+                  ref="#williamJWilliams">William J. Williams, Jr.</persName>, chief radioman, of
+                  <placeName ref="#HarlingenTX">Harlingen, Texas.</placeName></p>
+            <lb/>
+            <p>Although the sun will not reappear for four months, progressively shortening periods
+               of twilight will occur for several weeks. This soft gentle light with predominant
+               orange hues creates strikingly beautiful effects upon crystalline texture of the snow
+               and ice. This period is popularly referred to as "Indian Summer of the
+               Antarctic."</p>
+            <lb/>
+            <ab>(<num type="page" value="3">3</num>)</ab>
+            <pb facs="PLACEHOLDER" n="3"/>
+         </div>
+         <div type="article" subtype="EllsworthStation">
+            <p><placeName ref="#EllsworthStation">ELLSWORTH STATION</placeName>--(<date
+                  when="1957-04-28">April 28</date>)--Radio communication in Antarctica offers a
+               challenge to any radioman. This was one of the factors which caused <persName
+                  ref="CharlesWForlidas">Charles W. Forlidas</persName>, radioman 2/c, of <placeName
+                  ref="#ClemsonSC">Clemson, S.C.</placeName>, to volunteer for Operation Deep
+               Freeze.</p>
+            <lb/>
+            <p>A radioman's work in the Antarctic is not all indoors. In putting up antennas
+                  <persName ref="CharlesWForlidas">Forlidas</persName> and fellow communications
+               man, <persName ref="#RobertEHaskill">Robert E. Haskill</persName>, radioman 1/c, of
+                  <placeName ref="#NorthHighlandCA">North Highland, Calif.</placeName>, worked in
+               temperatures 35 degrees below zero. Now ice continually builds on the antenna wire
+               and must be cleared to cut down radio transmission difficulties.</p>
+            <lb/>
+            <p>Before radio operations could get underway the radio room, the three transmitters,
+               seven receivers and mobile equipment had to be assembled by the operators. Equipment
+               intended for shore installations are having to be made to fit and operate. For a
+               small station, <placeName ref="#EllsworthStation">Ellsworth</placeName> handles a
+               large amount of radio traffic, making necessary an around the clock operation with
+               shifts of 12 hours each.</p>
+            <lb/>
+            <p>Another job that falls under <persName ref="CharlesWForlidas">Forlidas</persName> and
+                  <persName ref="#RobertEHaskill">Haskill</persName> is taking their turns at
+               operating the "ham" equipment. Everyone here relies on the skill and patience of our
+               radiomen and the "ham" operators in the States who pass personel messages to and from
+               our wives and families.</p>
+            <lb/>
+            <ab>After his year in the Antarctic, <persName ref="CharlesWForlidas"
+                  >Forlidas</persName> is looking forward to returning to <placeName
+                  ref="#ClemsonSC">Clemson, S.C.</placeName>, College. He attended there a year
+               before joining the Navy.</ab>
+            <lb/>
+         </div>
+         <div type="article" subtype="LittleAmerica">
+            <p><placeName ref="#LittleAmerica">LITTLE AMERICA</placeName>-- <persName
+                  ref="#HaroldEButler">Harold E. Butler</persName>, hospitalman 1/c, of <placeName
+                  ref="#EastStLouisIL">East St. Louis, Ill.</placeName>, is the first man of Deep
+               Freeze II to be discharged and reenlisted at <placeName ref="#LittleAmerica">Little
+                  America</placeName>. After receiving his honorable discharge, handlebar-moustached
+                  <persName ref="#HaroldEButler">Butler</persName> became subject to much
+               good-natured ribbing about being a "sandcrab for a day."</p>
+            <lb/>
+            <p>A lengthy humorous discussion occurred in the messhall, as to whether or not
+                  <persName ref="#HaroldEButler">Butler</persName> was entitled to eat there.
+                  <persName ref="#WilliamRDenney">William R. Denney</persName>, commissaryman 2/c,
+               of <placeName ref="#RaymondWA">Raymond Wash.</placeName>, ruled to feed him without
+               charge since he was slated to reenlist the next day. (Legally, a Navyman is a
+               civilian for 24 hours between enlistments.)</p>
+            <lb/>
+            <p><persName ref="#HaroldEButler">Butler</persName> was sworn in by <persName
+                  ref="#HowardJOrndorff">Lcdr Howard J. Orndorff</persName>, commanding officer of
+                  <placeName ref="#LittleAmerica">Little America</placeName>, of <placeName
+                  ref="#NutterfortWV">Nutterfort, W. Va.</placeName>, for a six-year reenlistment.
+               This is his second six-year "shipping over." An enthusiastic career man, <persName
+                  ref="#HaroldEButler">Butler</persName> has nine years continuous active duty.</p>
+            <lb/>
+            <p>His primary task here is senior corpsman, assisting the medical and dental officers.
+               The doctors say <persName ref="#HaroldEButler">Butler's</persName> excellent
+               professional ability is enhanced by a pleasant sense of humor and a sincere concern
+               for the welfare of the patients. Prior to coming to the Antarctic, <persName
+                  ref="#HaroldEButler">Butler</persName> served three years as a hospitalman with
+               the Marine Corps, one year of which was in Korean combat. He then spent over two
+               years at the Naval Hospital, <placeName ref="#GreatLakesIL">Great Lakes,
+                  Ill</placeName>.</p>
+            <lb/>
+            <ab>Upon return to the U.S. after his year at <placeName ref="#LittleAmerica">Little
+                  America</placeName>, <persName ref="#HaroldEButler">Butler</persName> is aiming
+               high. He has requested duty at the White House dispensary.</ab>
+            <lb/>
+         </div>
+         <div type="article" subtype="NAFMcMurdo">
+            <p><placeName ref="#NAFMcMurdo">NAF MCMURDO</placeName>--Fire destroyed the garage
+               building <date when="1957-04-28">April 28</date>. No men were seriously injured.</p>
+            <lb/>
+            <ab>Estimated cost of the blaze is $106,000. This includes the building proper, a 35-ton
+               Caterprillar tractor, a lathe, a saw, an electric drive air compressor,</ab>
+            <lb/>
+            <ab>(<num type="page" value="4">4</num>)</ab>
+            <pb facs="PLACEHOLDER" n="4"/>
+            <ab>a 5-k.w. floodlight trailer, an electric arc welder, two Herman Nelson portable
+               heaters, approximately 2500 feet of keying cable and all shop hand and small power
+               tools.</ab>
+            <lb/>
+            <ab>No Deep Freeze II Caterpillar parts were destroyed. Limited special and mechanical
+               tools will handicap vehicle maintenance somewhat.</ab>
+            <lb/>
+            <p>Cause of the fire has not been determined but an investigation is being made. The
+               fire was first discovered at 6:15 a.m. (1:15 p.m., <date when="1957-04-27">Saturday,
+                  April 27,</date> EST) and was brought under control four and a half hours
+               later.</p>
+            <lb/>
+            <ab>Construction of a combination panel and quonset rib and canvas lean-to building has
+               commenced.</ab>
+            <lb/>
+            <p>McMurdo is the largest of seven U.S. bases in the Antarctic. Its 34 houses are
+               occupied by 87 military personnel during the Antarctic winter which began April 21.
+               The garage building was several hundred feet from the nearest barracks building.</p>
+            <lb/>
+            <ab>(Admiral Dufek said in Washington, "The fire and its losses will not affect the
+               accomplishment of our mission for the IGY in any way.")</ab>
+            <lb/>
+            <p>Principal mission of the base is tp support air operations. Planes operating from the
+               ice airstrip dropped materials to build a science base at the South Pole during the
+               past Antarctic summer.</p>
+            <lb/>
+         </div>
+         <div type="#LittleAmerica">
+            <p>LITTLE AMERICA--Lieutenant Commander James E. Waldron of New Orleans, officer in
+               charge of the VX-6 detachment here, recently treated everyone to a party celebrating
+               promotion to his present rank. Date of rank is retroactive to Feb. 1.</p>
          </div>
       </body>
    </text>
