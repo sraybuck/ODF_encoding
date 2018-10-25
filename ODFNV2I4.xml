@@ -408,24 +408,36 @@
             <lb/>
          </div>
          <div type="article" subtype="WilkesStation">
-            <p>WILKES STATION--(April 29)--On March 13 six men were sitting in a 16-foot-square
-               Jamesway hut that provided living space at Wilkes Station's inland icecap satellite,
-               They were enjoying an enforced rest period brought on by one of the weather phenomena
+            <p><placeName ref="#WilkesStation">WILKES STATION</placeName>--(<date when="1957-04-29"
+                  >April 29</date>)--On <date when="1957-03-13">March 13</date> six men were sitting
+               in a 16-foot-square Jamesway hut that provided living space at <placeName
+                  ref="#WilkesStation">Wilkes Station's</placeName> inland icecap satellite, They
+               were enjoying an enforced rest period brought on by one of the weather phenomena
                unique in the Antarctic, the "whiteout."</p>
             <lb/>
-            <ab>The men were Carl R. Ekund, station scientific leader of Macon, Ga.; Richard L.
-               Cameron, IGY Glaciologist, of Cambridge, Mass.; and Paul F. Noonan, photographer's
-               mate 1/c, of Dorchester, Mass. The "whiteout" condition--enveloping</ab>
+            <ab>The men were <persName ref="#CarlREkund">Carl R. Ekund</persName>, station
+               scientific leader of <!--THIS IS INCONSISTENT WITH OTHER SOURCES--><placeName
+                  ref="#MaconGA">Macon, Ga.</placeName>; <persName ref="#RichardLCameron">Richard L.
+                  Cameron</persName>, IGY Glaciologist, of <placeName ref="#BatesvilleCA"
+                  >Batesville, Calif.</placeName>; <persName ref="#RudolfAHonkala">Rudolf A.
+                  Honkala</persName>, IGY Meteorologist, of <placeName ref="#SalisburyNH">Salisbury,
+                  N.H.</placeName>; <persName ref="#OlavLoken">Olav Loken</persName>, Norwegian
+               Glaciologist; <persName ref="#JohnMolhom">John Molhom</persName>, IGY Glaciologist,
+               of <placeName ref="#CambridgeMA">Cambridge, Mass.</placeName>; and <persName
+                  ref="#PaulFNoonan">Paul F. Noonan</persName>, photographer's mate 1/c, of
+                  <placeName ref="#DorchesterMA">Dorchester, Mass.</placeName> The "whiteout"
+               condition--enveloping</ab>
             <lb/>
             <ab>(<num type="page" value="5">5</num>)</ab>
             <pb facs="PLACEHOLDER" n="5"/>
             <ab>whiteness and complete lack of horizon--had brought their science studies to a
                standstill.</ab>
             <lb/>
-            <p>They had set out from Wilkes Station at dawn two days earlier. The site for their
-               satellite station, an important part in the Wilkes IGY program, had to be far enough
-               inland for the climate to be representative of the entire icecap, and the snow over
-               had to be deep enough to dig a 100-foot pit for glaciological studies.</p>
+            <p>They had set out from <placeName ref="#WilkesStation">Wilkes Station</placeName> at
+               dawn two days earlier. The site for their satellite station, an important part in the
+               Wilkes IGY program, had to be far enough inland for the climate to be representative
+               of the entire icecap, and the snow over had to be deep enough to dig a 100-foot pit
+               for glaciological studies.</p>
             <lb/>
             <p>By midday they had covered 30 miles after having considerable difficulty getting
                their weasels and sleds over the moraine, a rocky barrier extending along the edge of
@@ -433,50 +445,62 @@
                steep trails and experiencing many weasel failures, the party arrived at the 40-mile
                point, about 4,000-foot elevation, and located a site for the inland station.</p>
             <lb/>
-            <p>Erection of the hut was immediately started, while Honkala set up a mast for making
-               meteorological observations. Cameron, Loken and Moljorn set out ice movement stakes
-               for glaciology studies. Then the "whiteout" moved in and all work had to be
-               stopped.</p>
+            <p>Erection of the hut was immediately started, while <persName ref="#RudolfAHonkala"
+                  >Honkala</persName> set up a mast for making meteorological observations.
+                  <persName ref="#RichardLCameron">Cameron</persName>, <persName ref="#OlavLoken"
+                  >Loken</persName> and <persName ref="#JohnMolhom">Molhom</persName> set out ice
+               movement stakes for glaciology studies. Then the "whiteout" moved in and all work had
+               to be stopped.</p>
             <lb/>
             <p>But the inland station had been established. The difficulty of supplying the large
-               quantities of fuel that would be needed to operate the inland satellite was discussed
-               furing <!--TYPO--> the period of "whiteout." The impracticability of performing the
-               operation with the fast but fragile weasels was generally agreed upon. It was decided
-               that the possibility of making a supply trip to the icecap with a D-4 tractor should
-               be discussed with Robert McIntyre, construction mechanic 2/c, of Oxnard, Calif., and
-               Lt (jg) Donald R. Burnett, of Mt, Clemens, Mich., when they returned to Wilkes
-               Station.</p>
+               quantities of fuel that would be needed to operate the inland satellite was discussed <choice>
+                  <sic>furing</sic>
+                  <corr>during</corr>
+               </choice> the period of "whiteout." The impracticability of performing the operation
+               with the fast but fragile weasels was generally agreed upon. It was decided that the
+               possibility of making a supply trip to the icecap with a D-4 tractor should be
+               discussed with <persName ref="#RobertMcIntyre">Robert McIntyre</persName>,
+               construction mechanic 2/c, of <placeName ref="#OxnardCA">Oxnard, Calif.</placeName>,
+               and <persName ref="#DonaldRBurnett">Lt (jg) Donald R. Burnett</persName>, of
+                  <placeName ref="#MtClemensMI">Mt. Clemens, Mich.</placeName>, when they returned
+               to <placeName ref="#WilkesStation">Wilkes Station</placeName>.</p>
             <lb/>
-            <ab>On the 16th weather finally cleared enough to allow all to return to the main base,
-               except Cameron and Loken, who remained behind to continue their studies.</ab>
+            <ab>On the <date when="1957-03-16">16th</date> weather finally cleared enough to allow
+               all to return to the main base, except <persName ref="#RichardLCameron"
+                  >Cameron</persName> and <persName ref="#OlavLoken">Loken</persName>, who remained
+               behind to continue their studies.</ab>
          </div>
          <div type="article" subtype="EllsworthStation">
-            <ab>ELLSWORTH STATION--(May 1)--One of the younger members of this station is
-               20-year-old L. R. Larson, aviation electronics technician 3/c, of Rochester,
-               N.Y.</ab>
+            <ab><placeName ref="#EllsworthStation">ELLSWORTH STATION</placeName>--(<date
+                  when="1957-05-01">May 1</date>)--One of the younger members of this station is
+               20-year-old <persName ref="#LRLarson">L. R. Larson</persName>, aviation electronics
+               technician 3/c, of <placeName ref="#RochesterNY">Rochester, N.Y.</placeName></ab>
             <lb/>
-            <p>Larson came to Deep Freeze following a tour of duty aboard the aircraft carrier USS
-               Princeton on the west coast. He learned that Air Development Squadron Six was looking
-               for volunteers for the Antarctic trek, and he immediately requested the duty.</p>
+            <p><persName ref="#LRLarson">Larson</persName> came to Deep Freeze following a tour of
+               duty aboard the aircraft carrier USS Princeton on the west coast. He learned that Air
+               Development Squadron Six was looking for volunteers for the Antarctic trek, and he
+               immediately requested the duty.</p>
             <lb/>
-            <ab>His request was accepted and he was sent to Quonset Point, R.I., home of VX-6. A few
-               months later he was aboard the Navy cargo ship USS WYANDOT, bound for the Weddell
-               Sea.</ab>
+            <ab>His request was accepted and he was sent to <placeName ref="#QuonsetPointRI">Quonset
+                  Point, R.I.</placeName>, home of VX-6. A few months later he was aboard the Navy
+               cargo ship USS WYANDOT, bound for the Weddell Sea.</ab>
             <lb/>
             <p>Before joining the Navy in 1954, Larson attended Edison Technical and Industrial high
                school. After initial Navy training he was selected to attend the Navy's Aviation
-               Electronic Technician School in Memphis, Tenn.</p>
+               Electronic Technician School in <placeName ref="#MemphisTN">Memphis,
+                  Tenn.</placeName></p>
             <lb/>
             <ab>Since reaching the Antarctic, Larson has participated in all phases of the
-               construction of Ellsworth Station, including assembly of two DeHavilland Otter
-               aircraft, raising antenna, driving a D-4 tractor and maintenance of the aircraft
-               electronic gear.</ab>
+               construction of <placeName ref="#EllsworthStation">Ellsworth Station</placeName>,
+               including assembly of two DeHavilland Otter aircraft, raising antenna, driving a D-4
+               tractor and maintenance of the aircraft electronic gear.</ab>
             <lb/>
          </div>
          <div type="editorialInfo">
             <p>A misleading statement was published in last week's Newsletter. The record balloon
-               observation ascent we reported was a record for the McMurdo base only, not an
-               Antarctic or world record. We regret the error.</p>
+               observation ascent we reported was a record for the <placeName ref="#NAFMcMurdo"
+                  >McMurdo </placeName>base only, not an Antarctic or world record. We regret the
+               error.</p>
             <lb/>
             <ab>(<num>6</num>)</ab>
             <pb facs="PLACEHOLDER" n="6"/>
