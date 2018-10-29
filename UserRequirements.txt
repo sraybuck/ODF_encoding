@@ -1,0 +1,48 @@
+General specs
+
+User should be able to access a page which will direct them either to the digital edition, the facsimile images or the additional information pages (the things that the persName, placeName and orgName link out to).
+
+Digital edition should have a landing page which will display the volumes encoded with issues listed under them as hyperlinks to html pages
+
+Facsimile images should have a landing page identical to digital edition but with links to the facsimile images instead of links to the html page and with differing text as appropriate
+
+Additional information pages will behave almost like a database with entries about referenced people, places, and organizations. These entries will be searchable by type (persName, placeName, orgName). Once a type is selected they will be further searchable by these criteria:
+    people: base they served, place they're from, job title, last name (alphabetical), first name(alphabetical)
+    places: name (alphabetical), country, state, bases vs non-bases, military places
+    orgName: name (alphabetical), country, type of organization (military, scientific, civilian)
+
+Element-specific specs
+div - should not be visible, @type and @subtype should be put in as classes for display purposes
+
+p - should be rendered as regular text
+
+ab - should be rendered as regular text
+
+placeName - should provide brief description upon hover and link to a separate page giving additional information, this should be based on external sources and information of importance to the documents
+
+persName - should provide a brief description upon hover and link to a separate page giving additional information, this should be based on external sources and information of importance to the documents
+
+orgName - should provide a brief description upon hover and link to a separate page giving additional information, this should be based on external sources and information of importance to the documents
+
+head - should be rendered larger than regular font and in all caps
+
+lb - should provide a single line break
+
+num - for page numbers wrapped in a num, this should translate to an anchor tag allowing users to click on a link or button and have it take them to the desired page number
+    - for volumes numbers wrapped in a num, this should be a hyperlink to an page with links to all the issues in the volume
+    - for issues wrapped in a num, display as regular text
+
+date - display as regular text
+
+choice - treat the same as other text
+  sic - should be displayed as hovertext with a note saying this was the original type
+  corr - should be displayed instead of text in sic
+
+pb - @facs should be represented by hyperlinked text at the bottom of the page that says "see facsimile"
+
+cb - @n1 should be displayed as a left hand column of half the width of the container
+   - @n2 should be displayed as a right hand column of half the width of the container
+
+address - should be displayed as regular text
+  street - regular text
+  placeName - to specs indicated above
