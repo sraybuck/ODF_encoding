@@ -120,26 +120,34 @@
             <lb/>
             <p><persName ref="#GeorgeCKanney">Mr. Kanney</persName> operates amateur station W9ETM.
                Anyone interested in taking advantage of his generous offer is invited to contact
-                  <persName ref="#GeorgeCKanney">Mr. Kanney</persName> at <address><street>412
-                     Woodson St.</street><placeName ref="#LaPorteIN">, LaPorte, Indiana.</placeName></address></p>
+                  <persName ref="#GeorgeCKanney">Mr. Kanney</persName> at <address>
+                  <street>412 Woodson St.</street>
+                  <placeName ref="#LaPorteIN">, LaPorte, Indiana.</placeName>
+               </address></p>
          </div>
          <div type="article" subtype="NAFMcMurdo">
-            <p>NAF MCMURDO -- (May 8) -- Construction crews here have worked five 24-hour days to
-               complete the first in a series of buildings which will replace the garage destroyed
-               by fire April 28. The Seabees met the five-day schedule set by themselves, in spite
-               of difficult weather conditions and a shortage of adequate materials and tools.</p>
+            <p><placeName ref="#NAFMcMurdo">NAF MCMURDO</placeName> -- (<date when="1957-05-08">May
+                  8</date>) -- Construction crews here have worked five 24-hour days to complete the
+               first in a series of buildings which will replace the garage destroyed by fire <date
+                  when="1957-04-28">April 28</date>. The Seabees met the five-day schedule set by
+               themselves, in spite of difficult weather conditions and a shortage of adequate
+               materials and tools.</p>
             <lb/>
             <ab>The finished building will house the garage, carpenter, machine, welding, and
                electrician shops, and a spare parts room.</ab>
             <lb/>
-            <ab>Other McMurdo residents have turned their talents to gardening.</ab>
+            <ab>Other <placeName ref="#NAFMcMurdo">McMurdo</placeName> residents have turned their
+               talents to gardening.</ab>
             <lb/>
-            <p>CDR William F. Flynn, Commanding Officer of MCB Special, of Dedham, Mass.; LCDR Scott
-               W. Marshall, Officer in Charge of McMurdo, of Wichita, Kan.; and Martin K. Hanson,
-               Chief Construction Driver, of Sioux Falls, N.D., have succeeded in producing
-               radishes, believed to be the first grown in the Antarctic. Various seeds and plants
-               have been carefully nurtured by the gardeners in a box garden located in a heated
-               Quonset hut.</p>
+            <p><persName ref="#WilliamFFlynn">CDR William F. Flynn</persName>, Commanding Officer of
+               MCB Special, of <placeName ref="#DedhamMA">Dedham, Mass.</placeName>; LCDR <persName
+                  ref="#ScottWMarshall">Scott W. Marshall</persName>, Officer in Charge of McMurdo,
+               of <placeName ref="#WichitaKS">Wichita, Kan.</placeName>; and <persName
+                  ref="#MartinKHanson">Martin K. Hanson</persName>, Chief Construction Driver, of
+                  <placeName ref="#SiouxFallsND">Sioux Falls, N.D.</placeName>, have succeeded in
+               producing radishes, believed to be the first grown in the Antarctic. Various seeds
+               and plants have been carefully nurtured by the gardeners in a box garden located in a
+               heated Quonset hut.</p>
             <lb/>
             <p>In the near future the "green thumb" experts hope to add fresh lettuce, tomatoes,
                onions, and red and green peppers to the local food supply. Nasturtiums, marigolds
@@ -147,41 +155,49 @@
             <lb/>
          </div>
          <div type="article">
-            <ab>AROUND THE BASES: Little America -- Construction of "ham" radio shack and hobby
-               lockers in recreation hall 50% completed. Hi-fi installation underway. Library and
-               education office cabinets and bookshelves 80% completed. Installation of fire warning
-               devices in tunnels completed......NAF McMurdo -- Ice runway in good condition. April
-               weather summary: Average monthly temp.; -10.5&#176;F; monthly high, plus 12&#176;F;
-               monthly low, -33&#176;F.......Byrd Station -- Fuel cache covered by two-foot snow
+            <ab>AROUND THE BASES: <placeName ref="#LittleAmerica">Little America</placeName> --
+               Construction of "ham" radio shack and hobby lockers in recreation hall 50% completed.
+               Hi-fi installation underway. Library and education office cabinets and bookshelves
+               80% completed. Installation of fire warning devices in tunnels
+                  completed......<placeName ref="#NAFMcMurdo">NAF McMurdo</placeName> -- Ice runway
+               in good condition. April weather summary: Average monthly temp.; -10.5&#176;F;
+               monthly high, plus 12&#176;F; monthly low, -33&#176;F.......<placeName
+                  ref="#ByrdStation">Byrd Station</placeName> -- Fuel cache covered by two-foot snow
                drift. Flags and bamboo stakes salvaged from old runway for use on new runway in
-               spring.....Pole Station -- Observatory interior completed. Interior glaciology cold
-               laboratory 75% completed. (Continued next page.)</ab>
+                  spring.....<placeName ref="#SouthPoleStation">Pole Station</placeName> --
+               Observatory interior completed. Interior glaciology cold laboratory 75% completed.
+               (Continued next page.)</ab>
             <lb/>
             <ab>--<num type="page" value="2">2</num>--</ab>
             <pb facs="PLACEHOLDER" n="2"/>
          </div>
          <div type="article" subtype="WilkesStation">
-            <p>Wilkes Station -- Minor building and equipment repairs proceeding. Over 100 icebergs
-               visible from station. Snow cover now zero to 12 feet....Ellsworth Station -- April
-               weather summary: Average monthly temp., -9.04&#176;F; monthly high, plus 24.8&#176;F,
-               on the 4th; monthly low, -34.6&#176;F, on the 9th.</p>
+            <p><placeName ref="#WilkesStation">Wilkes Station</placeName> -- Minor building and
+               equipment repairs proceeding. Over 100 icebergs visible from station. Snow cover now
+               zero to 12 feet....<placeName ref="#EllsworthStation">Ellsworth Station</placeName>
+               -- April weather summary: Average monthly temp., -9.04&#176;F; monthly high, plus
+               24.8&#176;F, on the 4th; monthly low, -34.6&#176;F, on the 9th.</p>
             <lb/>
          </div>
          <div type="article" subtype="WilkesStation">
-            <p>WILKES STATION -- (April 29) -- Through his glasses Norwegian Glaciologist Olav Loken
-               had been studying a seal lying on an ice floe in nearby Frogman Cove. He decided
-               definitely it was a rare Ross Seal.</p>
+            <p><placeName ref="#WilkesStation">WILKES STATION</placeName> -- (<date
+                  when="1957-04-29">April 29</date>) -- Through his glasses <persName
+                  ref="#OlavLoken">Norwegian Glaciologist Olav Loken</persName> had been studying a
+               seal lying on an ice floe in nearby Frogman Cove. He decided definitely it was a rare
+               Ross Seal.</p>
             <lb/>
             <p>Leaving his vantage point on the overhanging rocks he hurried to make known his
-               discovery to the other men at the station. At about 2 p.m. Station Scientific Leader
-               Carl R. Eklund of Atlanta, Ga., came on the intercom system and announced the
-               discovery to everyone, stating that an attempt would be made to collect the creature
-               for the National Museum.</p>
+               discovery to the other men at the station. At about 2 p.m. <persName
+                  ref="#CarlREklund">Station Scientific Leader Carl R. Eklund</persName> of
+                  <placeName ref="#AtlantaGA">Atlanta, Ga.</placeName>, came on the intercom system
+               and announced the discovery to everyone, stating that an attempt would be made to
+               collect the creature for the National Museum.</p>
             <lb/>
-            <p>From a hill which separates the station from the cove, the men watched Rudolf A.
-               Honkala, Meteorologist, of Salisbury, N.H., and LTJG Donald R. Burnett of Mount
-               Clemens, Mich., raise their rifles and take careful aim at the seal which was lying
-               on an ice floe about 30 yards out in the cove.</p>
+            <p>From a hill which separates the station from the cove, the men watched <persName
+                  ref="#RudolfAHonkala">Rudolf A. Honkala</persName>, Meteorologist, of <placeName
+                  ref="#SalisburyNH">Salisbury, N.H.</placeName>, and <persName ref="#DonaldRBurnett">LTJG Donald R. Burnett</persName> of
+               Mount Clemens, Mich., raise their rifles and take careful aim at the seal which was
+               lying on an ice floe about 30 yards out in the cove.</p>
             <lb/>
             <p>Reminding them to be careful not to hit the seal's skull, Eklund gave them the signal
                to fire. The animal was an easy target and died quickly.</p>
