@@ -22,11 +22,12 @@
             <head>OPERATION DEEP FREEZE NEWSLETTER</head>
             <ab>Volume <num type="volume" value="2">II</num>, No. <num type="issue" value="5"
                   >5</num>
-               <date when="1957-04-10">May 10, 1957</date></ab>
+               <date when="1957-05-10">May 10, 1957</date></ab>
          </div>
          <div type="article" subtype="LittleAmerica">
-            <ab>LITTLE AMERICA -- Little America's "ice dentists" are at work again filling a cavity
-               in a crevasse.</ab>
+            <ab><placeName ref="#LittleAmerica">LITTLE AMERICA</placeName> -- <placeName
+                  ref="#LittleAmerica">Little America's</placeName> "ice dentists" are at work again
+               filling a cavity in a crevasse.</ab>
             <lb/>
             <p>One mile from camp on the road to the barrier it is necessary to cross a mysterious
                creeping crevasse. This is the <choice>
@@ -51,36 +52,45 @@
                of utter impotence should the walls of ice give away (which the eerie sounds seem to
                suggest) will reduce all but the bravest souls to flight.</p>
             <lb/>
-            <p>On April 28 the oceanographic study group reported a crack 18 inches wide across the
-               road upon their return from the barrier. This was a tipoff of an open crevasse
-               beneath, transforming the road into a booby trap.</p>
+            <p>On <date when="1957-04-28">April 28</date> the oceanographic study group reported a
+               crack 18 inches wide across the road upon their return from the barrier. This was a
+               tipoff of an open crevasse beneath, transforming the road into a booby trap.</p>
             <lb/>
             <p>The next day, in minus 54&#176; weather whipped by a 15-knot wind, a repair team
-               composed of LCDR Howard J. Orndorff, Officer in Charge of Little America, of
-               Nutterfort, W. Va.; LTJG Robert K. White of Glen Falls, N.Y.; Julian P. Gudmunson,
-               Chief <choice>
+               composed of <persName ref="#HowardJOrndorff">LCDR Howard J. Orndorff</persName>,
+               Officer in Charge of Little America, of <placeName ref="#NutterfortWV">Nutterfort, W.
+                  Va.</placeName>; <persName ref="#RobertKWhite">LTJG Robert K. White</persName> of
+                  <placeName ref="#GlenFallsNY">Glen Falls, N.Y.</placeName>; <persName
+                  ref="#JulianPGudmunson">Julian P. Gudmunson</persName>, Chief <choice>
                   <sic>Buioder</sic>
                   <corr>Builder</corr>
-               </choice> , of St. Paul, Minn.; Charles M. Darter, Chief Construction Driver, of
-               Austin, Texas; Robert W. Anderson, Electronics Technician 3/c, of White City, Kan.;
-               and Alvin L. Miller, Construction Driver 2/c, of Milton, Fla.; tackled the job armed
-               with dynamite and a D-8 tractor.</p>
+               </choice> , of <placeName ref="#StPaulMN">St. Paul, Minn.</placeName>; <persName
+                  ref="#CharlesMDarter">Charles M. Darter</persName>, Chief Construction Driver, of
+                  <placeName ref="#AustinTX">Austin, Texas</placeName>; <persName
+                  ref="#RobertWAnderson">Robert W. Anderson</persName>, Electronics Technician 3/c,
+               of <placeName ref="#WhiteCityKS">White City, Kan.</placeName>; and <persName
+                  ref="#AlvinLMiller">Alvin L. Miller</persName>, Construction Driver 2/c, of
+                  <placeName ref="#MiltonFL">Milton, Fla.</placeName>; tackled the job armed with
+               dynamite and a D-8 tractor.</p>
             <lb/>
-            <p>Anderson is a veteran of conquering crevasses, having explored approximately 100 of
-               them last November when blazing the 647 mile trail to Byrd Station. He sometimes
-               swung at the end of a 50-foot rope like a pendulum, planting blasting charges at the
-               most vulnerable spot deep in the jaws of a crevasse.</p>
+            <p><persName ref="#RobertWAnderson">Anderson</persName> is a veteran of conquering
+               crevasses, having explored approximately 100 of them last November when blazing the
+               647 mile trail to <placeName ref="#ByrdStation">Byrd Station</placeName>. He
+               sometimes swung at the end of a 50-foot rope like a pendulum, planting blasting
+               charges at the most vulnerable spot deep in the jaws of a crevasse.</p>
             <lb/>
-            <ab>Gudmunson is a seasoned expert in ice blasting, having worked as right hand man to
-               Arctic Specialist MAJ Merle R. Dawson, USAR, last January when they changed the face
-               of the barrier by carving a berth for cargo ships, and in the process creating what
-               might have been the first man-made Antarctic icebergs.</ab>
+            <ab><persName ref="#JulianPGudmunson">Gudmunson</persName> is a seasoned expert in ice
+               blasting, having worked as right hand man to <persName ref="MerleRDawson">Arctic
+                  Specialist MAJ Merle R. Dawson</persName>, USAR, last January when they changed
+               the face of the barrier by carving a berth for cargo ships, and in the process
+               creating what might have been the first man-made Antarctic icebergs.</ab>
             <lb/>
-            <p>Miller is a versatile, <choice>
+            <p><persName ref="#AlvinLMiller">Miller</persName> is a versatile, <choice>
                   <sic>indefatigible</sic>
                   <corr>indefatigable</corr>
                </choice> worker and hardened to intense cold by daily exposure. He drove a D-8
-               tractor on a 1300 mile record round-trip to Byrd Station.</p>
+               tractor on a 1300 mile record round-trip to <placeName ref="#ByrdStation">Byrd
+                  Station</placeName>.</p>
             <lb/>
             <p>Like capable dentists the repair team proceeded to clean the cavity carefully before
                filling. Eight blasts later all were aghast at the yawning chasm before them which a
@@ -97,17 +107,21 @@
             <lb/>
          </div>
          <div type="article">
-            <ab>HAM RADIO ASSISTANCE OFFERED -- A letter was received this week from Mr. George C.
-               Kanney of LaPorte, Indiana, a "ham" radio operator who is interested in lending
-               assistance to Deep Freeze men in Antarctica and their families at home.</ab>
+            <ab>HAM RADIO ASSISTANCE OFFERED -- A letter was received this week from <persName
+                  ref="#GeorgeCKanney">Mr. George C. Kanney</persName> of <placeName
+                  ref="#LaPorteIN">LaPorte, Indiana</placeName>, a "ham" radio operator who is
+               interested in lending assistance to Deep Freeze men in Antarctica and their families
+               at home.</ab>
             <lb/>
-            <ab>Mr. Kanney says "...I have a schedule with station KC4USB every night (Byrd
-               Station)...and would be glad to handle any traffic for the scientists or personnel at
-               this station for about four months."</ab>
+            <ab><persName ref="#GeorgeCKanney">Mr. Kanney</persName> says "...I have a schedule with
+               station KC4USB every night (<placeName ref="#ByrdStation">Byrd
+               Station</placeName>)...and would be glad to handle any traffic for the scientists or
+               personnel at this station for about four months."</ab>
             <lb/>
-            <p>Mr. Kanney operates amateur station W9ETM. Anyone interested in taking advantage of
-               his generous offer is invited to contact Mr. Kanney at 412 Woodson St., LaPorte,
-               Indiana.</p>
+            <p><persName ref="#GeorgeCKanney">Mr. Kanney</persName> operates amateur station W9ETM.
+               Anyone interested in taking advantage of his generous offer is invited to contact
+                  <persName ref="#GeorgeCKanney">Mr. Kanney</persName> at <address><street>412
+                     Woodson St.</street><placeName ref="#LaPorteIN">, LaPorte, Indiana.</placeName></address></p>
          </div>
          <div type="article" subtype="NAFMcMurdo">
             <p>NAF MCMURDO -- (May 8) -- Construction crews here have worked five 24-hour days to

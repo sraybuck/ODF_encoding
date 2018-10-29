@@ -239,17 +239,16 @@
             <ab>The following address is that of a capable amateur radio operator who has been very
                successful in handling messages to and from Antarctica: <persName ref="#PaulABlum"
                   >Paul A. Blum</persName>, <address>
-                  <addrLine>101 Kristin Road, </addrLine>
-                  <addrLine><placeName ref="#NorthSyracuseNY">North Syracuse, N.
-                     Y.</placeName></addrLine>
+                  <street>101 Kristin Road, </street>
+                  <placeName ref="#NorthSyracuseNY">North Syracuse, N. Y.</placeName>
                </address></ab>
             <lb/>
             <p>It is sometimes possible to arrange telephone conversations between the States and
                Antarctic bases through the amateur radio facilities. To accomplish this, interested
                parties should address a post card to: <persName ref="#JuliusMJMadey">Julius M. J.
                   Madey</persName>, <address>
-                  <addrLine>1037 Raritan Road,</addrLine>
-                  <addrLine><placeName ref="#ClarkNJ">Clark, New Jersey</placeName></addrLine>
+                  <street>1037 Raritan Road,</street>
+                  <placeName ref="#ClarkNJ">Clark, New Jersey</placeName>
                </address>. Your post card should include person's name and his station in
                Antarctica. The cost of this service will be for long distance phone from where you
                make the call to <placeName ref="#ClarkNJ">Clark, N. J.</placeName></p>
