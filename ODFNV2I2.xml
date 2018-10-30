@@ -112,11 +112,11 @@
                   >Richard Berkley</persName> of <placeName ref="W#WinterParkFL">Winter Park,
                   Fla</placeName>. <persName ref="#RichardBerkley">Berkley</persName>, a
                geomagnetism specialist, manned the detonator which fired the salvo. After all the
-               birds were weighted and banded, <persName ref="#CarlEklund">Eklund</persName> released
-               the birds. The bringing of the cannons and net from the U.S. had proven its merit.
-               This shot, the first of its kind ever made in Antarctica, had netted 13 birds. With
-               the knowledge gained from this capture there will be more abundant catches in the
-               future.</p>
+               birds were weighted and banded, <persName ref="#CarlEklund">Eklund</persName>
+               released the birds. The bringing of the cannons and net from the U.S. had proven its
+               merit. This shot, the first of its kind ever made in Antarctica, had netted 13 birds.
+               With the knowledge gained from this capture there will be more abundant catches in
+               the future.</p>
             <lb/>
          </div>
          <div type="article" subtype="EllsworthStation">
@@ -500,34 +500,46 @@
          </div>
          <div type="editorialInfo">
             <cb n="1"/>
-            <ab>Operation Deep Freeze Newsletter</ab>
+            <bibl>
+               <title>Operation Deep Freeze Newsletter</title>
+               <lb/>
+               <biblScope><num type="volume" value="2">Volume II</num>, <num type="issue" value="2"
+                     >No. 2</num> -- <date when="1957-04-19">April 19,
+               1957</date></biblScope></bibl>
             <lb/>
-            <ab><num type="volume" value="2">Volume II</num>, <num type="issue" value="2">No.
-                  2</num> -- <date when="1957-04-19">April 19, 1957</date></ab>
             <lb/>
-            <lb/>
-            <ab>Phone Liberty 5-6700, Ext. 66675</ab>
+            <ab>
+               <address>
+                  <addrLine> Phone Liberty 5-6700, Ext. 66675</addrLine>
+               </address>
+            </ab>
             <lb/>
             <lb/>
             <ab>Duplicated and distributed by:</ab>
             <lb/>
-            <ab>Commander</ab>
-            <lb/>
-            <ab>Naval Construction Battalions, Atlantic</ab>
-            <lb/>
-            <ab>Construction Battalion Center</ab>
-            <lb/>
-            <ab>Davisville, Rhode Island</ab>
+            <ab>
+               <address>
+                  <addrLine>Commander</addrLine>
+                  <lb/>
+                  <addrLine>Naval Construction Battalions, Atlantic</addrLine>
+                  <lb/>
+                  <addrLine>Construction Battalion Center</addrLine>
+                  <lb/>
+                  <addrLine>Davisville, Rhode Island</addrLine>
+               </address></ab>
             <cb n="2"/>
-            <ab>Commander, U.S. Naval Support</ab>
-            <lb/>
-            <ab>Force, Antarctica</ab>
-            <lb/>
-            <ab>Room 214, Bldg. D.</ab>
-            <lb/>
-            <ab>6th &amp; Independence Ave., SW</ab>
-            <lb/>
-            <ab>Washington 25, D.C.</ab>
+            <ab>
+               <address>
+                  <addrLine>Commander, U.S. Naval Support</addrLine>
+                  <lb/>
+                  <addrLine>Force, Antarctica</addrLine>
+                  <lb/>
+                  <addrLine>Room 214, Bldg. D.</addrLine>
+                  <lb/>
+                  <addrLine>6th &amp; Independence Ave., SW</addrLine>
+                  <lb/>
+                  <addrLine>Washington 25, D.C.</addrLine>
+               </address></ab>
          </div>
       </body>
    </text>
