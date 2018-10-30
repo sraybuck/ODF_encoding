@@ -372,9 +372,9 @@
                Antarctic winter which began <date when="1957-04-21">April 21</date>. The garage
                building was several hundred feet from the nearest barracks building.</p>
             <lb/>
-            <ab>(<persName ref="#GeorgeJDufek">Admiral Dufek</persName> said in Washington, "The
-               fire and its losses will not affect the accomplishment of our mission for the IGY in
-               any way.")</ab>
+            <ab>(<persName ref="#GeorgeJDufek"><!--He is a Rear Admiral not an Admiral-->Admiral
+                  Dufek</persName> said in Washington, "The fire and its losses will not affect the
+               accomplishment of our mission for the IGY in any way.")</ab>
             <lb/>
             <p>Principal mission of the base is tp support air operations. Planes operating from the
                ice airstrip dropped materials to build a science base at the South Pole during the
