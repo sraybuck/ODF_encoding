@@ -37,39 +37,39 @@
                         1957</date></biblScope></bibl>
                   <lb/>
                   <lb/>
-                     <address>
-                        <addrLine> Phone Liberty 5-6700, Ext. 66675</addrLine>
-                     </address>                  
+                  <address>
+                     <addrLine> Phone Liberty 5-6700, Ext. 66675</addrLine>
+                  </address>
                   <lb/>
                   <lb/>
-                     <address>
-                        <addrLine>Duplicated and distributed by:</addrLine>
+                  <address>
+                     <addrLine>Duplicated and distributed by:</addrLine>
                      <lb/>
-                        <addrLine>Commander</addrLine>
-                        <lb/>
-                        <addrLine>Naval Construction Battalions, Atlantic</addrLine>
-                        <lb/>
-                        <addrLine>Construction Battalion Center</addrLine>
-                        <lb/>
-                        <addrLine>Davisville, Rhode Island</addrLine>
-                     </address>
+                     <addrLine>Commander</addrLine>
+                     <lb/>
+                     <addrLine>Naval Construction Battalions, Atlantic</addrLine>
+                     <lb/>
+                     <addrLine>Construction Battalion Center</addrLine>
+                     <lb/>
+                     <addrLine>Davisville, Rhode Island</addrLine>
+                  </address>
                   <cb n="2"/>
-                     <address>
-                        <addrLine>Commander, U.S. Naval Support</addrLine>
-                        <lb/>
-                        <addrLine>Force, Antarctica</addrLine>
-                        <lb/>
-                        <addrLine>Room 214, Bldg. D.</addrLine>
-                        <lb/>
-                        <addrLine>6th &amp; Independence Ave., SW</addrLine>
-                        <lb/>
-                        <addrLine>Washington 25, D.C.</addrLine>
-                     </address></titlePart>
+                  <address>
+                     <addrLine>Commander, U.S. Naval Support</addrLine>
+                     <lb/>
+                     <addrLine>Force, Antarctica</addrLine>
+                     <lb/>
+                     <addrLine>Room 214, Bldg. D.</addrLine>
+                     <lb/>
+                     <addrLine>6th &amp; Independence Ave., SW</addrLine>
+                     <lb/>
+                     <addrLine>Washington 25, D.C.</addrLine>
+                  </address></titlePart>
             </docTitle>
          </titlePage>
       </front>
       <body>
-
+         <pb facs="PLACEHOLDER" n="1"/>
          <div type="nameplate">
             <head>Operation Deep Freeze Newsletter</head>
             <lb/>
@@ -133,7 +133,7 @@
                   >USN</orgName>, of <placeName ref="#ShelbyMI">Shelby, Mich</placeName>.)</ab>
             <ab>(Page <num type="page" value="1">1</num>)</ab>
          </div>
-         <pb facs="PLACEHOLDER" n="1"/>
+         <pb facs="PLACEHOLDER" n="2"/>
          <div type="article" subtype="NAFMcMurdo">
             <p><placeName ref="#NAFMcMurdo">NAF MCMURDO</placeName> -- This station played host to
                New Zealanders on Easter Sunday. Eighteen men from the <placeName
@@ -210,7 +210,7 @@
                family's property.</p>
             <lb/>
             <ab>(Page <num type="page" value="2">2</num>)</ab>
-            <pb facs="PLACEHOLDER" n="2"/>
+            <pb facs="PLACEHOLDER" n="3"/>
             <p>Assisting in the operation is <persName ref="#ThomasEGehringer">Thomas E.
                   Gehringer</persName>, construction electrician 3/c, of <placeName
                   ref="#AllentownPA">Allentown, PA.</placeName>, a veteran lineman. When stationed
@@ -286,7 +286,7 @@
                messages passed through amateur radio facilities, other than the cost required</ab>
             <lb/>
             <ab>(continued next page) (Page <num type="page" value="3">3</num>)</ab>
-            <pb facs="PLACEHOLDER" n="3"/>
+            <pb facs="PLACEHOLDER" n="4"/>
             <ab>to deliver the intended message to the "ham" station operator.</ab>
             <ab>The following address is that of a capable amateur radio operator who has been very
                successful in handling messages to and from Antarctica: <persName ref="#PaulABlum"
@@ -367,7 +367,7 @@
                   ref="#GatesvilleTX">Gatesville, Texas</placeName>,</p>
             <lb/>
             <ab>(continued next page) (Page <num type="page" value="4">4</num>)</ab>
-            <pb facs="PLACEHOLDER" n="4"/>
+            <pb facs="PLACEHOLDER" n="5"/>
             <p>were on watch when the recordings were made. <persName ref="#BobbyDFancher">Bobby D.
                   Fancher</persName>, aerographer's mate 3/c, of <placeName ref="#CarlsbadNM"
                   >Carlsbad, N.M.</placeName>, was off duty at the time and missed the excitement,
@@ -440,7 +440,6 @@
                talent and ambitious plans insure many outstanding future parties.</p>
             <lb/>
             <ab>(Page <num type="page" value="5">5</num>)</ab>
-            <pb facs="PLACEHOLDER" n="5"/>
          </div>
       </body>
    </text>

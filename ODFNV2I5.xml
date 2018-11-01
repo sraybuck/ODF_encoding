@@ -18,6 +18,7 @@
    </teiHeader>
    <text>
       <body>
+         <pb facs="PLACEHOLDER" n="1"/>
          <div type="nameplate">
             <head>OPERATION DEEP FREEZE NEWSLETTER</head>
             <ab>Volume <num type="volume" value="2">II</num>, No. <num type="issue" value="5"
@@ -92,14 +93,15 @@
                tractor on a 1300 mile record round-trip to <placeName ref="#ByrdStation">Byrd
                   Station</placeName>.</p>
             <lb/>
-            <p>Like capable dentists the repair team proceeded to clean the cavity carefully before
+            <ab>Like capable dentists the repair team proceeded to clean the cavity carefully before
                filling. Eight blasts later all were aghast at the yawning chasm before them which a
-               short time earlier had been the road. In the dim light of the sunless Antarctic
-               winter dusk, Darter mounted his roaring iron monster, clicked on the floodlights and
-               began pushing mountainous heaps of snow into the crevasse. With the touch of a genius
-               he handled the gargantuan tractor as if it were a toy, advancing to the lip of the
-               crevasse, then watching the snow cascade like a tumbling white waterfall into the
-               abyss below.</p>
+               short time earlier had been the road. In the dim</ab>
+            <pb facs="PLACEHOLDER" n="2"/>
+            <ab>light of the sunless Antarctic winter dusk, Darter mounted his roaring iron monster,
+               clicked on the floodlights and began pushing mountainous heaps of snow into the
+               crevasse. With the touch of a genius he handled the gargantuan tractor as if it were
+               a toy, advancing to the lip of the crevasse, then watching the snow cascade like a
+               tumbling white waterfall into the abyss below.</ab>
             <lb/>
             <p>Final phase of the operation was to pack the snowfill solid by running the 38-ton
                tractor over it numerous times. Now the road is as good as new. Once again the
@@ -169,7 +171,7 @@
                (Continued next page.)</ab>
             <lb/>
             <ab>--<num type="page" value="2">2</num>--</ab>
-            <pb facs="PLACEHOLDER" n="2"/>
+            <pb facs="PLACEHOLDER" n="3"/>
          </div>
          <div type="article" subtype="WilkesStation">
             <p><placeName ref="#WilkesStation">Wilkes Station</placeName> -- Minor building and
@@ -254,7 +256,7 @@
                page)</ab>
             <lb/>
             <ab>--<num type="page" value="3">3</num>--</ab>
-            <pb facs="PLACEHOLDER" n="3"/>
+            <pb facs="PLACEHOLDER" n="4"/>
             <ab>Average daily fluctuation of temperature during April was 20 degrees: from an
                average daily maximum of -17&#176; to an average daily minimum of -37&#176;.</ab>
             <lb/>
@@ -313,7 +315,6 @@
                   <placeName ref="#LittleAmerica">Little America</placeName>.</p>
             <lb/>
             <ab>--<num type="page" value="4">4</num>--</ab>
-            <pb facs="PLACEHOLDER" n="4"/>
          </div>
       </body>
    </text>

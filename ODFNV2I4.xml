@@ -18,6 +18,7 @@
    </teiHeader>
    <text>
       <body>
+         <pb facs="PLACEHOLDER" n="1"/>
          <div type="nameplate">
             <head>Operation Deep Freeze Newsletter</head>
             <lb/>
@@ -101,7 +102,7 @@
                   Bank, N.J.</placeName></p>
             <lb/>
             <ab>(<num type="page" value="1">1</num>)</ab>
-            <pb facs="PLACEHOLDER" n="1"/>
+            <pb facs="PLACEHOLDER" n="2"/>
             <p>The unusual feature of the call was that it originated from the <choice>
                   <sic>Leeming's</sic>
                   <corr>Leemings'</corr>
@@ -186,7 +187,7 @@
                   Bradford</persName>, radioman, 1/c,</ab>
             <lb/>
             <ab>(<num type="page" value="2">2</num>)</ab>
-            <pb facs="PLACEHOLDER" n="2"/>
+            <pb facs="PLACEHOLDER" n="3"/>
             <ab>of <placeName ref="#MesaAZ">Mesa, Ariz.</placeName>; <persName
                   ref="#KennethJHailstorm">Kenneth J. Hailstorm</persName>, radioman 3/c, of
                   <placeName ref="#GallupNM">Gallup, N.M.</placeName>; and <persName
@@ -270,7 +271,7 @@
                Antarctic."</p>
             <lb/>
             <ab>(<num type="page" value="3">3</num>)</ab>
-            <pb facs="PLACEHOLDER" n="3"/>
+            <pb facs="PLACEHOLDER" n="4"/>
          </div>
          <div type="article" subtype="EllsworthStation">
             <p><placeName ref="#EllsworthStation">ELLSWORTH STATION</placeName>--(<date
@@ -351,7 +352,7 @@
                Caterprillar tractor, a lathe, a saw, an electric drive air compressor,</ab>
             <lb/>
             <ab>(<num type="page" value="4">4</num>)</ab>
-            <pb facs="PLACEHOLDER" n="4"/>
+            <pb facs="PLACEHOLDER" n="5"/>
             <ab>a 5-k.w. floodlight trailer, an electric arc welder, two Herman Nelson portable
                heaters, approximately 2500 feet of keying cable and all shop hand and small power
                tools.</ab>
@@ -429,7 +430,7 @@
                condition--enveloping</ab>
             <lb/>
             <ab>(<num type="page" value="5">5</num>)</ab>
-            <pb facs="PLACEHOLDER" n="5"/>
+            <pb facs="PLACEHOLDER" n="6"/>
             <ab>whiteness and complete lack of horizon--had brought their science studies to a
                standstill.</ab>
             <lb/>
@@ -503,7 +504,6 @@
                error.</p>
             <lb/>
             <ab>(<num>6</num>)</ab>
-            <pb facs="PLACEHOLDER" n="6"/>
          </div>
       </body>
    </text>

@@ -18,6 +18,7 @@
    </teiHeader>
    <text>
       <body>
+         <pb n="1" facs="PLACEHOLDER"/>
          <div type="nameplate">
             <head>OPERATION DEEP FREEZE NEWSLETTER</head>
             <lb/>
@@ -87,7 +88,9 @@
                same type of determination that brought him from his home in <placeName
                   ref="#SalisburyNH">Salsibury, N. H.</placeName>, to the Antarctic, he managed to
                capture the bird.</p>
-            <pb n="1" facs="PLACEHOLDER"/>
+
+            <pb facs="PLACEHOLDER" n="2"/>
+
             <p>The photographer on the job was <persName ref="#PaulFNoonan">Paul F.
                   Noonan</persName>, photographer first class, of <placeName ref="#BostonMA">Boston,
                   Mass.</placeName> With one continuous movement, <persName ref="#PaulFNoonan"
@@ -161,8 +164,9 @@
                which <placeName ref="#WilkesStation">Wilkes Station</placeName> is a part. Heavy
                drifting and 10 feet of snow now cover the station.</p>
             <lb/>
+
             <ab><num type="page" value="2">2</num></ab>
-            <pb facs="PLACEHOLDER" n="2"/>
+            <pb facs="PLACEHOLDER" n="3"/>
          </div>
          <div type="article" subtype="LittleAmerica">
             <p><placeName ref="#LittleAmerica">LITTLE AMERICA</placeName> -- Jack Frost is working
@@ -243,7 +247,7 @@
                stimulates interest and provides good training in democracy.</p>
             <lb/>
             <ab><num type="page" value="3">3</num></ab>
-            <pb facs="PLACEHOLDER" n="3"/>
+            <pb facs="PLACEHOLDER" n="4"/>
          </div>
          <div type="article" subtype="AllBases">
             <p>ALL BASES -- <persName ref="#WillieMDickey">Capt. Dickey</persName> reports from his
@@ -322,7 +326,7 @@
                while making late evening weather observations. Everyone was awed by its</ab>
             <lb/>
             <ab><num type="page" value="4">4</num></ab>
-            <pb facs="PLACEHOLDER" n="4"/>
+            <pb facs="PLACEHOLDER" n="5"/>
             <ab>ghostly beauty. It looked light green to very pale red, and ran roughly north and
                south, making slow weaving motions.</ab>
             <lb/>
@@ -413,7 +417,7 @@
                limited outside work still continues</ab>
             <lb/>
             <ab><num type="page" value="5">5</num></ab>
-            <pb facs="PLACEHOLDER" n="5"/>
+            <pb facs="PLACEHOLDER" n="6"/>
             <ab>at this isolate station. The temperatures, which has been consistently decreasing,
                rose during the day from minus 87 in the early morning to an unseasonably warm minus
                59 at midnight. Winds increased from 13 knots to 26 knots, with gusts up to 31 knots.
@@ -472,7 +476,7 @@
                Hawaii for duty as a flight engineer on a Super Constellation.</p>
             <lb/>
             <ab><num type="page" value="6">6</num></ab>
-            <pb facs="PLACEHOLDER" n="6"/>
+            <pb facs="PLACEHOLDER" n="7"/>
          </div>
          <div type="article" subtype="LittleAmerica">
             <p><placeName ref="#LittleAmerica">LITTLE AMERICA</placeName> -- This Station intends to
