@@ -16,7 +16,7 @@
   </teiHeader>
   <text>
     <body>
-      <schemaSpec ident="oddex1" start="TEI">
+      <schemaSpec ident="antarctic_test" start="TEI">
         <moduleRef key="analysis" include="interp interpGrp span"/>
         <moduleRef key="core" except="binaryObject divGen headItem headLabel"/>
         <moduleRef key="corpus" include="particDesc"/>
@@ -44,17 +44,17 @@
         <elementSpec ident="persName" module="namesdates" mode="change">
           <attList>
             <attDef ident="ref" mode="change" usage="req"></attDef>
-          </attList> 
+          </attList>
         </elementSpec>
         <elementSpec ident="placeName" module="namesdates" mode="change">
           <attList>
             <attDef ident="ref" mode="change" usage="req"></attDef>
-          </attList> 
+          </attList>
         </elementSpec>
         <elementSpec ident="orgName" module="namesdates" mode="change">
           <attList>
             <attDef ident="ref" mode="change" usage="req"></attDef>
-          </attList> 
+          </attList>
         </elementSpec>
         <!--closed list on @type of <rs>-->
         <elementSpec ident="rs" mode="change" module="core">
@@ -76,14 +76,14 @@
         <elementSpec ident="div" module="textstructure" mode="change">
           <attList>
             <attDef ident="type" mode="change" usage="req"></attDef>
-          </attList> 
+          </attList>
         </elementSpec>
         <!--@facs and @n attributes required on <pb/>-->
         <elementSpec ident="pb" module="core" mode="change">
           <attList>
             <attDef ident="facs" mode="change" usage="req"></attDef>
             <attDef ident="n" mode="change" usage="req"></attDef>
-          </attList> 
+          </attList>
         </elementSpec>
       </schemaSpec>
     </body>
