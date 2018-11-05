@@ -56,7 +56,8 @@
             <p>"Penguin Post" is co-edited by the Navy and IGY men. Editors are <persName
                   ref="#CalvinLLarson">Calvin L. Larsen</persName>, chief photographer's mate, of
                   <placeName ref="#CulbertsonMT">Culbertson, Mont.</placeName>, and <persName
-                  ref="#RobertCTaylor">Ronald C. Taylor</persName>, IGY Meteorologist, of <placeName
+                  ref="#RobertCTaylor">Ronald C. Taylor</persName>, <orgName
+                  ref="#InternationalGeophysicalYear">IGY</orgName> Meteorologist, of <placeName
                   ref="#SanGabrielCA">San Gabriel, Calif</placeName>. Reporters are <persName
                   ref="#WilliamFKraut">William F. Kraut</persName>, radioman 1/c, of <placeName
                   ref="#BridgeportCT">Bridgeport, Conn.</placeName>; <persName ref="#BoydDRussell"
@@ -64,12 +65,13 @@
                      <sic>Forth</sic>
                      <corr>Fort</corr>
                   </choice> Worth, Tex.</placeName>; <persName ref="#PaulCDalrymple">Paul C.
-                  Dalrymple</persName>, IGY Glaciologist, of <placeName ref="#CochituateMA"
-                  >Cochituate, Mass.</placeName>; and <persName ref="#BruceJLieske">Bruce J.
-                  Lieske</persName>, IGY Meteorologist, of <placeName ref="#SilverSpringsMD">Silver
-                  Springs, Md</placeName>. <persName ref="#JohnEZoller">Chaplain John E.
-                  Zoller</persName> of <placeName ref="#ShelbyMI">Shelby, Mich.</placeName>, is
-               advisor.</p>
+                  Dalrymple</persName>, <orgName ref="#InternationalGeophysicalYear">IGY</orgName>
+               Glaciologist, of <placeName ref="#CochituateMA">Cochituate, Mass.</placeName>; and
+                  <persName ref="#BruceJLieske">Bruce J. Lieske</persName>, <orgName
+                  ref="#InternationalGeophysicalYear">IGY</orgName> Meteorologist, of <placeName
+                  ref="#SilverSpringsMD">Silver Springs, Md</placeName>. <persName
+                  ref="#JohnEZoller">Chaplain John E. Zoller</persName> of <placeName
+                  ref="#ShelbyMI">Shelby, Mich.</placeName>, is advisor.</p>
             <lb/>
             <p><placeName ref="#LittleAmerica">Little America</placeName> is also considering adding
                several "foreign correspondents" to the Post staff in the form of "ham" radio
@@ -95,7 +97,8 @@
                   >April 29</date>)--The <placeName ref="#LittleAmerica">Little America</placeName>
                "ham" radio station, KC4USA, made an unusual contact recently. On <date
                   when="1957-04-14">April 14</date>
-               <persName ref="#CarlOWyman">Carl O. Wyman</persName>, IGY Ionospheric Physicist, of
+               <persName ref="#CarlOWyman">Carl O. Wyman</persName>, <orgName
+                  ref="#InternationalGeophysicalYear">IGY</orgName> Ionospheric Physicist, of
                   <placeName ref="#PhiladelphiaPA">Philadelphia</placeName>, received a ham radio
                phone call from friends <persName ref="#FrankLeeming">Frank</persName> and <persName
                   ref="#RuthLeeming">Ruth Leeming</persName> of <placeName ref="#RedBankNJ">Red
@@ -121,12 +124,13 @@
                even for the experienced amateur operator that he is. He bought his first crystal
                short wave receiver when a boy, and sold newspapers to pay for it.</p>
             <lb/>
-            <p>In 1926, when in the Marine Corps, he built a ham station in Nicaragua and carried
-               some of the first emergency humanitarian traffic for service personnel. He was
-               communications officer in the Marines, Pacific Theater, during the second World War,
-               and in 1948 he was recalled to Washington for active duty with the Electronic Warfare
-               Program. Since release from active duty as a Lieutenant Colonel in 1955, he has
-               continued ham radio activities. He holds an amateur license number K2VAV.</p>
+            <p>In 1926, when in the <orgName ref="#MarineCorps">Marine Corps</orgName>, he built a
+               ham station in Nicaragua and carried some of the first emergency humanitarian traffic
+               for service personnel. He was communications officer in the Marines, Pacific Theater,
+               during the second World War, and in 1948 he was recalled to Washington for active
+               duty with the Electronic Warfare Program. Since release from active duty as a
+               Lieutenant Colonel in 1955, he has continued ham radio activities. He holds an
+               amateur license number K2VAV.</p>
             <lb/>
             <ab>At <placeName ref="#LittleAmerica">Little America</placeName>
                <persName ref="#CarlOWyman">Wyman</persName> will soon start classes for beginners
@@ -135,10 +139,10 @@
          </div>
          <div type="article" subtype="ByrdStation">
             <p><placeName ref="#ByrdStation">BYRD STATION</placeName> --(<date when="1957-04-29"
-                  >April 29</date>)-- At this isolated, inland base, 647 miles west of Little
-               America, the last sunrise of the season was witnessed on Easter Sunday morning.
-               Special messages were sent and received through the courtesy of "ham" radio
-               operators.</p>
+                  >April 29</date>)-- At this isolated, inland base, 647 miles west of <placeName
+                  ref="#LittleAmerica">Little America</placeName>, the last sunrise of the season
+               was witnessed on Easter Sunday morning. Special messages were sent and received
+               through the courtesy of "ham" radio operators.</p>
             <lb/>
             <p>At sunset on Easter Day a tape recording sounded taps and the American flag over Byrd
                station was hauled down for the Antarctic night. There is now a sense of urgency
@@ -150,9 +154,10 @@
             <p><placeName ref="WilkesStation">WILKES STATION</placeName>--(<date when="1957-04-30"
                   >April 30</date>)-- Much activity is centered around the local ladder cribbage
                tournament. Holding the title within a week were <persName ref="#RudolfAHonkala"
-                  >Rudolf A. Honkala</persName>, IGY Meteorologist, of <placeName ref="#SalisburyNH"
-                  >Salisbury, N. H.</placeName>; <persName ref="#DavidDaniel">David
-                  Daniel</persName>, commissaryman 3/c, of <placeName ref="#FairfieldTX"><choice>
+                  >Rudolf A. Honkala</persName>, <orgName ref="#InternationalGeophysicalYear"
+                  >IGY</orgName> Meteorologist, of <placeName ref="#SalisburyNH">Salisbury, N.
+                  H.</placeName>; <persName ref="#DavidDaniel">David Daniel</persName>,
+               commissaryman 3/c, of <placeName ref="#FairfieldTX"><choice>
                      <sic>Fairfiled</sic>
                      <corr>Fairfield</corr>
                   </choice>, Texas</placeName>; and <persName ref="#CarolREklund">Carl R.
@@ -175,7 +180,7 @@
                   <placeName ref="LeeMA">Lee, Mass.</placeName>; and <persName
                   ref="SheldonWGrinnell">Lt. Sheldon W. Grinnell</persName>, station doctor of
                   <placeName ref="CarbondaleIL">Carbondale, Ill.</placeName>, have spent Sunday
-               holidays helping Scientific Leader <persName ref="CarlREklund">Eklund</persName> with
+               holidays helping <persName ref="CarlREklund">Scientific Leader Eklund</persName> with
                biological field work.</p>
             <lb/>
             <ab><persName ref="#GeorgeEMagee">George E. Magee</persName>, builder 1/c of <placeName
@@ -198,13 +203,15 @@
             <p><persName ref="#PaulAWyche">Paul A. Wyche</persName>, aerographer's mate 1/c, of
                   <placeName ref="#MaconGA">Macon, Ga.</placeName>, is suffering from a sprained
                ankle. He twisted it while carrying water out to the balloon release shelter.
-                  <persName ref="#GilbertLewart">Gilbert Lewart</persName>, IGY Seismologist, of
-                  <placeName ref="#CloverdaleCA">Cloverdale, Calif.</placeName>, has recorded his
-               first earthquake. It came from the area south of Australia.</p>
+                  <persName ref="#GilbertLewart">Gilbert Lewart</persName>, <orgName
+                  ref="#InternationalGeophysicalYear">IGY</orgName> Seismologist, of <placeName
+                  ref="#CloverdaleCA">Cloverdale, Calif.</placeName>, has recorded his first
+               earthquake. It came from the area south of Australia.</p>
             <lb/>
-            <ab><persName ref="#RalphGlasgal">Ralph Glasgal</persName>, IGY Auroral Physicist, of
-                  <placeName ref="#NewYorkCity">New York City</placeName>, is watching his sleeping
-               hours being cut down as the lengthening nights increase the time he must spend making
+            <ab><persName ref="#RalphGlasgal">Ralph Glasgal</persName>, <orgName
+                  ref="#InternationalGeophysicalYear">IGY</orgName> Auroral Physicist, of <placeName
+                  ref="#NewYorkCity">New York City</placeName>, is watching his sleeping hours being
+               cut down as the lengthening nights increase the time he must spend making
                observations.</ab>
             <lb/>
          </div>
@@ -228,7 +235,7 @@
                divine providence and a petition for continued care on behalf of all men of all
                nations spending the coming winter on teh white continent.</ab>
             <lb/>
-            <p>After the colors were lowered, <persName ref="#HowardJOrndorff">Lcdr Howard J.
+            <p>After the colors were lowered, <persName ref="#HowardJOrndorff">LCDR Howard J.
                   Orndorff</persName>, Officer in Charge of Little America, of <placeName
                   ref="#NutterfortWV">Nutterfort, W. Va.</placeName>, presented the flag to
                   <persName ref="#WillieMDickey">Capt. W. Mills Dickey</persName>, Commander of
@@ -250,7 +257,7 @@
                next rising of the sun."</p>
             <lb/>
             <p>Others in the flag-lowering formation were company commanders <persName
-                  ref="#JamesEWaldron">Lcdr James E. Waldron, Jr.</persName>, of <placeName
+                  ref="#JamesEWaldron">LCDR James E. Waldron, Jr.</persName>, of <placeName
                   ref="#NewOrleansLA">New Orleans</placeName>; <persName ref="#HarveyGSpeed">Lt.
                   Harvey G. Speed</persName>, of <placeName ref="#NorthMuskegonMI">North Muskegon,
                   Mich.</placeName>; <persName ref="#RobertKWhite">Lt(jg) Robert K.
@@ -373,13 +380,17 @@
                Antarctic winter which began <date when="1957-04-21">April 21</date>. The garage
                building was several hundred feet from the nearest barracks building.</p>
             <lb/>
-            <ab>(<persName ref="#GeorgeJDufek"><!--He is a Rear Admiral not an Admiral-->Admiral
-                  Dufek</persName> said in Washington, "The fire and its losses will not affect the
-               accomplishment of our mission for the IGY in any way.")</ab>
+            <ab>(<persName ref="#GeorgeJDufek"><choice>
+                     <sic>Admiral</sic>
+                     <corr>Rear Admiral</corr>
+                  </choice> Dufek</persName> said in Washington, "The fire and its losses will not
+               affect the accomplishment of our mission for the <orgName
+                  ref="#InternationalGeophysicalYear">IGY</orgName> in any way.")</ab>
             <lb/>
             <p>Principal mission of the base is tp support air operations. Planes operating from the
-               ice airstrip dropped materials to build a science base at the South Pole during the
-               past Antarctic summer.</p>
+               ice airstrip dropped materials to build a science base at the <placeName
+                  ref="#SouthPoleStation">South Pole</placeName> during the past Antarctic
+               summer.</p>
             <lb/>
          </div>
          <div type="#LittleAmerica">
@@ -390,13 +401,14 @@
                his present rank. Date of rank is retroactive to <date when="1957-02-01">Feb.
                   1.</date></p>
             <lb/>
-            <p>First entering the Navy in July 1943, Waldron's duty has always been in aviation.
-               After receiving his wings in May, 1945, he took advanced flight training, then joined
-               a ferry command until his release from active duty the following year.</p>
+            <p>First entering the Navy in July 1943, <persName ref="#JamesEWaldron"
+                  >Waldron's</persName> duty has always been in aviation. After receiving his wings
+               in May, 1945, he took advanced flight training, then joined a ferry command until his
+               release from active duty the following year.</p>
             <lb/>
             <p>Volunteering to return to active service in June, 1951, he was ordered to <placeName
                   ref="PensacolaFL">Pensacola, Fla.</placeName>, for helicopter training. <persName
-                  ref="#JamesEWaldron">Lcdr Waldron</persName> has since logged 1600 hours of
+                  ref="#JamesEWaldron">LCDR Waldron</persName> has since logged 1600 hours of
                helicopter flying time, serving aboard seven carriers and making six rescues of
                pilots form the water. In December, 1954, he was rushed to Honduras to participate in
                rescue of flood victims. He flew almost continuously for a week, evacuating survivors
@@ -419,14 +431,16 @@
             <ab>The men were <persName ref="#CarlREklund">Carl R. Eklund</persName>, station
                scientific leader of <!--THIS IS INCONSISTENT WITH OTHER SOURCES--><placeName
                   ref="#MaconGA">Macon, Ga.</placeName>; <persName ref="#RichardLCameron">Richard L.
-                  Cameron</persName>, IGY Glaciologist, of <placeName ref="#BatesvilleCA"
-                  >Batesville, Calif.</placeName>; <persName ref="#RudolfAHonkala">Rudolf A.
-                  Honkala</persName>, IGY Meteorologist, of <placeName ref="#SalisburyNH">Salisbury,
-                  N.H.</placeName>; <persName ref="#OlavLoken">Olav Loken</persName>, Norwegian
-               Glaciologist; <persName ref="#JohnMolhom">John Molhom</persName>, IGY Glaciologist,
-               of <placeName ref="#CambridgeMA">Cambridge, Mass.</placeName>; and <persName
-                  ref="#PaulFNoonan">Paul F. Noonan</persName>, photographer's mate 1/c, of
-                  <placeName ref="#DorchesterMA">Dorchester, Mass.</placeName> The "whiteout"
+                  Cameron</persName>, <orgName ref="#InternationalGeophysicalYear">IGY</orgName>
+               Glaciologist, of <placeName ref="#BatesvilleCA">Batesville, Calif.</placeName>;
+                  <persName ref="#RudolfAHonkala">Rudolf A. Honkala</persName>, <orgName
+                  ref="#InternationalGeophysicalYear">IGY</orgName> Meteorologist, of <placeName
+                  ref="#SalisburyNH">Salisbury, N.H.</placeName>; <persName ref="#OlavLoken">Olav
+                  Loken</persName>, Norwegian Glaciologist; <persName ref="#JohnMolhom">John
+                  Molhom</persName>, <orgName ref="#InternationalGeophysicalYear">IGY</orgName>
+               Glaciologist, of <placeName ref="#CambridgeMA">Cambridge, Mass.</placeName>; and
+                  <persName ref="#PaulFNoonan">Paul F. Noonan</persName>, photographer's mate 1/c,
+               of <placeName ref="#DorchesterMA">Dorchester, Mass.</placeName> The "whiteout"
                condition--enveloping</ab>
             <lb/>
             <ab>(<num type="page" value="5">5</num>)</ab>
@@ -436,9 +450,10 @@
             <lb/>
             <p>They had set out from <placeName ref="#WilkesStation">Wilkes Station</placeName> at
                dawn two days earlier. The site for their satellite station, an important part in the
-               Wilkes IGY program, had to be far enough inland for the climate to be representative
-               of the entire icecap, and the snow over had to be deep enough to dig a 100-foot pit
-               for glaciological studies.</p>
+                  <placeName ref="#WilkesStation">Wilkes</placeName>
+               <orgName ref="#InternationalGeophysicalYear">IGY</orgName> program, had to be far
+               enough inland for the climate to be representative of the entire icecap, and the snow
+               over had to be deep enough to dig a 100-foot pit for glaciological studies.</p>
             <lb/>
             <p>By midday they had covered 30 miles after having considerable difficulty getting
                their weasels and sleds over the moraine, a rocky barrier extending along the edge of
@@ -484,17 +499,18 @@
             <lb/>
             <ab>His request was accepted and he was sent to <placeName ref="#QuonsetPointRI">Quonset
                   Point, R.I.</placeName>, home of VX-6. A few months later he was aboard the Navy
-               cargo ship USS WYANDOT, bound for the Weddell Sea.</ab>
+               cargo ship USS Wyandot, bound for the Weddell Sea.</ab>
             <lb/>
-            <p>Before joining the Navy in 1954, Larson attended Edison Technical and Industrial high
-               school. After initial Navy training he was selected to attend the Navy's Aviation
-               Electronic Technician School in <placeName ref="#MemphisTN">Memphis,
-                  Tenn.</placeName></p>
+            <p>Before joining the <orgName ref="#UnitedStatesNavy">Navy</orgName> in 1954, Larson
+               attended Edison Technical and Industrial high school. After initial Navy training he
+               was selected to attend the Navy's Aviation Electronic Technician School in <placeName
+                  ref="#MemphisTN">Memphis, Tenn.</placeName></p>
             <lb/>
-            <ab>Since reaching the Antarctic, Larson has participated in all phases of the
-               construction of <placeName ref="#EllsworthStation">Ellsworth Station</placeName>,
-               including assembly of two DeHavilland Otter aircraft, raising antenna, driving a D-4
-               tractor and maintenance of the aircraft electronic gear.</ab>
+            <ab>Since reaching the Antarctic, <persName ref="#LRLarson">Larson</persName> has
+               participated in all phases of the construction of <placeName ref="#EllsworthStation"
+                  >Ellsworth Station</placeName>, including assembly of two DeHavilland Otter
+               aircraft, raising antenna, driving a D-4 tractor and maintenance of the aircraft
+               electronic gear.</ab>
             <lb/>
          </div>
          <div type="editorialInfo">
