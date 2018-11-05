@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Operation Deep Freeze Newsletter Volume 2 Issue 3</title>
          </titleStmt>
          <publicationStmt>
             <p>Publication Information</p>
@@ -22,10 +22,9 @@
             <docTitle>
                <titlePart>Deep Freeze<figure>
                      <figDesc>A circular illustration of a carpenter bee in cold weather gear
-                        holding a variety of tools and a key flying over Antarctical with an
-                        onlooking penguin. Above the bee, the acronym IGY is displayed while below
-                        it the word DEEPFREEZE is displayed next to a Naval Aviator
-                        Insignia</figDesc>
+                        holding a variety of tools flying over Antarctical with an onlooking
+                        penguin. Above the bee, the acronym IGY is displayed while below it the word
+                        DEEPFREEZE is displayed next to a Naval Aviator Insignia</figDesc>
                   </figure>Newsletter</titlePart>
                <titlePart>
                   <cb n="1"/>
@@ -291,16 +290,17 @@
             <ab>The following address is that of a capable amateur radio operator who has been very
                successful in handling messages to and from Antarctica: <persName ref="#PaulABlum"
                   >Paul A. Blum</persName>, <address>
-                  <street>101 Kristin Road, </street>
-                  <placeName ref="#NorthSyracuseNY">North Syracuse, N. Y.</placeName>
+                  <addrLine>101 Kristin Road, </addrLine>
+                  <addrLine><placeName ref="#NorthSyracuseNY">North Syracuse, N.
+                     Y.</placeName></addrLine>
                </address></ab>
             <lb/>
             <p>It is sometimes possible to arrange telephone conversations between the States and
                Antarctic bases through the amateur radio facilities. To accomplish this, interested
                parties should address a post card to: <persName ref="#JuliusMJMadey">Julius M. J.
                   Madey</persName>, <address>
-                  <street>1037 Raritan Road,</street>
-                  <placeName ref="#ClarkNJ">Clark, New Jersey</placeName>
+                  <addrLine>1037 Raritan Road,</addrLine>
+                  <addrLine><placeName ref="#ClarkNJ">Clark, New Jersey</placeName></addrLine>
                </address>. Your post card should include person's name and his station in
                Antarctica. The cost of this service will be for long distance phone from where you
                make the call to <placeName ref="#ClarkNJ">Clark, N. J.</placeName></p>
@@ -394,16 +394,18 @@
                consisting of five generators, wiring connections for the 17 buildings, and wiring
                for the storage tunnel lighting.</p>
             <lb/>
-            <p>As the Seabees' only electrician, <persName ref="#JamesLHannah">Hannah</persName> was
-               kept busy days and often nights with these tasks. Having now completed the electrical
-               systems, he has the responsibility of maintaining these systems throughout the year.
-               He also maintains the heating systems.</p>
+            <p>As the <orgName ref="#UnitedStatesNavalConstructionBattalions">Seabees'</orgName>
+               only electrician, <persName ref="#JamesLHannah">Hannah</persName> was kept busy days
+               and often nights with these tasks. Having now completed the electrical systems, he
+               has the responsibility of maintaining these systems throughout the year. He also
+               maintains the heating systems.</p>
             <lb/>
             <p><persName ref="#JamesLHannah">Hannah</persName>, a Texan, began his Navy career in
-               1947. He has been a Seabee electrician during his 10 years of service. His foreign
-               service has included Alaska, Guam, Cuba, and Africa. Hannah volunteered to come to
-               Antarctica because it would be a new experience, and he is one of several who are
-               considering remaining here another year.</p>
+               1947. He has been a <orgName ref="#UnitedStatesNavalConstructionBattalions"
+                  >Seabee</orgName> electrician during his 10 years of service. His foreign service
+               has included Alaska, Guam, Cuba, and Africa. Hannah volunteered to come to Antarctica
+               because it would be a new experience, and he is one of several who are considering
+               remaining here another year.</p>
             <lb/>
          </div>
          <div type="article" subtype="LittleAmerica">
@@ -415,21 +417,22 @@
                hour" and buffet supper.</p>
             <lb/>
             <ab>Master of Ceremonies <persName ref="#WilliamJCromie">William J. "Wild Bill"
-                  Cromie</persName>, IGY Glaciologist from <placeName ref="#LongIslandNY">Long
-                  Island, N.Y.</placeName>, called the bingo, cracked jokes, introduced the floor
-               show, and recited an original poem of his own composition entitled, "The Ballad of
-               the Barrier Ledge," a clever yarn of dubious dealings on the ice. </ab>
+                  Cromie</persName>, <orgName ref="#InternationalGeophysicalYear">IGY</orgName>
+               Glaciologist from <placeName ref="#LongIslandNY">Long Island, N.Y.</placeName>,
+               called the bingo, cracked jokes, introduced the floor show, and recited an original
+               poem of his own composition entitled, "The Ballad of the Barrier Ledge," a clever
+               yarn of dubious dealings on the ice. </ab>
             <lb/>
             <p>Music was provided by "Cumbie's Combo," led by <persName ref="#WilliamACumbie"
                   >William A. Cumbie</persName>, aviation electronics technician 2/c, of <placeName
                   ref="#MiltonFL">Milton, Fla.,</placeName> a hoe down expert from away back who
                plays a hot electric guitar. Blowing up a storm on harmonica was <persName
                   ref="#BobbieFGrice">Bobbie F. Grice</persName>, radioman 1/c, of <placeName
-                  ref="#HubbardTX">Hubbard, Texas</placeName>. Jazz piano was pounded out by Eagle
-               Scout <persName ref="#RichardLChappell">Richard L. Chappell</persName>, scientist
-               aid, from <placeName ref="#EggertsvilleNY">Eggertsville, N.Y.</placeName>, and
-               slapping a solid, home-made bass was stogie-smoking <persName ref="#EarlRHills">Ens.
-                  Earl R. Hills</persName> of <placeName ref="#ChattanoogaTN">Chattanooga,
+                  ref="#HubbardTX">Hubbard, Texas</placeName>. Jazz piano was pounded out by
+               <orgName ref="#EagleScouts">Eagle Scout</orgName> <persName ref="#RichardLChappell">Richard L. Chappell</persName>,
+               scientist aid, from <placeName ref="#EggertsvilleNY">Eggertsville, N.Y.</placeName>,
+               and slapping a solid, home-made bass was stogie-smoking <persName ref="#EarlRHills"
+                  >Ens. Earl R. Hills</persName> of <placeName ref="#ChattanoogaTN">Chattanooga,
                   Tenn.</placeName> The bass was rigged from a washtub, swab handle, and taut
                cord.</p>
             <lb/>

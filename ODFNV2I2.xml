@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Title</title>
+            <title>Operation Deep Freeze Newsletter Volume 2 Issue 2</title>
          </titleStmt>
          <publicationStmt>
             <p>Publication Information</p>
@@ -30,18 +30,20 @@
          </div>
          <div type="article" subtype="ByrdStation">
             <p><placeName ref="#ByrdStation">BYRD STATION</placeName> -- At this Antarctic station
-               IGY scientists were astonished to find ice in the area reaching a depth of 7,800 to
-               9,750 feet. The scientists believe all this ice rests on land but it is not an
-               established fact as yet.</p>
+                  <orgName ref="#InternationalGeophysicalYear">IGY</orgName> scientists were
+               astonished to find ice in the area reaching a depth of 7,800 to 9,750 feet. The
+               scientists believe all this ice rests on land but it is not an established fact as
+               yet.</p>
             <lb/>
          </div>
          <div type="article" subtype="NAFMcMurdo">
             <p>NAF MCMURDO -- During one of many reconnaissance flights in the vicinity of this
-               airbase, Major S. A. Antos, USMC of Buffalo, N.Y., discovered what may be an
-               Antarctic phenomenon. Situated near Marble Point and the Wilson-Piedmont Glacier, he
-               saw a huge ice tunnel more than a mile long. He described it as, "A huge ice tube
-               that looked as if a draw were frozen over the top of a cavernous hollow formed by
-               melted glacier ice."</p>
+               airbase, <persName ref="#SAAntos">Major S. A. Antos</persName>, <orgName
+                  ref="#UnitedStatesMarineCorps">USMC</orgName> of <placeName ref="#BuffaloNY"
+                  >Buffalo, N.Y.</placeName>, discovered what may be an Antarctic phenomenon.
+               Situated near Marble Point and the Wilson-Piedmont Glacier, he saw a huge ice tunnel
+               more than a mile long. He described it as, "A huge ice tube that looked as if a draw
+               were frozen over the top of a cavernous hollow formed by melted glacier ice."</p>
          </div>
          <lb/>
          <div type="article" subtype="SouthPole">
@@ -79,13 +81,14 @@
                   Honkala</persName>. <persName ref="#RudolfAHonkala">Rudy</persName> is a U. S.
                Weather Bureau meteorologist stationed here as an assistant to <persName
                   ref="#CarlEklund">Mr. Eklund</persName>. Right on his heels was <persName
-                  ref="#SheldonWGrinnell">Lt. Sheldon W. Grinnell</persName>, MC, USNR, of
-                  <placeName ref="#CarbondaleIL">Carbondale, Ill</placeName>. With a great deal of
-               zeal, <persName ref="#RudolfAHonkala">Honkala</persName> piled onto the net and
-               attempted to grasp one of the trapped birds. His face soon had a look of perplexity
-               and he began to wonder if this flurry of wings and claws was going to evade his
-               grasp. By then he knew that this was no homing pigeon he was dealing with. But the
-               same type of determination that brought him from his home in <placeName
+                  ref="#SheldonWGrinnell">Lt. Sheldon W. Grinnell</persName>, <orgName
+                  ref="#MedicalCorps">MC</orgName>, <orgName ref="#UnitedStatesNavalReserves"
+                  >USNR</orgName>, of <placeName ref="#CarbondaleIL">Carbondale, Ill</placeName>.
+               With a great deal of zeal, <persName ref="#RudolfAHonkala">Honkala</persName> piled
+               onto the net and attempted to grasp one of the trapped birds. His face soon had a
+               look of perplexity and he began to wonder if this flurry of wings and claws was going
+               to evade his grasp. By then he knew that this was no homing pigeon he was dealing
+               with. But the same type of determination that brought him from his home in <placeName
                   ref="#SalisburyNH">Salsibury, N. H.</placeName>, to the Antarctic, he managed to
                capture the bird.</p>
 
@@ -103,7 +106,8 @@
                conjunction with his biological research in the Antarctic.</p>
             <lb/>
             <p>The creatures of this land, like the land itself, are quite mysterious to the outside
-               world. To study them and their habitat is part of the IGY program here. <persName
+               world. To study them and their habitat is part of the <orgName
+                  ref="#InternationalGeophysicalYear">IGY</orgName> program here. <persName
                   ref="#SheldonWGrinnell">Lt. Grinnell</persName>, assisted by <persName
                   ref="#GarthHStonehocker">Garth H. Stonehocker</persName>, chief ionospheric
                physicist at this station, put the birds in a cardboard carton so that they could be
@@ -159,9 +163,10 @@
             <p><placeName ref="#WilkesStation">WILKES STATION</placeName> -- During March in the
                Vincennes Bay area, bay waters were still, free of packice. Scientists had begun
                their studies with comparatively little handicap due to the efficient work of
-                  <placeName ref="#WilkesStation">Wilkes</placeName> wintering-over Seabees. Glacial
-               geology and higher sea levels are being investigated on the Windmill Island group of
-               which <placeName ref="#WilkesStation">Wilkes Station</placeName> is a part. Heavy
+                  <placeName ref="#WilkesStation">Wilkes</placeName> wintering-over <orgName
+                  ref="#UnitedStatesNavalConstructionBattalions">Seabees</orgName>. Glacial geology
+               and higher sea levels are being investigated on the Windmill Island group of which
+                  <placeName ref="#WilkesStation">Wilkes Station</placeName> is a part. Heavy
                drifting and 10 feet of snow now cover the station.</p>
             <lb/>
 
@@ -182,15 +187,18 @@
                The men welcome coffee breaks which relive them from extended exposure.</p>
             <lb/>
             <p>An appendectomy was successfully performed last week by <persName ref="#PatBUnger"
-                  >Lt. Pat B. Unger</persName>, MC, USNR, of <placeName ref="#MiamiFL">Miami,
-                  Fla.</placeName>, on <persName ref="#AllenEPracht">Allen E. Pracht</persName>,
-               builder 3/c, of <placeName ref="#PittsburghPA">Pittsburgh, Pa.</placeName> Assisting
-                  <persName ref="#PatBUnger">Dr. Unger</persName> were <persName ref="#RobertJAdams"
-                  >Lt. (jg) Robert J. Adams</persName>, DC, USNR, of <placeName ref="#MemphisTN"
-                  >Memphis, Tenn.</placeName>, <persName ref="#FredAMilan">Fred A. Milan,</persName>
-               physiologist of <placeName ref="#AndoverMA">Andover, Mass.</placeName>, Korean combat
-               veteran <persName ref="#HaroldEButler">Harold E. Butler</persName>, hospitalman 3/c,
-               of <placeName ref="#GigHarborWA">Gig Harbor, Wash.</placeName></p>
+                  >Lt. Pat B. Unger</persName>, <orgName ref="#MedicalCorps">MC</orgName>, <orgName
+                  ref="#UnitedStatesNavalReserves">USNR</orgName>, of <placeName ref="#MiamiFL"
+                  >Miami, Fla.</placeName>, on <persName ref="#AllenEPracht">Allen E.
+                  Pracht</persName>, builder 3/c, of <placeName ref="#PittsburghPA">Pittsburgh,
+                  Pa.</placeName> Assisting <persName ref="#PatBUnger">Dr. Unger</persName> were
+                  <persName ref="#RobertJAdams">Lt. (jg) Robert J. Adams</persName>, <orgName
+                  ref="#DamageControlman">DC</orgName>, <orgName ref="#UnitedStatesNavalReserves"
+                  >USNR</orgName>, of <placeName ref="#MemphisTN">Memphis, Tenn.</placeName>,
+                  <persName ref="#FredAMilan">Fred A. Milan,</persName> physiologist of <placeName
+                  ref="#AndoverMA">Andover, Mass.</placeName>, Korean combat veteran <persName
+                  ref="#HaroldEButler">Harold E. Butler</persName>, hospitalman 3/c, of <placeName
+                  ref="#GigHarborWA">Gig Harbor, Wash.</placeName></p>
             <lb/>
             <p><persName ref="#AllenEPracht">Pracht</persName> is reported to be convalescing well
                after the operation. Flashing his usual smile, he said, "It's a relief to have the
@@ -205,46 +213,50 @@
             <lb/>
             <p>Senators are: <persName ref="#HughFBennet">Hugh F. Bennett</persName>, seismologist
                of <placeName ref="#ChipppewaFallsWI">Chippewa Falls, Wis.</placeName>; <persName
-                  ref="#RichardLChappell">Richard L. Chappell</persName>, science aide (Eagle Scout)
-               of <placeName ref="#EggertsvilleNY">Eggertsville, N.Y.</placeName>; <persName
-                  ref="#SLCoyne">S. L. Coyne</persName>, construction driver 3/c, <placeName
-                  ref="#PiquaOH">Piqua, Ohio</placeName>; <persName ref="#KAElliot">K. A.
-                  Elliott</persName>, construction driver 1/c, of <placeName ref="#LancasterPA"
-                  >Lancaster, Pa.</placeName>; <persName ref="#CWJenkins">C. W. Jenkins</persName>,
-               hospitalman 3/c, of <placeName ref="#GigHarborWA">Gig Harbor, Wash.</placeName>;
-                  <persName ref="#WFKraut">W. F. Kraut</persName>, radioman 1/c, of <placeName
-                  ref="#BridgeportCT">Bridgeport, Conn.</placeName>; <persName ref="#AllenEPracht"
-                  >A. E. Pracht</persName>, builder 3/c, of <placeName ref="#PittsburghPA"
-                  >Pittsburgh, Pa.</placeName>; <persName ref="#GHStewart">G. H. Stewart</persName>,
-               aviation machinist's mate 2/c, of <placeName ref="#MinneapolisMN">Minneapolis,
-                  Minn.</placeName>; and <persName ref="#EarlTracy">Earl Tracy</persName>, aviation
-               electrician's mate 1/c, of <placeName ref="#GranadaHillsCA">Granada Hills,
-                  Calif.</placeName></p>
+                  ref="#RichardLChappell">Richard L. Chappell</persName>, science aide (<orgName
+                  ref="#EagleScouts">Eagle Scout</orgName>) of <placeName ref="#EggertsvilleNY"
+                  >Eggertsville, N.Y.</placeName>; <persName ref="#SLCoyne">S. L. Coyne</persName>,
+               construction driver 3/c, <placeName ref="#PiquaOH">Piqua, Ohio</placeName>; <persName
+                  ref="#KAElliot">K. A. Elliott</persName>, construction driver 1/c, of <placeName
+                  ref="#LancasterPA">Lancaster, Pa.</placeName>; <persName ref="#CWJenkins">C. W.
+                  Jenkins</persName>, hospitalman 3/c, of <placeName ref="#GigHarborWA">Gig Harbor,
+                  Wash.</placeName>; <persName ref="#WFKraut">W. F. Kraut</persName>, radioman 1/c,
+               of <placeName ref="#BridgeportCT">Bridgeport, Conn.</placeName>; <persName
+                  ref="#AllenEPracht">A. E. Pracht</persName>, builder 3/c, of <placeName
+                  ref="#PittsburghPA">Pittsburgh, Pa.</placeName>; <persName ref="#GHStewart">G. H.
+                  Stewart</persName>, aviation machinist's mate 2/c, of <placeName
+                  ref="#MinneapolisMN">Minneapolis, Minn.</placeName>; and <persName
+                  ref="#EarlTracy">Earl Tracy</persName>, aviation electrician's mate 1/c, of
+                  <placeName ref="#GranadaHillsCA">Granada Hills, Calif.</placeName></p>
             <lb/>
             <p>Patterned after the federal government of big America, the Little America special
                services also includes a cabinet, supreme court and president. The cabinet is
-               composed of five appointed persons headed by Special Services Officer LCDR <persName
-                  ref="#RichardEHancock">R. E. Hancock</persName>, SC, USN, of <placeName
+               composed of five appointed persons headed by <persName ref="#RichardEHancock">Special
+                  Services Officer LCDR R. E. Hancock</persName>, <orgName ref="#SupplyCorps"
+                  >SC</orgName>, <orgName ref="#UnitedStatesNavy">USN</orgName>, of <placeName
                   ref="#AlexandriaVA">Alexandria, Va.</placeName> Others are <persName
                   ref="#JohnEZoller">Chaplain Zoller</persName>, Medical Officer <persName
                   ref="#PatBUnger">Lt. Unger</persName>, and VX-6 member Lt. <persName
                   ref="#RobertGAnderson">R. G. Anderson</persName> of <placeName ref="#AlamedaCA"
                   >Alameda, Calif</placeName>. The Supreme Court has three justices: Chief Justice
-               is LCDR <persName ref="#HJOrndorff">H. J. Orndorff</persName>, USNR, of <placeName
-                  ref="#NutterfortWV">Nutterfort, W. Va.</placeName>, Officer in Charge of Little
-               America; LCDR <persName ref="#JEWaldron">J. E. Waldron Jr.</persName>, USNR, of
-                  <placeName ref="#NewOrleansLA">New Orleans, La.</placeName>, Officer in Charge of
-               VX-6; and <persName ref="#APGrary">A. P. Grary</persName>, Deputy Chief Scientist, of
-                  <placeName ref="#OakfordPA">Oakford, Pa</placeName>. Purpose of the supreme court
-               is to provide counsel of command heads in matters pertaining to the general good and
-               order and to approve or disapprove recommendations and initiate action corresponding
-               that which the commanding officer would make.</p>
+               is <persName ref="#HJOrndorff">LCDR H. J. Orndorff</persName>, <orgName
+                  ref="UnitedStatesNavalReserve">USNR</orgName>, of <placeName ref="#NutterfortWV"
+                  >Nutterfort, W. Va.</placeName>, Officer in Charge of Little America; <persName
+                  ref="#JEWaldron">LCDR J. E. Waldron Jr.</persName>, <orgName
+                  ref="#UnitedStatesNavalReserve">USNR</orgName>, of <placeName ref="#NewOrleansLA"
+                  >New Orleans, La.</placeName>, Officer in Charge of VX-6; and <persName
+                  ref="#APGrary">A. P. Grary</persName>, Deputy Chief Scientist, of <placeName
+                  ref="#OakfordPA">Oakford, Pa</placeName>. Purpose of the supreme court is to
+               provide counsel of command heads in matters pertaining to the general good and order
+               and to approve or disapprove recommendations and initiate action corresponding that
+               which the commanding officer would make.</p>
             <lb/>
-            <p>The President is <persName ref="#WillieMDickey">Capt. W. M. Dickey</persName>, USN,
-               of <placeName ref="#RuskTX">Rusk, Tex.</placeName>, Commander Naval Support Units,
-               Antarctica. He reviews all acts of the lower bodies. In a small way, with certain
-               modifications, special services operates as a miniature American government. It
-               stimulates interest and provides good training in democracy.</p>
+            <p>The President is <persName ref="#WillieMDickey">Capt. W. M. Dickey</persName>,
+                  <orgName ref="#UnitedStatesNavy">USN</orgName>, of <placeName ref="#RuskTX">Rusk,
+                  Tex.</placeName>, Commander Naval Support Units, Antarctica. He reviews all acts
+               of the lower bodies. In a small way, with certain modifications, special services
+               operates as a miniature American government. It stimulates interest and provides good
+               training in democracy.</p>
             <lb/>
             <ab><num type="page" value="3">3</num></ab>
             <pb facs="PLACEHOLDER" n="4"/>
@@ -316,9 +328,10 @@
                builder 3/c, of <placeName ref="#WetumkaOK">Wetumka, Okla.</placeName>; <persName
                   ref="#RobertDMarsh">R. D. Marsh,</persName> commissaryman 1/c of <placeName
                   ref="#NicktownPA">Nicktown, Pa.</placeName>; and <persName ref="#WesMorris">Wes
-                  Morris</persName>, IGY meteorologist, of <placeName ref="#SaultSte.MarieMI">Sault
-                  Ste. Marie, Mich.</placeName>, at the piano, made its first public appearance at
-               Sunday religious services and proved a great success.</p>
+                  Morris</persName>, <orgName ref="#InternationalGeophysicalYear">IGY</orgName>
+               meteorologist, of <placeName ref="#SaultSte.MarieMI">Sault Ste. Marie,
+                  Mich.</placeName>, at the piano, made its first public appearance at Sunday
+               religious services and proved a great success.</p>
             <lb/>
             <ab>Quite a few auroral displays have been seen here lately, but the most significant
                one was sighted by <persName ref="#EdwardAAlf">Edward A. Alf</persName>,
@@ -334,19 +347,22 @@
          <div type="article" subtype="LittleAmerica">
             <ab>LITTLE AMERICA -- "Operation Incubator" now belongs to the ages.</ab>
             <lb/>
-            <p><persName ref="#RobertJAdams">Lt. (jg) Robert J. Adams</persName>, DC, USNR, of
-                  <placeName ref="#MemphisTN">Memphis, Tenn.</placeName>, has announced that all
-               hope for the six New Zealand eggs selected for incubation has been abandoned. Final <choice>
+            <p><persName ref="#RobertJAdams">Lt. (jg) Robert J. Adams</persName>, <orgName
+                  ref="#DamageControlman">DC</orgName>, <orgName ref="#UnitedStatesNavalReserve"
+                  >USNR</orgName>, of <placeName ref="#MemphisTN">Memphis, Tenn.</placeName>, has
+               announced that all hope for the six New Zealand eggs selected for incubation has been
+               abandoned. Final <choice>
                   <sic>cnadling</sic>
                   <corr>candling</corr>
                </choice> revealed no growth since last week.</p>
             <lb/>
             <p>The project provided fun during leisure time and an interesting diversion from duty.
                   <persName ref="#RobertJAdams">Dr. Adams</persName> commented, "In every man there
-               remains a trace of the little boy. Perhaps this helps explain why husky Seabees,
-               after doing a hard day's work, enjoyed trying to raise live chicks for Easter. We
-               appreciate the interest and good wishes from our many friends in the States, and
-               regret the project was unsuccessful."</p>
+               remains a trace of the little boy. Perhaps this helps explain why husky <orgName
+                  ref="#UnitedStatesNavalConstructionBattalions">Seabees</orgName>, after doing a
+               hard day's work, enjoyed trying to raise live chicks for Easter. We appreciate the
+               interest and good wishes from our many friends in the States, and regret the project
+               was unsuccessful."</p>
             <lb/>
          </div>
          <div type="article" subtype="NAFMcMurdo">
@@ -454,9 +470,9 @@
          </div>
          <div type="article" subtype="EllsworthStation">
             <p><placeName ref="#EllsworthStation">ELLSWORTH STATION</placeName> -- The air support
-               for IGY activities here is being accomplished with two DeHavilland Otter aircraft and
-               one HO4S helicopter. Here again in the great Antarctic continent, responsibilities
-               must fall upon a few.</p>
+               for <orgName ref="#InternationalGeophysicalYear">IGY</orgName> activities here is
+               being accomplished with two DeHavilland Otter aircraft and one HO4S helicopter. Here
+               again in the great Antarctic continent, responsibilities must fall upon a few.</p>
             <lb/>
             <p>Such is the case of <persName ref="AtlesFLewis">Atles F. Lewis</persName>, aviation
                mechanics for the Otter aircraft stationed here. In Antarctica each flight requires
@@ -482,10 +498,10 @@
             <p><placeName ref="#LittleAmerica">LITTLE AMERICA</placeName> -- This Station intends to
                secure its helicopter for the winter due to the frigid weather. All aircraft have
                been put away for the winter except one Otter and one R4D. Construction of Kiel
-               airfield antenna farm is underway. Health and morale at Little America is excellent.
-               Only 25 per cent of the cargo deposited on the ice barrier by DF II supply ships
-               still remains there. The other 75 per cent has been safely returned to the
-               Station.</p>
+               airfield antenna farm is underway. Health and morale at <placeName
+                  ref="#LittleAmerica">Little America</placeName> is excellent. Only 25 per cent of
+               the cargo deposited on the ice barrier by DF II supply ships still remains there. The
+               other 75 per cent has been safely returned to the Station.</p>
             <lb/>
          </div>
          <div type="article" subtype="EllsworthStation">
