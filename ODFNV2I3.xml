@@ -288,8 +288,8 @@
             <pb facs="PLACEHOLDER" n="4"/>
             <ab>to deliver the intended message to the "ham" station operator.</ab>
             <ab>The following address is that of a capable amateur radio operator who has been very
-               successful in handling messages to and from Antarctica: <persName ref="#PaulABlum"
-                  >Paul A. Blum</persName>, <address>
+               successful in handling messages to and from Antarctica: <address><addrLine><persName ref="#PaulABlum"
+                  >Paul A. Blum</persName></addrLine>,
                   <addrLine>101 Kristin Road, </addrLine>
                   <addrLine><placeName ref="#NorthSyracuseNY">North Syracuse, N.
                      Y.</placeName></addrLine>
@@ -297,8 +297,8 @@
             <lb/>
             <p>It is sometimes possible to arrange telephone conversations between the States and
                Antarctic bases through the amateur radio facilities. To accomplish this, interested
-               parties should address a post card to: <persName ref="#JuliusMJMadey">Julius M. J.
-                  Madey</persName>, <address>
+               parties should address a post card to: <address><addrLine><persName ref="#JuliusMJMadey">Julius M. J.
+                  Madey</persName></addrLine>,
                   <addrLine>1037 Raritan Road,</addrLine>
                   <addrLine><placeName ref="#ClarkNJ">Clark, New Jersey</placeName></addrLine>
                </address>. Your post card should include person's name and his station in
