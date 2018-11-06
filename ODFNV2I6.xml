@@ -32,7 +32,7 @@
             </ab>
          </div>
          <div type="article" subtype="NAFMcMurdo">
-            <p><placeName ref="#NAFMcMurdo">NAF MC MURDO</placeName>--(<date when="1957-05-14">May
+            <p><placeName ref="#NAFMcMurdo">NAF MCMURDO</placeName>--(<date when="1957-05-14">May
                   14</date>)-- A blizzard struck this base today, with 28 hours of 38-knot winds or
                above. The highest average hourly velocity was 50 knots, and peak gusts reached 82.5
                knots.</p>
@@ -55,8 +55,8 @@
                to turnbuckle loosening and finally paring as a result of vibration in guy wires by
                high winds.</p>
             <lb/>
-            <ab>Estimated completion date for damage repair is June 7, depending upon the
-               weather.</ab>
+            <ab>Estimated completion date for damage repair is <date when="1957-06-07">June
+               7</date>, depending upon the weather.</ab>
             <lb/>
          </div>
          <div type="article" subtype="SouthPoleStation">
@@ -202,17 +202,19 @@
                Antarctica is in session with couress in calculus, Spanish, photography, bible study,
                choir and drama. Further courses are planned. Recreation hall is 80% completed.
                Tractor train load test underway. Received a broadcast from the Russian base, Mirny,
-               of a Radio Moscow tape recording for Valdimir
-               Rastor???uev<!--What even is this name-->, Russian observer and Meteorologist here.
-               Post office moved from the Rec. Hall to Bldg. 5, publicworks building.......
-                  <placeName ref="#NAFMcMurdo">NAF McMurdo</placeName>: Deck completed and Quonset
-               frames up for temporary building (garage) .... <placeName ref="#CapeAdare"
-                  >Adare</placeName>: Lack of tunnel system requires digging out after storms......
-                  <placeName ref="#SouthPoleStation">South Pole</placeName>: All communications
-               equipment installed. Glaciology cold lab completed ..... <placeName
-                  ref="#WilkesStation">Wilkes</placeName>: One weasel modified for use as a fire
-               engine with large ladders and fire fighting gear installed. Sixteen by twenty foot
-               wooden shelter erected for photo storage and general <choice>
+               of a Radio Moscow tape recording for <persName ref="#VladimirRastorguev"><choice>
+                     <sic>Valdimir</sic>
+                     <corr>Vladimir</corr>
+                  </choice> Rastorguev</persName>, Russian observer and Meteorologist here. Post
+               office moved from the Rec. Hall to Bldg. 5, publicworks building....... <placeName
+                  ref="#NAFMcMurdo">NAF McMurdo</placeName>: Deck completed and Quonset frames up
+               for temporary building (garage) .... <placeName ref="#CapeAdare">Adare</placeName>:
+               Lack of tunnel system requires digging out after storms...... <placeName
+                  ref="#SouthPoleStation">South Pole</placeName>: All communications equipment
+               installed. Glaciology cold lab completed ..... <placeName ref="#WilkesStation"
+                  >Wilkes</placeName>: One weasel modified for use as a fire engine with large
+               ladders and fire fighting gear installed. Sixteen by twenty foot wooden shelter
+               erected for photo storage and general <choice>
                   <sic>stowage</sic>
                   <corr>storage</corr>
                </choice>.</p>
