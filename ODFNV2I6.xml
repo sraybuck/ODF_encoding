@@ -20,13 +20,16 @@
       <body>
          <pb facs="PLACEHOLDER" n="1"/>
          <div type="nameplate">
-            <head>OPERATION DEEP FREEZE <choice>
+            <head>OPERATION DEEP FREEZE<choice>
                   <sic>NEWSLATTER</sic>
                   <corr>NEWSLETTER</corr>
                </choice></head>
             <lb/>
-            <ab><num type="volume" value="2">Volume II</num>, <num type="issue" value="6">Issue No.
-                  6</num>
+            <ab>
+               <cb n="1"/>
+               <num type="volume" value="2">Volume II</num>, 
+               <num type="issue" value="6">No. 6</num>
+               <cb n="2"/>
                <date when="1975-05-17">May 17,1957</date>
                <lb/>
             </ab>

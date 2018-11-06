@@ -22,8 +22,11 @@
          <div type="nameplate">
             <head>OPERATION DEEP FREEZE NEWSLETTER</head>
             <lb/>
-            <ab><num type="volume" value="2">Volume II</num>, <num type="issue" value="2">Issue No.
+            <ab>
+               <cb n="1"/>
+               <num type="volume" value="2">Volume II</num>, <num type="issue" value="2">Issue No.
                   2</num>
+               <cb n="2"/>
                <date when="1975-04-19">April 19,1957</date>
             </ab>
             <lb/>
@@ -158,6 +161,7 @@
                life compared with previous Antarctic expeditions. But he maintains he would never
                winter over again and in his own words, "Nothing will look better to me than
                home."</p>
+            <lb/>
          </div>
          <div type="article" subtype="WilkesStation">
             <p><placeName ref="#WilkesStation">WILKES STATION</placeName> -- During March in the
