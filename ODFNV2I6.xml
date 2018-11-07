@@ -20,7 +20,7 @@
       <body>
          <pb facs="PLACEHOLDER" n="1"/>
          <div type="nameplate">
-            <head>OPERATION DEEP FREEZE<choice>
+            <head>OPERATION DEEP FREEZE <choice>
                   <sic>NEWSLATTER</sic>
                   <corr>NEWSLETTER</corr>
                </choice></head>
@@ -35,8 +35,8 @@
             </ab>
          </div>
          <div type="article" subtype="NAFMcMurdo">
-            <p><placeName ref="#NAFMcMurdo">NAF MCMURDO</placeName>--(<date when="1957-05-14">May
-                  14</date>)-- A blizzard struck this base today, with 28 hours of 38-knot winds or
+            <p><placeName ref="#NAFMcMurdo">NAF MCMURDO</placeName> -- (<date when="1957-05-14">May
+                  14</date>) -- A blizzard struck this base today, with 28 hours of 38-knot winds or
                above. The highest average hourly velocity was 50 knots, and peak gusts reached 82.5
                knots.</p>
             <lb/>
@@ -63,8 +63,8 @@
             <lb/>
          </div>
          <div type="article" subtype="SouthPoleStation">
-            <p><placeName ref="#SouthPoleStation">SOUTH POLE STATION</placeName>--(<date
-                  when="1957-05-11">May 11</date>)-- According to data and records available at this
+            <p><placeName ref="#SouthPoleStation">SOUTH POLE STATION</placeName> -- (<date
+                  when="1957-05-11">May 11</date>) -- According to data and records available at this
                station, a new world's low temperature record was established at the <placeName
                   ref="#SouthPoleStation">South Pole</placeName> today. At 2:30p.m. (Greenwich,
                England, time; 9:30 a.m. EST) the official temperature registered 100&#176; below
@@ -93,8 +93,8 @@
                   21</date>, but the frost is already on the "punkins."</ab>
          </div>
          <div type="article" subtype="LittleAmerica">
-            <ab><placeName ref="#LittleAmerica">LITTLE AMERICA</placeName>--(<date when="1957-05-12"
-                  >May 12</date>)-- Simultaneous with the establishment of the world's lowest
+            <ab><placeName ref="#LittleAmerica">LITTLE AMERICA</placeName> -- (<date when="1957-05-12"
+                  >May 12</date>) -- Simultaneous with the establishment of the world's lowest
                official temperature record of -100&#176; Fahrenheit at the <placeName
                   ref="#SouthPoleStation">South Pole Station</placeName>, <placeName
                   ref="#LittleAmerica">Little America</placeName> experienced a record-breaking
@@ -156,8 +156,8 @@
                become history.</ab>
          </div>
          <div type="article" subtype="LittleAmerica">
-            <ab><placeName ref="#LittleAmerica">LITTLE AMERICA</placeName>--(<date when="1957-05-11"
-                  >May 11</date>)-- "Operation Treasure Hunt" was suggessful in the fading twilight
+            <ab><placeName ref="#LittleAmerica">LITTLE AMERICA</placeName> -- (<date when="1957-05-11"
+                  >May 11</date>) -- "Operation Treasure Hunt" was suggessful in the fading twilight
                last week.</ab>
             <lb/>
             <p>Prospectors of the old Yukon had nothing on VX-6 detachment at <placeName
@@ -200,7 +200,7 @@
                technician 3/c of <placeName ref="#CiscoIL">Cisco, Ill</placeName>.</p>
          </div>
          <div type="article">
-            <p>AROUND THE BASES --(<date when="1957-05-13">May 13</date>)-- <placeName
+            <p>AROUND THE BASES -- (<date when="1957-05-13">May 13</date>) -- <placeName
                   ref="#LittleAmerica">Little America</placeName>: The Little America University of
                Antarctica is in session with couress in calculus, Spanish, photography, bible study,
                choir and drama. Further courses are planned. Recreation hall is 80% completed.
@@ -224,8 +224,8 @@
             <lb/>
          </div>
          <div type="article" subtype="LittleAmerica">
-            <p><placeName ref="#LittleAmerica">LITTLE AMERICA</placeName>--<date when="1957-05-11"
-                  >May 11</date>-- The Antarctic Beard Club of Little America a growing the bushiest
+            <p><placeName ref="#LittleAmerica">LITTLE AMERICA</placeName> -- <date when="1957-05-11"
+                  >May 11</date> -- The Antarctic Beard Club of Little America a growing the bushiest
                crop of whiskers and the widest variety of beards imaginable. Organized last January
                by <persName ref="#CharlesMDarter">Charles M. Darter</persName>, Chief Construction
                Driver, of <placeName ref="#AustinTX">Austin, Texas</placeName>; <persName
