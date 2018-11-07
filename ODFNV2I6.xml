@@ -26,11 +26,9 @@
                </choice></head>
             <lb/>
             <ab>
-               <cb n="1"/>
-               <num type="volume" value="2">Volume II</num>, 
-               <num type="issue" value="6">No. 6</num>
-               <cb n="2"/>
-               <date when="1975-05-17">May 17,1957</date>
+               <hi rend="left-align"><num type="volume" value="2">Volume II</num>, <num type="issue"
+                     value="6">No. 6</num></hi>
+               <hi rend="right-align"><date when="1975-05-17">May 17,1957</date></hi>
                <lb/>
             </ab>
          </div>
@@ -64,8 +62,8 @@
          </div>
          <div type="article" subtype="SouthPoleStation">
             <p><placeName ref="#SouthPoleStation">SOUTH POLE STATION</placeName> -- (<date
-                  when="1957-05-11">May 11</date>) -- According to data and records available at this
-               station, a new world's low temperature record was established at the <placeName
+                  when="1957-05-11">May 11</date>) -- According to data and records available at
+               this station, a new world's low temperature record was established at the <placeName
                   ref="#SouthPoleStation">South Pole</placeName> today. At 2:30p.m. (Greenwich,
                England, time; 9:30 a.m. EST) the official temperature registered 100&#176; below
                zero Fahrenheit, marking the low point of two days of steadily falling
@@ -93,9 +91,9 @@
                   21</date>, but the frost is already on the "punkins."</ab>
          </div>
          <div type="article" subtype="LittleAmerica">
-            <ab><placeName ref="#LittleAmerica">LITTLE AMERICA</placeName> -- (<date when="1957-05-12"
-                  >May 12</date>) -- Simultaneous with the establishment of the world's lowest
-               official temperature record of -100&#176; Fahrenheit at the <placeName
+            <ab><placeName ref="#LittleAmerica">LITTLE AMERICA</placeName> -- (<date
+                  when="1957-05-12">May 12</date>) -- Simultaneous with the establishment of the
+               world's lowest official temperature record of -100&#176; Fahrenheit at the <placeName
                   ref="#SouthPoleStation">South Pole Station</placeName>, <placeName
                   ref="#LittleAmerica">Little America</placeName> experienced a record-breaking
                "heat wave."</ab>
@@ -156,9 +154,9 @@
                become history.</ab>
          </div>
          <div type="article" subtype="LittleAmerica">
-            <ab><placeName ref="#LittleAmerica">LITTLE AMERICA</placeName> -- (<date when="1957-05-11"
-                  >May 11</date>) -- "Operation Treasure Hunt" was suggessful in the fading twilight
-               last week.</ab>
+            <ab><placeName ref="#LittleAmerica">LITTLE AMERICA</placeName> -- (<date
+                  when="1957-05-11">May 11</date>) -- "Operation Treasure Hunt" was suggessful in
+               the fading twilight last week.</ab>
             <lb/>
             <p>Prospectors of the old Yukon had nothing on VX-6 detachment at <placeName
                   ref="#LittleAmerica">Little America</placeName>. Although not hunting gold, local
@@ -225,12 +223,12 @@
          </div>
          <div type="article" subtype="LittleAmerica">
             <p><placeName ref="#LittleAmerica">LITTLE AMERICA</placeName> -- <date when="1957-05-11"
-                  >May 11</date> -- The Antarctic Beard Club of Little America a growing the bushiest
-               crop of whiskers and the widest variety of beards imaginable. Organized last January
-               by <persName ref="#CharlesMDarter">Charles M. Darter</persName>, Chief Construction
-               Driver, of <placeName ref="#AustinTX">Austin, Texas</placeName>; <persName
-                  ref="#KennethAElliot">Kenneth A. Elliot</persName>, Construction Driver 1/c of
-                  <placeName ref="#LancasterPA">Lancaster, Pa.</placeName>; <persName
+                  >May 11</date> -- The Antarctic Beard Club of Little America a growing the
+               bushiest crop of whiskers and the widest variety of beards imaginable. Organized last
+               January by <persName ref="#CharlesMDarter">Charles M. Darter</persName>, Chief
+               Construction Driver, of <placeName ref="#AustinTX">Austin, Texas</placeName>;
+                  <persName ref="#KennethAElliot">Kenneth A. Elliot</persName>, Construction Driver
+               1/c of <placeName ref="#LancasterPA">Lancaster, Pa.</placeName>; <persName
                   ref="#StevenMuniz">Steven Muniz</persName>, Construction Driver 2/c of <placeName
                   ref="#SugarCityCO">Sugar City, Colo.</placeName>; and <persName
                   ref="#SterkelLCoyne">Sterkel L. Coyne</persName>, Construction Driver 3/c of
