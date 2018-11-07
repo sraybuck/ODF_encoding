@@ -23,11 +23,9 @@
             <head>OPERATION DEEP FREEZE NEWSLETTER</head>
             <lb/>
             <ab>
-               <cb n="1"/>
-               <num type="volume" value="2">Volume II</num>, <num type="issue" value="2">Issue No.
-                  2</num>
-               <cb n="2"/>
-               <date when="1975-04-19">April 19,1957</date>
+               <hi rend="left-align"><num type="volume" value="2">Volume II</num>, <num type="issue"
+                     value="2">Issue No. 2</num></hi>
+               <hi rend="right-align"><date when="1975-04-19">April 19,1957</date></hi>
             </ab>
             <lb/>
          </div>

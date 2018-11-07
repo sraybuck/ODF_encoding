@@ -22,11 +22,9 @@
          <div type="nameplate">
             <head>OPERATION DEEP FREEZE NEWSLETTER</head>
             <ab>
-               <cb n="1"/>
-               <num type="volume" value="2">Volume II</num>,
-               <num type="issue" value="5"> No. 5</num>
-               <cb n="2"/>
-               <date when="1957-05-10">May 10, 1957</date></ab>
+               <hi rend="left-align"><num type="volume" value="2">Volume II</num>, <num type="issue"
+                     value="5"> No. 5</num></hi>
+               <hi rend="right-align"><date when="1957-05-10">May 10, 1957</date></hi></ab>
          </div>
          <div type="article" subtype="LittleAmerica">
             <ab><placeName ref="#LittleAmerica">LITTLE AMERICA</placeName> -- <placeName
