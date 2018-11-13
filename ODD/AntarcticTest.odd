@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>ODF Newsletters ODD ROUND 2</title>
+        <title>ODF Newsletters ODD ROUND 4</title>
       </titleStmt>
       <publicationStmt>
         <publisher>eXistSolutions GmbH</publisher>
@@ -59,7 +59,7 @@
         <!--make @ref attribute required on <persName>, <placeName>, <orgName>, and <rs>-->
         <elementSpec ident="persName" module="namesdates" mode="add">
           <model behaviour="inline" output="web">
-            <outputRendition> color: f45342; </outputRendition>
+            <outputRendition> color: #f45342; </outputRendition>
           </model>
         </elementSpec>
         <elementSpec ident="placeName" module="namesdates" mode="change">
@@ -102,24 +102,24 @@
           </attList>
           <model behaviour="omit"/>
         </elementSpec>
-        <elementSpec ident="lb" module="core" mode="change">
-          <model behaviour="omit"/>
-        </elementSpec>
         <elementSpec ident="p" module="core" mode="change">
           <model behaviour="inline">
-            <outputRendition> font: "Courier New", "Courier", Times, sans-serif; </outputRendition>
+            <outputRendition> font-family: "Courier New", "Courier", Times, sans-serif; </outputRendition>
           </model>
         </elementSpec>
         <elementSpec ident="ab" module="core" mode="change">
           <model behaviour="inline">
-            <outputRendition> font: "Courier New", "Courier", Times, sans-serif; </outputRendition>
+            <outputRendition> font-family: "Courier New", "Courier", Times, sans-serif; </outputRendition>
           </model>
         </elementSpec>
         <elementSpec ident="head" module="core" mode="change">
           <model behaviour="inline">
-            <outputRendition> font: "Courier New", "Courier", Times, sans-serif; </outputRendition>
+            <outputRendition>
+              font-family: "Courier New", "Courier", Times, sans-serif;
+              font-size: 1.5em;
+            </outputRendition>
           </model>
-        </elementSpec>   
+        </elementSpec>
       </schemaSpec>
 
     </body>
