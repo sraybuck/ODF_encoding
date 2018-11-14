@@ -20,12 +20,13 @@
       <body>
          <pb facs="PLACEHOLDER" n="1"/>
          <div type="nameplate">
-            <head>Operation Deep Freeze Newsletter</head>
+            <head style="text-decoration: underline; text-align: center; text-transform: uppercase;"
+               >Operation Deep Freeze Newsletter</head>
             <lb/>
             <ab>
-               <hi rend="left-align"><num type="volume" value="2">Vol. II,</num>
-                  <num type="issue" value="3">No. 4</num></hi>
-               <hi rend="right-align"><date when="1957-05-03">May 3, 1957</date></hi></ab>
+               <num type="volume" value="2">Vol. II,</num>
+                  <num type="issue" value="4">No. 4</num>
+               <date style="text-align: right;" when="1957-05-03">May 3, 1957</date></ab>
             <lb/>
          </div>
          <div type="article">
@@ -86,9 +87,9 @@
                VX-6 has made one local flight. A second flight was aborted when the plane's wing tip
                dragged at takeoff, causing minor damage....<placeName ref="#NAFMcMurdo"
                   >NAFMcMurdo</placeName>: Ice runway is in good condition. Ice in channel broken by
-               Glacier has reached a thickness of 40 inches......<placeName ref="ByrdStation">Byrd
+               Glacier has reached a thickness of 40 inches......<placeName ref="#ByrdStation">Byrd
                   Station</placeName>: Tunnel which was partially collapsed by snow has been
-               repaired and strengthened...<placeName ref="WilkesStation">Wilkes
+               repaired and strengthened...<placeName ref="#WilkesStation">Wilkes
                Station</placeName>: Minor building damage was sustained when 83-knot winds arched
                roofs. </p>
             <lb/>
@@ -105,7 +106,7 @@
                   ref="#RuthLeeming">Ruth Leeming</persName> of <placeName ref="#RedBankNJ">Red
                   Bank, N.J.</placeName></p>
             <lb/>
-            <ab>(<num type="page" value="1">1</num>)</ab>
+            <ab style="text-align: center;">(<num type="page" value="1">1</num>)</ab>
             <pb facs="PLACEHOLDER" n="2"/>
             <p>The unusual feature of the call was that it originated from the <choice>
                   <sic>Leeming's</sic>
@@ -152,7 +153,7 @@
             <lb/>
          </div>
          <div type="article" subtype="WilkesStation">
-            <p><placeName ref="WilkesStation">WILKES STATION</placeName> -- (<date when="1957-04-30"
+            <p><placeName ref="#WilkesStation">WILKES STATION</placeName> -- (<date when="1957-04-30"
                   >April 30</date>) -- Much activity is centered around the local ladder cribbage
                tournament. Holding the title within a week were <persName ref="#RudolfAHonkala"
                   >Rudolf A. Honkala</persName>, <orgName ref="#InternationalGeophysicalYear"
@@ -162,11 +163,11 @@
                      <sic>Fairfiled</sic>
                      <corr>Fairfield</corr>
                   </choice>, Texas</placeName>; and <persName ref="#CarolREklund">Carl R.
-                  Eklund</persName>, station scientific leader, of <placeName ref="AtlantaGA"
+                  Eklund</persName>, station scientific leader, of <placeName ref="#AtlantaGA"
                   >Atlanta, Ga.</placeName></p>
             <lb/>
             <p><persName ref="#RobertLLong">Robert L. Long, Jr.</persName>, Ionospheric Physicist,
-               of <placeName ref="RochesterNY">Rochester, N.Y.</placeName>, after trying out a ski
+               of <placeName ref="#RochesterNY">Rochester, N.Y.</placeName>, after trying out a ski
                ride behind three dogs, reported considerable disagreement between where he wanted to
                go and where the dogs went. <persName ref="#BillieRLilienthal">Billie R.
                   Lilienthal</persName>, aerographer's, mate 3/c, of <placeName ref="#AshlandNB"
@@ -175,24 +176,24 @@
             <lb/>
             <p><persName ref="#SidneyEGreen">Sidney E. Green</persName>, construction driver 3/c, of
                   <placeName ref="#ColbertWA">Colbert, Wash.</placeName>; <persName
-                  ref="EdwardABousquet">Edward A. Bousquet</persName>, utilitiesman 3/c, of
+                  ref="#EdwardABousquet">Edward A. Bousquet</persName>, utilitiesman 3/c, of
                   <placeName ref="#Worcester">Worcester, Mass.</placeName>; <persName
                   ref="#CarlTBailey">Carl T. Bailey</persName>, Aerographer's mate 3/c, of
-                  <placeName ref="LeeMA">Lee, Mass.</placeName>; and <persName
-                  ref="SheldonWGrinnell">Lt. Sheldon W. Grinnell</persName>, station doctor of
-                  <placeName ref="CarbondaleIL">Carbondale, Ill.</placeName>, have spent Sunday
-               holidays helping <persName ref="CarlREklund">Scientific Leader Eklund</persName> with
+                  <placeName ref="#LeeMA">Lee, Mass.</placeName>; and <persName
+                  ref="#SheldonWGrinnell">Lt. Sheldon W. Grinnell</persName>, station doctor of
+                  <placeName ref="#CarbondaleIL">Carbondale, Ill.</placeName>, have spent Sunday
+               holidays helping <persName ref="#CarlREklund">Scientific Leader Eklund</persName> with
                biological field work.</p>
             <lb/>
             <ab><persName ref="#GeorgeEMagee">George E. Magee</persName>, builder 1/c of <placeName
-                  ref="MaldenNY">Malden, N.Y.</placeName>, sidelined from his carpentry with a sore
+                  ref="#MaldenNY">Malden, N.Y.</placeName>, sidelined from his carpentry with a sore
                arm, has been spending much of his time operating the amateur radio station. This has
                helped remove some of the load from <persName ref="#FrederickECharlton">Frederick E.
                   Charlton</persName>, chief electronics technician, of <placeName ref="#MundieIN"
                   >Muncie, Ind.</placeName>; <persName ref="#DoinaldLBradford">Donald L.
                   Bradford</persName>, radioman, 1/c,</ab>
             <lb/>
-            <ab>(<num type="page" value="2">2</num>)</ab>
+            <ab style="text-align: center;">(<num type="page" value="2">2</num>)</ab>
             <pb facs="PLACEHOLDER" n="3"/>
             <ab>of <placeName ref="#MesaAZ">Mesa, Ariz.</placeName>; <persName
                   ref="#KennethJHailstorm">Kenneth J. Hailstorm</persName>, radioman 3/c, of
@@ -278,19 +279,19 @@
                and ice. This period is popularly referred to as "Indian Summer of the
                Antarctic."</p>
             <lb/>
-            <ab>(<num type="page" value="3">3</num>)</ab>
+            <ab style="text-align: center;">(<num type="page" value="3">3</num>)</ab>
             <pb facs="PLACEHOLDER" n="4"/>
          </div>
          <div type="article" subtype="EllsworthStation">
             <p><placeName ref="#EllsworthStation">ELLSWORTH STATION</placeName> -- (<date
                   when="1957-04-28">April 28</date>) -- Radio communication in Antarctica offers a
                challenge to any radioman. This was one of the factors which caused <persName
-                  ref="CharlesWForlidas">Charles W. Forlidas</persName>, radioman 2/c, of <placeName
+                  ref="#CharlesWForlidas">Charles W. Forlidas</persName>, radioman 2/c, of <placeName
                   ref="#ClemsonSC">Clemson, S.C.</placeName>, to volunteer for Operation Deep
                Freeze.</p>
             <lb/>
             <p>A radioman's work in the Antarctic is not all indoors. In putting up antennas
-                  <persName ref="CharlesWForlidas">Forlidas</persName> and fellow communications
+                  <persName ref="#CharlesWForlidas">Forlidas</persName> and fellow communications
                man, <persName ref="#RobertEHaskill">Robert E. Haskill</persName>, radioman 1/c, of
                   <placeName ref="#NorthHighlandCA">North Highland, Calif.</placeName>, worked in
                temperatures 35 degrees below zero. Now ice continually builds on the antenna wire
@@ -303,13 +304,13 @@
                large amount of radio traffic, making necessary an around the clock operation with
                shifts of 12 hours each.</p>
             <lb/>
-            <p>Another job that falls under <persName ref="CharlesWForlidas">Forlidas</persName> and
+            <p>Another job that falls under <persName ref="#CharlesWForlidas">Forlidas</persName> and
                   <persName ref="#RobertEHaskill">Haskill</persName> is taking their turns at
                operating the "ham" equipment. Everyone here relies on the skill and patience of our
                radiomen and the "ham" operators in the States who pass personel messages to and from
                our wives and families.</p>
             <lb/>
-            <ab>After his year in the Antarctic, <persName ref="CharlesWForlidas"
+            <ab>After his year in the Antarctic, <persName ref="#CharlesWForlidas"
                   >Forlidas</persName> is looking forward to returning to <placeName
                   ref="#ClemsonSC">Clemson, S.C.</placeName>, College. He attended there a year
                before joining the Navy.</ab>
@@ -359,7 +360,7 @@
             <ab>Estimated cost of the blaze is $106,000. This includes the building proper, a 35-ton
                Caterprillar tractor, a lathe, a saw, an electric drive air compressor,</ab>
             <lb/>
-            <ab>(<num type="page" value="4">4</num>)</ab>
+            <ab style="text-align: center;">(<num type="page" value="4">4</num>)</ab>
             <pb facs="PLACEHOLDER" n="5"/>
             <ab>a 5-k.w. floodlight trailer, an electric arc welder, two Herman Nelson portable
                heaters, approximately 2500 feet of keying cable and all shop hand and small power
@@ -444,7 +445,7 @@
                of <placeName ref="#DorchesterMA">Dorchester, Mass.</placeName> The "whiteout"
                condition--enveloping</ab>
             <lb/>
-            <ab>(<num type="page" value="5">5</num>)</ab>
+            <ab style="text-align: center;">(<num type="page" value="5">5</num>)</ab>
             <pb facs="PLACEHOLDER" n="6"/>
             <ab>whiteness and complete lack of horizon--had brought their science studies to a
                standstill.</ab>
@@ -520,7 +521,7 @@
                   >McMurdo </placeName>base only, not an Antarctic or world record. We regret the
                error.</p>
             <lb/>
-            <ab>(<num>6</num>)</ab>
+            <ab style="text-align: center;">(<num>6</num>)</ab>
          </div>
       </body>
    </text>

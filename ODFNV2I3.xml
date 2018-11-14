@@ -70,12 +70,13 @@
       <body>
          <pb facs="PLACEHOLDER" n="1"/>
          <div type="nameplate">
-            <head>Operation Deep Freeze Newsletter</head>
+            <head style="text-decoration: underline; text-align: center; text-transform: uppercase;"
+               >Operation Deep Freeze Newsletter</head>
             <lb/>
             <ab>
-               <hi rend="left-align"><num type="volume" value="2">Vol II,</num>
-                  <num type="issue" value="3">No. 3</num></hi>
-               <hi rend="right-align"><date when="1957-04-26">April 26, 1957</date></hi>
+               <num type="volume" value="2">Vol II,</num>
+               <num type="issue" value="3">No. 3</num>
+               <date style="text-align: right;" when="1957-04-26">April 26, 1957</date>
             </ab>
          </div>
          <div type="article" subtype="LittleAmerica">
@@ -131,7 +132,7 @@
             <ab>(All news items from Little America are prepared by <persName ref="#JohnEZoller"
                   >Chaplain John E. Zoller</persName>, Lt., <orgName ref="#UnitedStatesNavy"
                   >USN</orgName>, of <placeName ref="#ShelbyMI">Shelby, Mich</placeName>.)</ab>
-            <ab>(Page <num type="page" value="1">1</num>)</ab>
+            <ab style="text-align: center;">(Page <num type="page" value="1">1</num>)</ab>
          </div>
          <pb facs="PLACEHOLDER" n="2"/>
          <div type="article" subtype="NAFMcMurdo">
@@ -209,7 +210,7 @@
                enlisting he had his own set of spurs and cleared fire breaks in the forest of his
                family's property.</p>
             <lb/>
-            <ab>(Page <num type="page" value="2">2</num>)</ab>
+            <ab style="text-align: center;">(Page <num type="page" value="2">2</num>)</ab>
             <pb facs="PLACEHOLDER" n="3"/>
             <p>Assisting in the operation is <persName ref="#ThomasEGehringer">Thomas E.
                   Gehringer</persName>, construction electrician 3/c, of <placeName
@@ -285,7 +286,8 @@
                is the slang term for a licensed amateur radio operator. There is no cost for
                messages passed through amateur radio facilities, other than the cost required</ab>
             <lb/>
-            <ab>(continued next page) (Page <num type="page" value="3">3</num>)</ab>
+            <ab>(continued next page)</ab>
+            <ab style="text-align: center;">(Page <num type="page" value="3">3</num>)</ab>
             <pb facs="PLACEHOLDER" n="4"/>
             <ab>to deliver the intended message to the "ham" station operator.</ab>
             <ab>The following address is that of a capable amateur radio operator who has been very
@@ -331,7 +333,7 @@
                was suggested that the aurora-sky watch be alert for smoke signals on the horizon. </p>
             <lb/>
             <p>When asked why such unusual haircuts, <persName ref="#RobertWAnderson">Robert W.
-                  Anderson</persName>, electronics technician 3/c, of <placeName ref="WhiteCityKS"
+                  Anderson</persName>, electronics technician 3/c, of <placeName ref="#WhiteCityKS"
                   >White City, Kan.</placeName>, explained "This helps us observe a rule of the
                Antarctic. Never panic--always keep a cool head." He explained that one unexpected
                problem that has developed is placing your head on the pillow in such a fashion as to
@@ -367,7 +369,8 @@
                   >Avril T. Creacy</persName>, aerographer's mate 3/c, of <placeName
                   ref="#GatesvilleTX">Gatesville, Texas</placeName>,</p>
             <lb/>
-            <ab>(continued next page) (Page <num type="page" value="4">4</num>)</ab>
+            <ab>(continued next page)</ab>
+            <ab style="text-align: center;">(Page <num type="page" value="4">4</num>)</ab>
             <pb facs="PLACEHOLDER" n="5"/>
             <p>were on watch when the recordings were made. <persName ref="#BobbyDFancher">Bobby D.
                   Fancher</persName>, aerographer's mate 3/c, of <placeName ref="#CarlsbadNM"
@@ -443,7 +446,7 @@
                impersonation of Hildgarde in falsetto soprano brought down the house. Abundant
                talent and ambitious plans insure many outstanding future parties.</p>
             <lb/>
-            <ab>(Page <num type="page" value="5">5</num>)</ab>
+            <ab style="text-align: center;">(Page <num type="page" value="5">5</num>)</ab>
          </div>
       </body>
    </text>

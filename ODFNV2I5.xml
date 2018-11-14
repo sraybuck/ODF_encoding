@@ -20,11 +20,12 @@
       <body>
          <pb facs="PLACEHOLDER" n="1"/>
          <div type="nameplate">
-            <head>OPERATION DEEP FREEZE NEWSLETTER</head>
+            <head style="text-decoration: underline; text-align: center; text-transform: uppercase;"
+               >Operation Deep Freeze Newsletter</head>
             <ab>
-               <hi rend="left-align"><num type="volume" value="2">Volume II</num>, <num type="issue"
-                     value="5"> No. 5</num></hi>
-               <hi rend="right-align"><date when="1957-05-10">May 10, 1957</date></hi></ab>
+               <num type="volume" value="2">Volume II</num>, <num type="issue"
+                     value="5"> No. 5</num>
+               <date style="text-align: right" when="1957-05-10">May 10, 1957</date></ab>
          </div>
          <div type="article" subtype="LittleAmerica">
             <ab><placeName ref="#LittleAmerica">LITTLE AMERICA</placeName> -- <placeName
@@ -82,7 +83,7 @@
                charges at the most vulnerable spot deep in the jaws of a crevasse.</p>
             <lb/>
             <ab><persName ref="#JulianPGudmunson">Gudmunson</persName> is a seasoned expert in ice
-               blasting, having worked as right hand man to <persName ref="MerleRDawson">Arctic
+               blasting, having worked as right hand man to <persName ref="#MerleRDawson">Arctic
                   Specialist MAJ Merle R. Dawson</persName>, <orgName
                   ref="#UnitedStatesArmyReserves">USAR</orgName>, last January when they changed the
                face of the barrier by carving a berth for cargo ships, and in the process creating
@@ -174,7 +175,7 @@
                Observatory interior completed. Interior glaciology cold laboratory 75% completed.
                (Continued next page.)</ab>
             <lb/>
-            <ab>--<num type="page" value="2">2</num>--</ab>
+            <ab style="text-align: center;">--<num type="page" value="2">2</num>--</ab>
             <pb facs="PLACEHOLDER" n="3"/>
          </div>
          <div type="article" subtype="WilkesStation">
@@ -260,7 +261,7 @@
                -55&#176;; mean temperature -27&#176;. All-time high is plus 27.5&#176;; low,
                -58&#176;; mean temperature, -20&#176;. (Continued next page)</ab>
             <lb/>
-            <ab>--<num type="page" value="3">3</num>--</ab>
+            <ab style="text-align: center;">--<num type="page" value="3">3</num>--</ab>
             <pb facs="PLACEHOLDER" n="4"/>
             <ab>Average daily fluctuation of temperature during April was 20 degrees: from an
                average daily maximum of -17&#176; to an average daily minimum of -37&#176;.</ab>
@@ -322,7 +323,7 @@
                possible, going both ways between the United States and the Science Station at
                   <placeName ref="#LittleAmerica">Little America</placeName>.</p>
             <lb/>
-            <ab>--<num type="page" value="4">4</num>--</ab>
+            <ab style="text-align: center;">--<num type="page" value="4">4</num>--</ab>
          </div>
       </body>
    </text>

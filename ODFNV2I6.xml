@@ -20,15 +20,15 @@
       <body>
          <pb facs="PLACEHOLDER" n="1"/>
          <div type="nameplate">
-            <head>OPERATION DEEP FREEZE <choice>
-                  <sic>NEWSLATTER</sic>
-                  <corr>NEWSLETTER</corr>
+            <head style="text-decoration: underline; text-align: center; text-transform: uppercase;"
+               >Operation Deep Freeze <choice>
+                  <sic>Newslatter</sic>
+                  <corr>Newsletter</corr>
                </choice></head>
             <lb/>
             <ab>
-               <hi rend="left-align"><num type="volume" value="2">Volume II</num>, <num type="issue"
-                     value="6">No. 6</num></hi>
-               <hi rend="right-align"><date when="1975-05-17">May 17,1957</date></hi>
+               <num type="volume" value="2">Volume II</num>, <num type="issue" value="6">No. 6</num>
+               <date style="text-align: right;" when="1975-05-17">May 17,1957</date>
                <lb/>
             </ab>
          </div>
@@ -102,7 +102,7 @@
                registered plus 30&#176;F., a difference of 130 degrees within a distance of
                approimately 700 nautical miles.</ab>
             <lb/>
-            <ab>-- <num type="page" value="1">1</num> --</ab>
+            <ab style="text-align: center;">-- <num type="page" value="1">1</num> --</ab>
             <pb facs="PLACEHOLDER" n="2"/>
             <lb/>
             <ab>The previous all-time high temperature recorded for May at <placeName
@@ -173,7 +173,7 @@
                direction the snow surface looked the same--perpetual, gently-sloping drifts. Visual
                inspection and random probing yielded nothing.</p>
             <lb/>
-            <ab>-- <num type="page" value="2">2</num> --</ab>
+            <ab style="text-align: center;">-- <num type="page" value="2">2</num> --</ab>
             <pb facs="PLACEHOLDER" n="3"/>
             <p>After a study by <persName ref="#HarveyGSpeed">LT Harvey G. Speed</persName> of
                   <placeName ref="#NorthMuskegonMI">North Muskegon, Mich</placeName>, of aerial
@@ -239,7 +239,7 @@
                beard (moustache alone is insufficient), and the man must vow not to shave until he
                reaches the United States. If the man shaves or permits his beard</ab>
             <lb/>
-            <ab>-- <num>3</num> --</ab>
+            <ab style="text-align: center;">-- <num>3</num> --</ab>
             <pb facs="PLACEHOLDER" n="4"/>
             <ab>to be removed prior to arrival in the U.S., he must pay a penalty of $5 to every
                other member. At present this would cost $80.</ab>
@@ -265,7 +265,7 @@
                   Tenn.</placeName>; <persName ref="#HectorKLett">Hector K. Lett</persName>,
                Construction Driver 3/c, of <placeName ref="#KnoxvilleTN">Knoxville,
                   Tenn.</placeName>; <persName ref="#JerryFMann">Jerry F. Mann</persName>,
-               Utilitiesman 3/c, of <placeName ref="QuincyIL">Quincy, Ill.</placeName>; <persName
+               Utilitiesman 3/c, of <placeName ref="#QuincyIL">Quincy, Ill.</placeName>; <persName
                   ref="#FranklinOStackhouse">Franklin O. Stackhouse</persName>, Chief Aviation
                Electronics Technician, of <placeName ref="#MeadbillePA">Meadbille, Pa.</placeName>;
                   <persName ref="#BernardFVerboncouer">Bernard F. Verboncouer</persName>, Chief
@@ -306,7 +306,7 @@
             <lb/>
             <lb/>
             <lb/>
-            <ab>-- <num type="page" value="4">4</num> --</ab>
+            <ab style="text-align: center;">-- <num type="page" value="4">4</num> --</ab>
          </div>
       </body>
    </text>

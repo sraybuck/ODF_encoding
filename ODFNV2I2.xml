@@ -20,12 +20,13 @@
       <body>
          <pb n="1" facs="PLACEHOLDER"/>
          <div type="nameplate">
-            <head>OPERATION DEEP FREEZE NEWSLETTER</head>
+            <head style="text-decoration: underline; text-align: center; text-transform: uppercase;"
+               >Operation Deep Freeze Newsletter</head>
             <lb/>
             <ab>
-               <hi rend="left-align"><num type="volume" value="2">Volume II</num>, <num type="issue"
-                     value="2">Issue No. 2</num></hi>
-               <hi rend="right-align"><date when="1975-04-19">April 19,1957</date></hi>
+               <num type="volume" value="2">Volume II</num>, <num type="issue" value="2">Issue No.
+                  2</num>
+               <date style="text-align: right;" when="1975-04-19">April 19,1957</date>
             </ab>
             <lb/>
          </div>
@@ -172,7 +173,7 @@
                drifting and 10 feet of snow now cover the station.</p>
             <lb/>
 
-            <ab><hi rend="center-align"><num type="page" value="2">2</num></hi></ab>
+            <ab style="text-align: center;"><num type="page" value="2">2</num></ab>
             <pb facs="PLACEHOLDER" n="3"/>
          </div>
          <div type="article" subtype="LittleAmerica">
@@ -260,7 +261,7 @@
                operates as a miniature American government. It stimulates interest and provides good
                training in democracy.</p>
             <lb/>
-            <ab><hi rend="center-align"><num type="page" value="3">3</num></hi></ab>
+            <ab style="text-align: center;"><num type="page" value="3">3</num></ab>
             <pb facs="PLACEHOLDER" n="4"/>
          </div>
          <div type="article" subtype="AllBases">
@@ -340,7 +341,7 @@
                Meteorologist, of <placeName ref="#AppleValleyCA">Apple Valley, Calif.</placeName>,
                while making late evening weather observations. Everyone was awed by its</ab>
             <lb/>
-            <ab><hi rend="center-align"><num type="page" value="4">4</num></hi></ab>
+            <ab style="text-align: center;"><num type="page" value="4">4</num></ab>
             <pb facs="PLACEHOLDER" n="5"/>
             <ab>ghostly beauty. It looked light green to very pale red, and ran roughly north and
                south, making slow weaving motions.</ab>
@@ -434,7 +435,7 @@
                lessening twilight, two weeks after sunset and the beginning of the winter night,
                limited outside work still continues</ab>
             <lb/>
-            <ab><hi rend="center-align"><num type="page" value="5">5</num></hi></ab>
+            <ab style="text-align: center;"><num type="page" value="5">5</num></ab>
             <pb facs="PLACEHOLDER" n="6"/>
             <ab>at this isolate station. The temperatures, which has been consistently decreasing,
                rose during the day from minus 87 in the early morning to an unseasonably warm minus
@@ -476,7 +477,7 @@
                being accomplished with two DeHavilland Otter aircraft and one HO4S helicopter. Here
                again in the great Antarctic continent, responsibilities must fall upon a few.</p>
             <lb/>
-            <p>Such is the case of <persName ref="AtlesFLewis">Atles F. Lewis</persName>, aviation
+            <p>Such is the case of <persName ref="#AtlesFLewis">Atles F. Lewis</persName>, aviation
                mechanics for the Otter aircraft stationed here. In Antarctica each flight requires
                the flight mechanic to spend approximately three hours working on the aircraft prior
                to take-off. The facilities with which to work are few, and each plane must have the
@@ -488,12 +489,12 @@
                winter months, Lewis will be busy setting up shop and helping separate supplies
                stored in the aviation building.</p>
             <lb/>
-            <p>In October <persName ref="AtlesFLewis">Lewis'</persName> present enlistment will
+            <p>In October <persName ref="#AtlesFLewis">Lewis'</persName> present enlistment will
                expire, and he will be the first man to reenlist here. He has already decided on the
                next duty he desires. First he wants to go to flight engineers school and then to
                Hawaii for duty as a flight engineer on a Super Constellation.</p>
             <lb/>
-            <ab><hi rend="center-align"><num type="page" value="6">6</num></hi></ab>
+            <ab style="text-align: center;"><num type="page" value="6">6</num></ab>
             <pb facs="PLACEHOLDER" n="7"/>
          </div>
          <div type="article" subtype="LittleAmerica">
