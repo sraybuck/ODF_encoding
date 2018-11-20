@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="ODD/out/AntarcticDraft.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="ODD/out/AntarcticDraft.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>APPENDIX - Operation Deep Freeze Newsletter Volume 1 Issue 1</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <pb n="1" facs="PLACEHOLDER"/>
+         <div type="nameplate">
+            <head style="text-decoration: underline; text-align: center; text-transform: uppercase;"
+               >Operation Deep Freeze Newsletter</head>
+            <lb/>
+            <ab>
+               <num type="volume" value="2">Volume I</num>, <num type="issue" value="2">Issue No.
+                  1</num>
+               <date when="1975-04-19">April 8, 1957</date>
+            </ab>
+            <lb/>
+         </div>
+         <div type="article">
+            <p>(EDITORS NOTE: This is the first in a series of newsletters to dependents of men
+               wintering over in the Antarctic. Information in the newsletter comes principally from
+               material received by radio in Washington. Each base has been asked to file occasional
+               stories to let you know what is going on during the winter night in Antarctica.)</p>
+            <lb/>
+         </div>
+         <div type="article">
+            <div type="article" subtype="incubator">
+               <ab style="text-align: center;">OPERATION INCUBATOR</ab>
+               <lb/>
+               <p>LITTLE AMERICA (Delayed) -- (The following story was received from Little America
+                  Station via radio messages from Lt. John E. Zoller, CHC, USN, of Bonita Springs,
+                  Fla.) On Feb. 16, 1957, an air shipment of fresh eggs from New Zealand arrived at
+                  Little America. While inspecting the eggs Dental Officer Lt. Robert J. Adams, DC,
+                  USNR, of Memphis, Tenn., wondered if any of them were fertile. Assisted by William
+                  R. Burns, RM3, USN, of Flint, Mich., and Boyd D. Russell, RM3, USN, of Waco,
+                  Texas, they selected six for incubation. Even Richard H. Banasiak, CSI, USN, of
+                  Ballston Lake, N. Y., the cook, approved, perhaps with hope for future fresh eggs
+                  and poultry.</p>
+               <lb/>
+               <p>A Dental Incubator for scientific study of oral flora was utilized. Correct
+                  temperature to hatch eggs was unknown. We consulted a research man for a culture
+                  of a living virus within the egg. Yesterday, Dr. Adams handled the eggs. He was
+                  elated at two positive embryos and two possible ones. The dental laboratory is now
+                  the crossroads of the Little America Station. Everyone wants to see the eggs.
+                  Strict visiting hours have been set up. Interest is tremendous and there is much
+                  speculation as to sex, color, breed and birthdate of the unborn chick. All hands
+                  are anticipating the day the chicken will hatch. Estimated time of arrival is
+                  March 9th.</p>
+               <lb/>
+               <p>We believe this will be the first chicken ever hatched within the Antarctic
+                  Circle. If the chick survives, Dr. Adams plans to bring the history-making bird
+                  home. He says, "Considering the 3,000 mile flight from New Zealand, extended
+                  exposure to cold and the age of the egg, this is a miracle". "We almost anticipate
+                  the chicken will hatch with earmuffs and mukluks. I am beginning to know how an
+                  expectant mother feels".</p>
+               <lb/>
+               <p>A name is needed for such a fabulous fowl. Friends in the United States are
+                  invited to submit suggestions. A progress report will follow next week.</p>
+               <lb/>
+            </div>
+            <div type="article" subtype="incubator">
+               <ab>Operation Incubator Progress Report Two (Delayed) -- Preparations continue to
+                  welcome eagerly awaited chick. A deluxe corrugated box brooder fitted with the
+                  only 25-watt bulb at Little America keeps the temperature at a constant 98
+                  degrees. The brooder has an enclosed courtyard for exercise feeding and</ab>
+               <lb/>
+               <fw>(more-next page-more)</fw>
+               <pb facs="PLACEHOLDER" n="2"/>
+               <ab>ventilating.</ab>
+               <lb/>
+               <p>Lt. Adams narrowly averted a chick catastrophe when the power failed for three
+                  hours. Grasping an alcohol blowtorch, he rushed to the rescue and kept the
+                  incubator at the proper temperature using candle light illumination. Dr. Adams is
+                  becoming more like a mother hen every day. His face beams every time he handles
+                  eggs or discusses the chick.</p>
+               <lb/>
+               <p>A carefully concocted feed mix includes oatmeal, wheat grain, cornmeal, powdered
+                  eggs and milk. Expected chicks drinking water is spiked with terramycin and
+                  multiple vitamin complex. A crushed china dish and egg shells will provide
+                  roughage since no sand or gravel is available here.</p>
+               <lb/>
+               <p>The Little America Midwives Association is now an effective organ. They will
+                  commence egg inspection every half hour on March 7th and continue until the
+                  blessed event occurs. Dr. Adams has been designated the attending physician.
+                  Midwives are William R. Burns, Thomas Gehringer, CE3, USN, of Allentown, Pa., and
+                  Boyd D. Russell. The poor motherless chick will still need a name. Progress report
+                  three will follow next week. </p>
+               <lb/>
+            </div>
+            <div type="article" subtype="incubator">
+               <p>Operation Incubator Progress Report Three (Delayed) -- Sadness settled like soft
+                  snow over Little America March 10th when a tragic communique was issued from sick
+                  bay that the baby chick was stillborn. Grief-stricken obstetrician Dr. Adams and
+                  midwives Burns, Gehringer and Russell were nearly prostrate. Banasiak the cook
+                  accepted the news stoically. "It was too much to hope for I guess, fresh eggs and
+                  young friers all winter".</p>
+               <lb/>
+               <p>In the interest of science a post-mortem autopsy was performed by Medical Officer
+                  Lt. Pat B. Unger, MC, USNR, of Miami, Fla. He stated, "On close investigation I
+                  found an embryo of approximately ten days well formed". "Cause of death
+                  undetermined, however, evidence of Big Eye, scourge of the Antarctic, was
+                  present". Further investigation is pending.</p>
+               <lb/>
+               <p>Hope still remains for several other eggs being carefully nurtured in the
+                  incubator. Every conceivable precaution has been taken. We are trying to duplicate
+                  exactly the care of a mother hen. Eggs are being turned daily. Midwives are
+                  practicing how to cluck like a hen. We now have volunteers to massage the eggs
+                  with bushy beards in lieu of a caress by a mother hen's feathers. Another progress
+                  report will follow next week.</p>
+            </div>
+            <div type="article" subtype="incubator">
+               <ab>Operation Incubator Progress Report Four (Delayed) -- No stone has been left
+                  unturned in our all out effort to <choice>
+                     <sic>insure</sic>
+                     <corr>ensure</corr>
+                  </choice> that the final dozen eggs left here at Little America Station by the
+                  Coast Guard icebreaker NORTHWIND on her last cruise into the Antarctic produce a
+                  live chick. The eggs were transferred from the NORTHWIND to Little America Station
+                  and carefully handled between the </ab>
+               <lb/>
+               <fw>(more-next page-more)</fw>
+
+               <pb facs="PLACEHOLDER" n="3"/>
+
+               <ab>ship and the base by Dr. Adams. All hope has now been abandoned for the former
+                  eggs.</ab>
+               <lb/>
+               <p>Tender, loving care for the eggs includes daily turning by clucking midwives with
+                  fingers covered in feathers from a pillow and daily puzzling with a curly beard by
+                  William F. Kraut, RM, USN, of Bridgeport, Conn. Two eggs are being nurtured by
+                  Harold E. <choice>
+                     <sic>Buelter</sic>
+                     <corr>Butler</corr>
+                  </choice>, HM, USN, of East St. Louis, Ill., in a replica of a hen's nest
+                  constructed from cotton fixed atop an old steam iron which provides thermostat
+                  heat control and humidity. The thermostat failed recently and Butler became an
+                  emergency human incubator, gently cradling the eggs under his arm. The thermostat
+                  registers the exact correct temperature. Somewhat surprised, Butler asked, "What
+                  does that make me"?</p>
+               <lb/>
+               <p>In order to determine the amount of time to keep the eggs out of the incubator,
+                  corresponding to the time a hen would be off the nest, a meticulous stop-watch
+                  study of mother hen's routine and actions has been made. For an accurate estimate,
+                  guinea pig Butler attempted to duplicate the exact action of the hen. His comment
+                  was, "It sure is different chewing raw oatmeal and tilting my head back to
+                  swallow". "I'm glad to do it, but the study was not complete, for some actions
+                  which are not native to a hen I cannot duplicate". Progress report five will
+                  follow next week.</p>
+               <lb/>
+            </div>
+            <div type="article" subtype="incubator">
+               <p>Operation Incubator Progress Report Five (Delayed) -- This is "the long Wait". Day
+                  after day the eggs look the same. What goes on inside the eggs is an unseen vital
+                  matter. All personnel here are hoping there will be a chick for Easter.</p>
+               <lb/>
+               <p>Today Dr. Adams himself handled and turned the eggs gently. He reported some
+                  change since handling them a week ago. "Should know for sure if we will have a
+                  chick in two weeks", he said.</p>
+               <lb/>
+               <p>Several days ago Butler discussed the project via Ham Phone Patch with his father,
+                  Robert F. Butler, an ex-farmer of East St. Louis, Ill., through the facilities of
+                  Ham Radio WOOBJ, Preston A. Richardson of Ladue, Mo. Mr. Butler verified the
+                  correct temperature, <choice>
+                     <sic>freqnency</sic>
+                     <corr>frequency</corr>
+                  </choice> of turning the eggs and the incubator period but he warned against
+                  expecting too much because of the long exposure to cold prior to incubation and
+                  the unlikely fact that fertile eggs <choice>
+                     <sic>wuuld</sic>
+                     <corr>would</corr>
+                  </choice> be found in commercial stock for consumption.</p>
+               <lb/>
+               <ab>Nevertheless, all hands at Little America are doing their utmost in their spare
+                  time for success.</ab>
+               <lb/>
+               <ab>(EDITORS NOTE: The Operation Deep Freeze Newsletter will carry the results of
+                  Operation Incubator in its next edition. Final results of the Operation had not
+                  been transmitted from Little America at mailing time.)</ab>
+               <lb/>
+            </div>
+            <fw>(more-next page-more)</fw>
+         </div>
+      </body>
+   </text>
+</TEI>
