@@ -2,7 +2,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>ODF Newsletters ODD ROUND 4</title>
+        <title>ODF Newsletters ODD for exist-db</title>
       </titleStmt>
       <publicationStmt>
         <publisher>eXistSolutions GmbH</publisher>
@@ -42,13 +42,124 @@
         <moduleRef key="tagdocs" include="att code gi ident"/>
         <moduleRef key="tei"/>
         <moduleRef key="textstructure" except="div1 div2 div3 div4 div5 div6 div7"/>
-        <moduleRef key="transcr" include=""/>
-        <moduleRef key="namesdates"
-          include="listRelation listPlace listPerson persName placeName orgName roleName personGrp geo affiliation age birth death education nationality location relation occupation person place org state"/>
-        <!--make xml_:id required on person and place-->
-        <elementSpec ident="place" module="namesdates" mode="change">
+        <moduleRef key="transcr" include="fw"/>
+        <moduleRef key="namesdates" include="listRelation listPlace listPerson persName placeName orgName roleName personGrp geo affiliation age birth death education nationality location relation occupation person place org state"/>
+        <elementSpec ident="ab" module="core" mode="change">
+            <modelGrp>
+            <model behaviour="block" predicate=".[@type eq 'section-head']">
+                <outputRendition>
+                    font-family: "Courier New", Courier, monospace;
+                    text-align: center;
+                    font-size: 1.2 em;
+                    text-decoration: underline;
+                    padding-bottom: 10px;
+                </outputRendition>
+            </model>
+            <model behaviour="block">
+                <outputRendition>
+                    font-family: "Courier New", Courier, monospace;
+                    margin-bottom: 10px;
+                    clear: both;
+                </outputRendition>
+            </model>
+            </modelGrp>
+        </elementSpec>
+        <elementSpec ident="bibl" module="core" mode="change">
+            <model behaviour="block"/>
+        </elementSpec>
+        <elementSpec ident="choice" mode="change">
+            <model predicate="sic and corr" behaviour="alternate">
+                <param name="default" value="corr"/>
+                <param name="alternate" value="sic"/>
+            </model>
+        </elementSpec>
+        <elementSpec ident="date" module="namesdates" mode="change">
+            <model behaviour="inline" predicate=".[ancestor::div[@type eq 'nameplate']]">
+                <outputRendition>
+                    float: right;
+                    display: inline-block;
+                </outputRendition>
+            </model>
+        </elementSpec>
+        <elementSpec ident="div" module="textstructure" mode="change">
           <attList>
-            <attDef ident="xml:id" mode="change" usage="req"/>
+            <attDef ident="type" mode="change" usage="req"/>
+          </attList>
+            <model behaviour="block" predicate=".[@type eq 'article']">
+                <outputRendition>
+                    padding-bottom: 15px;
+                </outputRendition>
+            </model>
+        </elementSpec>
+        <elementSpec ident="fw" module="transcr" mode="change">
+          <modelGrp>
+            <model behaviour="block" predicate=".[@type eq 'header']">
+            <outputRendition>
+                text-align: left;
+                text-decoration: underline;
+                font-family: "Courier New", Courier, monospace;
+                padding-bottom: 10px;
+            </outputRendition>
+          </model>
+          <model behaviour="block">
+            <outputRendition>
+                text-align: center;
+                font-family: "Courier New", Courier, monospace;
+            </outputRendition>
+          </model>
+          </modelGrp>
+        </elementSpec>
+        <elementSpec ident="head" module="core" mode="change">
+            <model behaviour="block">
+                <outputRendition>
+                    font-family: "Courier New", Courier, monospace;
+                    font-size: 1.7em;
+                    padding-bottom: 10px;
+                    text-align: center;
+                </outputRendition>
+             </model>
+        </elementSpec>
+        <elementSpec ident="lb" module="core" mode="change">
+            <model behaviour="omit"/>
+        </elementSpec>
+        <elementSpec ident="num" module="core" mode="change">
+            <model behaviour="inline" predicate=".[ancestor::div[@type eq 'nameplate']]">
+                <outputRendition>
+                    float: left;
+                    display: inline-block;
+                    padding-right: 15px;
+                </outputRendition>
+            </model>
+        </elementSpec>
+        <elementSpec ident="orgName" module="namesdates" mode="change">
+          <attList>
+            <attDef ident="ref" mode="change" usage="req"/>
+          </attList>
+        </elementSpec>
+        <elementSpec ident="p" module="core" mode="change">
+          <model behaviour="block">
+            <outputRendition>
+                font-family: "Courier New", Courier, monospace;
+                margin-bottom: 10px;
+                clear: both;
+            </outputRendition>
+          </model>
+        </elementSpec>
+        <elementSpec ident="pb" module="core" mode="change">
+          <attList>
+            <attDef ident="facs" mode="change" usage="req"/>
+            <attDef ident="n" mode="change" usage="req"/>
+          </attList>
+          <model behaviour="omit"/>
+        </elementSpec>
+        <elementSpec ident="placeName" module="namesdates" mode="change">
+          <attList>
+            <attDef ident="ref" mode="change" usage="req"/>
+          </attList>
+        </elementSpec>
+        <elementSpec ident="persName" module="namesdates" mode="add">
+          <attList>
+            <attDef ident="ref" mode="change" usage="req"/>
           </attList>
         </elementSpec>
         <elementSpec ident="person" module="namesdates" mode="change">
@@ -56,23 +167,11 @@
             <attDef ident="xml:id" mode="change" usage="req"/>
           </attList>
         </elementSpec>
-        <!--make @ref attribute required on <persName>, <placeName>, <orgName>, and <rs>-->
-        <elementSpec ident="persName" module="namesdates" mode="add">
-          <model behaviour="inline" output="web">
-            <outputRendition> color: #f45342; </outputRendition>
-          </model>
-        </elementSpec>
-        <elementSpec ident="placeName" module="namesdates" mode="change">
+        <elementSpec ident="place" module="namesdates" mode="change">
           <attList>
-            <attDef ident="ref" mode="change" usage="req"/>
+            <attDef ident="xml:id" mode="change" usage="req"/>
           </attList>
         </elementSpec>
-        <elementSpec ident="orgName" module="namesdates" mode="change">
-          <attList>
-            <attDef ident="ref" mode="change" usage="req"/>
-          </attList>
-        </elementSpec>
-        <!--closed list on @type of <rs>-->
         <elementSpec ident="rs" mode="change" module="core">
           <attList>
             <attDef ident="ref" mode="change" usage="req"/>
@@ -88,40 +187,7 @@
             </attDef>
           </attList>
         </elementSpec>
-        <!--@type attribute required on <div>-->
-        <elementSpec ident="div" module="textstructure" mode="change">
-          <attList>
-            <attDef ident="type" mode="change" usage="req"/>
-          </attList>
-        </elementSpec>
-        <!--@facs and @n attributes required on <pb/>-->
-        <elementSpec ident="pb" module="core" mode="change">
-          <attList>
-            <attDef ident="facs" mode="change" usage="req"/>
-            <attDef ident="n" mode="change" usage="req"/>
-          </attList>
-          <model behaviour="omit"/>
-        </elementSpec>
-        <elementSpec ident="p" module="core" mode="change">
-          <model behaviour="inline">
-            <outputRendition> font-family: "Courier New", "Courier", Times, sans-serif; </outputRendition>
-          </model>
-        </elementSpec>
-        <elementSpec ident="ab" module="core" mode="change">
-          <model behaviour="inline">
-            <outputRendition> font-family: "Courier New", "Courier", Times, sans-serif; </outputRendition>
-          </model>
-        </elementSpec>
-        <elementSpec ident="head" module="core" mode="change">
-          <model behaviour="inline">
-            <outputRendition>
-              font-family: "Courier New", "Courier", Times, sans-serif;
-              font-size: 1.5em;
-            </outputRendition>
-          </model>
-        </elementSpec>
       </schemaSpec>
-
     </body>
   </text>
 </TEI>
